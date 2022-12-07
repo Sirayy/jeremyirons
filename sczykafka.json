@@ -1,0 +1,8 @@
+{
+"sczykafka":{
+"tworzywo": "plastik",
+"klikadelko": 1,
+"minklik": 1,
+"czesci_strzykafki": ["klikadelko", "tuba", "igla"]
+}
+}
