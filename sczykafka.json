@@ -3,6 +3,6 @@
 "tworzywo": "plastik",
 "klikadelko": 1,
 "minklik": 1,
-"czesci_strzykafki": ["klikadelko", "tuba", "igla"]
+"elementy_sczykawy": ["cykadelko", "kuba", "ssawka"]
 }
 }
