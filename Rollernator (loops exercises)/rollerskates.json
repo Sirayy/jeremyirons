@@ -1,0 +1,172 @@
+{
+  "rollerskates": [
+    {
+        "brand": "RollerCo",
+        "model": "SpeedX",
+        "colors": ["red", "blue", "black"],
+        "sizes": [36, 38, 40, 42],
+        "price": 79.99
+    },
+    {
+        "brand": "SkatePro",
+        "model": "StreetBlade",
+        "colors": ["black", "white", "purple"],
+        "sizes": [37, 39, 41, 43],
+        "price": 89.99
+    },
+    {
+        "brand": "RollerMax",
+        "model": "ProGlide",
+        "colors": ["green", "yellow"],
+        "sizes": [36, 37, 38, 39, 40, 41, 42, 43],
+        "price": 99.99
+    },
+    {
+        "brand": "RollerStar",
+        "model": "SpeedRacer",
+        "colors": ["silver", "purple"],
+        "sizes": [37, 38, 39, 40, 41],
+        "price": 84.99
+    },
+    {
+        "brand": "SkateLine",
+        "model": "Airflow",
+        "colors": ["black", "pink", "orange"],
+        "sizes": [38, 40, 42],
+        "price": 79.99
+    },
+    {
+        "brand": "RollerPro",
+        "model": "MaxGrip",
+        "colors": ["blue", "white"],
+        "sizes": [39, 41, 43],
+        "price": 89.99
+    },
+    {
+        "brand": "SkateZone",
+        "model": "BladeLite",
+        "colors": ["black", "red", "blue"],
+        "sizes": [36, 37, 38, 39, 40, 41, 42, 43],
+        "price": 99.99
+    },
+    {
+        "brand": "RollerTech",
+        "model": "SpeedMaster",
+        "colors": ["yellow", "green"],
+        "sizes": [38, 40, 42],
+        "price": 84.99
+    },
+    {
+        "brand": "SkateStar",
+        "model": "XtremeGlide",
+        "colors": ["pink", "purple", "black"],
+        "sizes": [37, 39, 41, 43],
+        "price": 79.99
+    },
+    {
+        "brand": "RollerGlide",
+        "model": "PowerFlex",
+        "colors": ["red", "black"],
+        "sizes": [36, 37, 38, 39, 40, 41, 42, 43],
+        "price": 89.99
+    },
+    {
+        "brand": "SkateMax",
+        "model": "SuperFlow",
+        "colors": ["blue", "white"],
+        "sizes": [38, 40, 42],
+        "price": 99.99
+    },
+    {
+        "brand": "RollerBlade",
+        "model": "TurboFlash",
+        "colors": ["black", "green"],
+        "sizes": [37, 39, 41, 43],
+        "price": 84.99
+    },
+    {
+        "brand": "SkateTech",
+        "model": "AirRide",
+        "colors": ["red", "blue", "yellow"],
+        "sizes": [36, 38, 40, 42],
+        "price": 79.99
+    },
+    {
+        "brand": "RollerPro",
+        "model": "GripMax",
+        "colors": ["black", "white"],
+        "sizes": [37, 39, 41, 43],
+        "price": 89.99
+    },
+    {
+        "brand": "SkateZone",
+        "model": "EliteBlade",
+        "colors": ["black", "purple", "silver"],
+        "sizes": [36, 37, 38, 39, 40, 41, 42, 43],
+        "price": 99.99
+    },
+    {
+        "brand": "RollerTech",
+        "model": "TurboMaster",
+        "colors": ["green", "blue"],
+        "sizes": [38, 40, 42],
+        "price": 84.99
+    },
+    {
+        "brand": "SkateStar",
+        "model": "SpeedGlide",
+        "colors": ["pink", "purple", "black"],
+        "sizes": [37, 39, 41, 43],
+        "price": 79.99
+    },
+    {
+        "brand": "RollerGlide",
+        "model": "FlexPower",
+        "colors": ["red", "black"],
+        "sizes": [36, 37, 38, 39, 40, 41, 42, 43],
+        "price": 89.99
+    },
+    {
+        "brand": "SkateMax",
+        "model": "UltraFlow",
+        "colors": ["blue", "white"],
+        "sizes": [38, 40, 42],
+        "price": 99.99
+    },
+    {
+        "brand": "RollerBlade",
+        "model": "ProGlide",
+        "colors": ["black", "green"],
+        "sizes": [37, 39, 41, 43],
+        "price": 84.99
+    },
+    {
+        "brand": "SkateTech",
+        "model": "XtremeSpeed",
+        "colors": ["purple", "silver", "black"],
+        "sizes": [36, 38, 40, 42],
+        "price": 79.99
+    },
+    {
+        "brand": "RollerCo",
+        "model": "TurboX",
+        "colors": ["black", "white"],
+        "sizes": [37, 39, 41, 43],
+        "price": 89.99
+    },
+    {
+        "brand": "SkatePro",
+        "model": "RacerBlade",
+        "colors": ["red", "blue", "silver"],
+        "sizes": [36, 37, 38, 39, 40, 41, 42, 43],
+        "price": 99.99
+    },
+    {
+        "brand": "RollerMax",
+        "model": "SuperGrip",
+        "colors": ["green", "yellow"],
+        "sizes": [38, 40, 42],
+        "price": 84.99
+    }
+]
+}

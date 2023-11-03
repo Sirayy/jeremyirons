@@ -1,0 +1,1001 @@
+cloud_vendor|event_datetime|brand|active|sales|service
+Microsoft Azure|2023-03-23T17:37:16Z|Witold's and Jerzy's|true|2212|Azure Cosmos DB
+Alibaba Cloud|2022-08-19T22:05:41Z|Xen|false|1687|Azure Blob Storage
+Google Cloud Platform (GCP)|2022-11-17T18:28:42Z|Kloburg|false|756|Azure Blob Storage
+Microsoft Azure|2023-05-12T00:57:06Z|Holoubek Corp|false|3035|Azure Cosmos DB
+Amazon Web Services (AWS)|2022-04-09T19:58:01Z|Kumciaczkos|false|4816|Amazon RDS
+Oracle Cloud|2023-02-06T12:21:25Z|Sznippers|true|3364|Amazon S3
+Microsoft Azure|2020-10-27T13:06:43Z|Kumciaczkos|true|716|Azure SQL Database
+Alibaba Cloud|2020-08-21T07:47:07Z|Witold's and Jerzy's|false|4034|Google Cloud Storage
+Amazon Web Services (AWS)|2022-10-25T09:27:44Z|Witold's and Jerzy's|true|4012|Google Cloud Datastore
+Oracle Cloud|2020-10-01T07:09:25Z|Kloburg|false|2704|Google Cloud Datastore
+Google Cloud Platform (GCP)|2022-11-03T12:35:00Z|Kloburg|false|2512|Amazon S3
+Oracle Cloud|2020-04-28T19:00:17Z|Kloburg|true|4643|Azure Functions
+Microsoft Azure|2022-05-29T14:34:43Z|Kloburg|true|2921|Google Compute Engine
+Amazon Web Services (AWS)|2022-12-11T07:47:39Z|Sznippers|false|2336|Azure Functions
+Oracle Cloud|2022-01-29T15:43:24Z|Xen|true|4338|Azure SQL Database
+Amazon Web Services (AWS)|2022-06-29T18:30:55Z|Miautex|false|2573|Google Cloud Storage
+Oracle Cloud|2022-01-28T04:37:47Z|Sznippers|false|3979|Azure Virtual Machines
+Alibaba Cloud|2021-11-19T08:46:18Z|Sznippers|true|4447|Azure SQL Database
+Oracle Cloud|2021-06-13T00:10:10Z|Miautex|true|2573|Amazon EC2
+Microsoft Azure|2021-01-01T07:48:42Z|Kloburg|true|4513|Amazon EC2
+Oracle Cloud|2021-12-28T02:08:41Z|Sznippers|false|1934|Amazon DynamoDB
+Google Cloud Platform (GCP)|2023-04-21T07:02:00Z|Holoubek Corp|false|2721|Google Cloud Datastore
+IBM Cloud|2023-03-31T01:47:57Z|Witold's and Jerzy's|true|1276|Amazon DynamoDB
+Alibaba Cloud|2020-09-24T10:02:43Z|Witold's and Jerzy's|true|679|Azure Cosmos DB
+IBM Cloud|2021-12-27T05:00:30Z|Miautex|true|3031|Amazon S3
+Alibaba Cloud|2020-09-30T05:19:30Z|
+Alibaba Cloud|2022-09-14T16:00:40Z|Sznippers|false|3523|Amazon DynamoDB
+Alibaba Cloud|2021-04-17T16:50:01Z|Witold's and Jerzy's|true|1253|Google Compute Engine
+IBM Cloud|2022-04-02T19:39:20Z|Sznippers|false|4509|Google Compute Engine
+IBM Cloud|2021-12-29T08:21:16Z|Xen|false|1657|Azure Blob Storage
+Oracle Cloud|2022-05-13T09:35:21Z|Sznippers|false|4611|Azure SQL Database
+IBM Cloud|2020-08-19T14:42:25Z|Witold's and Jerzy's|true|3891|Azure SQL Database
+Oracle Cloud|2023-05-16T23:11:56Z|Xen|false|1911|Azure Cosmos DB
+Alibaba Cloud|2022-09-29T03:23:00Z|Sznippers|true|3371|Google Cloud Datastore
+Microsoft Azure|2020-11-28T09:34:49Z|Kloburg|true|4411|Amazon S3
+Google Cloud Platform (GCP)|2021-06-27T13:57:49Z|Miautex|true|400|Amazon RDS
+Oracle Cloud|2022-02-13T17:01:46Z|Kumciaczkos|false|2402|Google Cloud SQL
+Google Cloud Platform (GCP)|2023-02-10T16:00:14Z|Kumciaczkos|true|4524|Azure Blob Storage
+Amazon Web Services (AWS)|2021-01-01T06:37:10Z|Miautex|false|897|AWS Lambda
+Amazon Web Services (AWS)|2023-01-08T20:41:41Z|Holoubek Corp|false|3139|Google Cloud Functions
+Google Cloud Platform (GCP)|2020-11-25T14:46:01Z|Witold's and Jerzy's|true|1443|Azure SQL Database
+Microsoft Azure|2021-12-02T16:34:01Z|Witold's and Jerzy's|true|1044|Google Cloud Datastore
+Microsoft Azure|2020-09-02T10:27:29Z|Witold's and Jerzy's|false|1087|Amazon EC2
+Alibaba Cloud|2021-08-09T10:39:50Z|Xen|false|3183|Google Cloud Storage
+Microsoft Azure|2020-09-01T03:43:58Z|Holoubek Corp|false|3674|Azure Blob Storage
+Amazon Web Services (AWS)|2023-05-02T20:57:59Z|Miautex|true|1735|Azure SQL Database
+Amazon Web Services (AWS)|2022-06-17T05:10:36Z|Witold's and Jerzy's|false|2614|Google Cloud Datastore
+Oracle Cloud|2022-03-15T16:48:20Z|Holoubek Corp|true|676|Google Cloud Datastore
+Google Cloud Platform (GCP)|2022-11-26T20:13:25Z|Sznippers|true|1765|Azure Virtual Machines
+Amazon Web Services (AWS)|2022-08-06T22:16:15Z|Sznippers|true|1400|Azure Blob Storage
+IBM Cloud|2023-02-04T01:04:58Z|Sznippers|false|2372|Google Cloud Datastore
+Amazon Web Services (AWS)|2023-03-09T20:08:40Z|Kloburg|false|1311|Amazon EC2
+Google Cloud Platform (GCP)
+Amazon Web Services (AWS)|2021-02-22T10:37:27Z|Miautex|true|2943|Azure Virtual Machines
+Alibaba Cloud|2022-01-04T21:50:26Z|Kumciaczkos|true|1974|Google Cloud Storage
+Oracle Cloud|2020-09-22T03:24:34Z|Holoubek Corp|true|2223|Google Cloud SQL
+Amazon Web Services (AWS)|2020-07-05T10:30:34Z|Xen|false|3324|Amazon EC2
+Google Cloud Platform (GCP)|2023-05-04T03:31:01Z|Xen|true|1623|Azure Cosmos DB
+Oracle Cloud|2020-12-05T06:12:30Z|Xen|true|2883|Azure SQL Database
+Google Cloud Platform (GCP)|2022-06-11T08:15:28Z|Kloburg|false|2367|Azure Virtual Machines
+Oracle Cloud|2020-09-06T07:01:53Z|Xen|false|3099|Azure Virtual Machines
+Microsoft Azure|2020-10-30T13:21:10Z|Holoubek Corp|false|2130|Google Cloud Datastore
+Google Cloud Platform (GCP)|2021-12-03T13:41:28Z|Miautex|false|4253|Amazon EC2
+Microsoft Azure|2023-04-05T04:37:42Z|Holoubek Corp|false|4416|Google Cloud Datastore
+Microsoft Azure|2022-05-09T07:52:24Z|Kumciaczkos|false|3170|Amazon RDS
+Microsoft Azure|2021-03-16T14:06:30Z|Kloburg|true|2700|Amazon DynamoDB
+Alibaba Cloud|2020-06-13T09:05:02Z|Xen|false|4128|Azure Virtual Machines
+Oracle Cloud|2020-11-29T22:12:04Z|Kloburg|false|2453|Azure SQL Database
+Amazon Web Services (AWS)|2020-06-19T08:43:06Z|Holoubek Corp|true|1169|Azure Blob Storage
+Oracle Cloud|2022-04-15T10:17:56Z|Holoubek Corp|true|986|Amazon RDS
+Amazon Web Services (AWS)|2020-04-21T20:21:57Z|Kumciaczkos|true|1175|Azure Cosmos DB
+Amazon Web Services (AWS)|2022-05-22T15:03:31Z|Miautex|true|1824|Amazon EC2
+Alibaba Cloud|2022-10-04T17:23:54Z|Miautex|false|2049|Amazon EC2
+IBM Cloud|2021-09-19T05:14:07Z|Witold's and Jerzy's|false|3349|Google Cloud SQL
+Google Cloud Platform (GCP)|2023-05-19T02:48:51Z|Xen|false|1343|Google Cloud SQL
+Alibaba Cloud|2022-04-11T01:45:04Z|Miautex|true|3947|Amazon RDS
+IBM Cloud|2021-05-29T08:18:38Z|Kloburg|true|2244|Amazon S3
+IBM Cloud|2021-04-27T18:34:12Z|Miautex|false|4478|Azure Blob Storage
+Google Cloud Platform (GCP)|2021-01-25T10:24:53Z|Kumciaczkos|true|4237|Google Cloud Functions
+Alibaba Cloud|2022-06-03T10:39:30Z|Kloburg|false|554|Amazon RDS
+Microsoft Azure|2022-03-04T17:04:11Z|Xen|false|654|Google Cloud Storage
+Microsoft Azure|2020-05-09T22:38:02Z|Kloburg|false|4342|Amazon DynamoDB
+IBM Cloud|2020-09-12T07:08:24Z|Sznippers|false|760|Google Cloud SQL
+Oracle Cloud|2021-01-12T05:31:32Z|Holoubek Corp|true|3763|Azure Virtual Machines
+IBM Cloud|2021-12-22T07:28:32Z|Witold's and Jerzy's|false|3683|Google Cloud Functions
+Amazon Web Services (AWS)|2020-09-22T12:31:31Z|Sznippers|false|2376|Amazon RDS
+Amazon Web Services (AWS)|2021-12-30T18:41:11Z|Witold's and Jerzy's|true|671|AWS Lambda
+Google Cloud Platform (GCP)|2022-07-23T20:33:25Z|Xen|false|839|Azure Virtual Machines
+Microsoft Azure|2021-02-14T03:15:58Z|Miautex|true|1008|Google Cloud SQL
+IBM Cloud|2021-12-13T08:15:53Z|Xen|false|3512|Google Compute Engine
+Alibaba Cloud|2022-07-24T18:48:36Z|Xen|true|2103|Azure Cosmos DB
+Oracle Cloud|2022-07-25T11:33:59Z|Miautex|false|2545|Amazon S3
+Oracle Cloud|2022-04-17T01:43:53Z|Sznippers|true|1692|Amazon DynamoDB
+IBM Cloud|2020-06-28T02:26:55Z|Miautex|true|932|Amazon RDS
+Oracle Cloud|2020-06-22T10:08:09Z|Miautex|true|3432|Azure Functions
+IBM Cloud|2021-03-27T16:51:50Z|Kumciaczkos|false|665|Azure Functions
+Oracle Cloud|2021-10-28T11:32:23Z|Witold's and Jerzy's|false|745|Google Compute Engine
+Amazon Web Services (AWS)|2020-05-14T16:58:40Z|Kloburg|false|2552|Azure SQL Database
+Google Cloud Platform (GCP)|2022-05-08T05:38:34Z|Kloburg|true|911|Azure SQL Database
+Oracle Cloud|2023-02-16T23:59:27Z|Kumciaczkos|false|4122|Amazon EC2
+Alibaba Cloud|2020-05-17T06:57:35Z|Kumciaczkos|true|751|Google Cloud Storage
+Alibaba Cloud|2020-08-18T09:43:27Z|Miautex|true|1695|AWS Lambda
+Oracle Cloud|2021-12-14T18:06:09Z|Witold's and Jerzy's|false|4758|Google Cloud Storage
+Amazon Web Services (AWS)|2021-07-20T18:42:59Z|Sznippers|false|3796|Azure SQL Database
+Google Cloud Platform (GCP)|2021-06-11T05:52:58Z|Miautex|false|999|Google Cloud Storage
+Alibaba Cloud|2022-05-20T14:21:35Z|Holoubek Corp|false|4388|Google Cloud SQL
+Microsoft Azure|2022-12-04T13:16:30Z|Xen|false|2126|Azure Blob Storage
+Oracle Cloud|2022-05-06T06:02:42Z|Holoubek Corp|false|4743|Google Cloud Storage
+Alibaba Cloud|2021-08-25T04:28:39Z|Witold's and Jerzy's|false|737|Google Cloud Storage
+Google Cloud Platform (GCP)|2022-10-27T02:45:02Z|Holoubek Corp|false|1619|AWS Lambda
+Oracle Cloud|2021-12-12T12:43:37Z|Miautex|false|3837|Amazon RDS
+Alibaba Cloud|2021-11-19T05:22:36Z|Holoubek Corp|false|3027|Azure Cosmos DB
+Microsoft Azure|2022-07-06T15:39:35Z|Witold's and Jerzy's|false|3743|Amazon EC2
+Google Cloud Platform (GCP)|2021-07-13T10:08:04Z|Miautex|true|1635|Google Cloud Functions
+Amazon Web Services (AWS)|2020-05-08T17:37:54Z|Kumciaczkos|false|3156|Azure Virtual Machines
+Oracle Cloud|2020-10-27T12:49:33Z|Kumciaczkos|true|4469|Amazon S3
+Oracle Cloud|2020-12-25T12:36:17Z|Xen|true|3089|Azure SQL Database
+IBM Cloud|2022-04-29T05:14:45Z|Miautex|false|1578|Google Cloud SQL
+Amazon Web Services (AWS)|2022-08-12T19:45:47Z|Witold's and Jerzy's|false|3798|Amazon RDS
+Oracle Cloud|2020-12-07T04:13:01Z|Xen|false|2731|Google Cloud SQL
+IBM Cloud|2022-10-22T07:01:07Z|Kumciaczkos|true|2556|Google Cloud Storage
+Alibaba Cloud|2020-06-19T09:01:42Z|Kumciaczkos|true|4869|Google Cloud Functions
+Amazon Web Services (AWS)|2021-04-23T09:08:01Z|Kloburg|true|3305|Google Cloud SQL
+Oracle Cloud|2020-07-24T13:15:26Z|Sznippers|false|2079|Amazon S3
+IBM Cloud|2022-10-09T12:31:51Z|Kumciaczkos|false|2373|Azure Blob Storage
+IBM Cloud|2020-10-31T12:03:56Z|Holoubek Corp|false|3012|Azure Virtual Machines
+Microsoft Azure|2020-06-04T17:50:44Z|Kumciaczkos|true|4423|Azure SQL Database
+IBM Cloud|2022-12-31T06:30:20Z|Miautex|false|1841|Amazon EC2
+Microsoft Azure|2020-11-16T02:48:37Z|Witold's and Jerzy's|true|2035|Google Cloud Datastore
+IBM Cloud|2023-03-21T23:36:27Z|Witold's and Jerzy's|false|4858|Amazon RDS
+Google Cloud Platform (GCP)|2021-12-27T13:37:50Z|Witold's and Jerzy's|true|4344|Google Cloud Storage
+Amazon Web Services (AWS)|2021-08-08T14:14:23Z|Kumciaczkos|true|3474|Google Cloud Datastore
+Google Cloud Platform (GCP)|2021-02-03T06:41:41Z|Witold's and Jerzy's|false|2117|Azure Cosmos DB
+Alibaba Cloud|2022-04-13T03:09:14Z|Miautex|true|2059|Amazon RDS
+IBM Cloud|2023-01-02T18:28:46Z|Holoubek Corp|false|2571|Azure SQL Database
+Oracle Cloud|2022-01-14T13:31:52Z|Holoubek Corp|true|2245|Google Cloud Datastore
+Oracle Cloud|2022-08-03T20:30:42Z|Holoubek Corp|true|1583|AWS Lambda
+Alibaba Cloud|2022-08-18T02:58:23Z|Kloburg|true|876|Azure SQL Database
+Oracle Cloud|2023-05-23T16:02:39Z|Miautex|true|4353|Google Cloud SQL
+Microsoft Azure|2022-01-28T21:38:46Z|Witold's and Jerzy's|false|2286|Google Cloud Storage
+Alibaba Cloud|2020-06-24T02:45:24Z|Holoubek Corp|false|3505|AWS Lambda
+Oracle Cloud|2022-10-04T22:47:02Z|Miautex|false|3742|Google Cloud Functions
+IBM Cloud|2021-06-24T19:09:47Z|Holoubek Corp|false|2662|Amazon RDS
+Google Cloud Platform (GCP)|2022-09-19T17:27:39Z|Holoubek Corp|true|2246|Google Cloud Storage
+Oracle Cloud|2022-12-10T16:48:38Z|Kloburg|false|4264|Amazon DynamoDB
+Amazon Web Services (AWS)|2022-08-21T23:19:16Z|Kumciaczkos|false|3779|Google Cloud Functions
+Microsoft Azure|2022-08-22T16:19:16Z|Xen|true|4778|Google Cloud Functions
+Alibaba Cloud|2021-10-06T20:59:48Z|Xen|false|3870|Azure Cosmos DB
+Alibaba Cloud|2022-10-01T23:18:06Z|Kloburg|true|4655|Google Cloud Functions
+Microsoft Azure|2021-05-25T22:43:35Z|Miautex|false|998|Amazon EC2
+Amazon Web Services (AWS)|2020-09-16T01:07:05Z|Kloburg|true|4228|Azure Blob Storage
+IBM Cloud|2023-01-13T10:43:01Z|Sznippers|false|2741|Azure Virtual Machines
+Alibaba Cloud|2021-03-17T22:38:50Z|Sznippers|false|3401|Azure Functions
+Microsoft Azure|2020-07-14T00:01:16Z|Holoubek Corp|true|2482|Google Cloud Storage
+Amazon Web Services (AWS)|2023-03-31T13:09:56Z|Sznippers|false|2923|AWS Lambda
+Oracle Cloud|2021-01-03T18:04:02Z|Witold's and Jerzy's|false|3990|Amazon RDS
+Amazon Web Services (AWS)|2021-12-11T01:45:33Z|Kloburg|false|1832|Amazon S3
+Amazon Web Services (AWS)|2021-05-29T09:25:14Z|Witold's and Jerzy's|false|3140|Google Compute Engine
+Alibaba Cloud|2022-01-06T00:37:54Z|Holoubek Corp|true|2232|Amazon DynamoDB
+Google Cloud Platform (GCP)|2022-01-06T00:16:29Z|Xen|true|3978|Azure Virtual Machines
+Microsoft Azure|2021-09-11T02:33:37Z|Sznippers|false|2629|Azure Cosmos DB
+IBM Cloud|2020-08-30T01:16:58Z|Xen|true|2770|Azure SQL Database
+Microsoft Azure|2021-03-21T13:29:48Z|Xen|true|1908|Azure Virtual Machines
+Microsoft Azure|2020-08-16T20:46:24Z|Witold's and Jerzy's|true|1457|AWS Lambda
+Oracle Cloud|2021-06-05T15:36:45Z|Xen|true|3483|Google Cloud Storage
+IBM Cloud|2021-03-30T19:20:10Z|Sznippers|false|4541|Amazon RDS
+Alibaba Cloud|2022-06-05T00:16:09Z|Miautex|true|4094|AWS Lambda
+Amazon Web Services (AWS)|2021-02-24T05:53:04Z|Sznippers|true|3221|Amazon S3
+Amazon Web Services (AWS)|2022-06-04T08:03:51Z|Witold's and Jerzy's|true|3781|Amazon RDS
+Oracle Cloud|2022-12-17T08:06:20Z|Sznippers|true|3592|Amazon DynamoDB
+Alibaba Cloud|2021-01-12T23:19:56Z|Holoubek Corp|false|1097|Google Compute Engine
+Google Cloud Platform (GCP)|2022-05-02T13:57:45Z|Witold's and Jerzy's|true|2964|Google Cloud SQL
+Alibaba Cloud|2022-08-01T02:41:39Z|Miautex|true|3861|Amazon S3
+Amazon Web Services (AWS)|2020-11-13T20:12:52Z|Miautex|true|880|Google Cloud Datastore
+Alibaba Cloud|2022-01-28T22:16:03Z|Kloburg|false|688|Google Cloud Datastore
+Microsoft Azure|2021-03-15T05:19:10Z|Xen|false|1247|AWS Lambda
+Google Cloud Platform (GCP)|2020-07-30T01:15:00Z|Xen|false|2783|Amazon EC2
+Google Cloud Platform (GCP)|2021-12-30T08:07:05Z|Miautex|true|1769|Azure SQL Database
+Oracle Cloud|2021-11-28T10:38:55Z|Miautex|true|1586|Google Cloud Storage
+IBM Cloud|2020-10-28T01:09:21Z|Miautex|true|4922|Azure Blob Storage
+Amazon Web Services (AWS)|2020-06-28T19:31:52Z|Kumciaczkos|false|4756|Google Cloud Functions
+Amazon Web Services (AWS)|2020-05-12T18:36:17Z|Kloburg|true|2269|Azure SQL Database
+IBM Cloud|2020-11-10T18:52:23Z|Witold's and Jerzy's|false|4627|Azure SQL Database
+Alibaba Cloud|2022-02-03T20:26:38Z|Holoubek Corp|false|710|Google Cloud Storage
+Google Cloud Platform (GCP)|2021-01-21T02:19:10Z|Kumciaczkos|true|4169|AWS Lambda
+IBM Cloud|2020-07-23T16:34:20Z|Holoubek Corp|true|510|Azure Virtual Machines
+Alibaba Cloud|2021-07-09T17:50:48Z|Miautex|true|3554|Amazon RDS
+IBM Cloud|2022-05-10T05:33:25Z|Miautex|true|2783|Google Cloud Functions
+Oracle Cloud|2021-07-16T15:46:51Z|Kumciaczkos|false|4088|Amazon EC2
+Amazon Web Services (AWS)|2023-05-07T12:53:07Z|Witold's and Jerzy's|true|3771|Google Cloud SQL
+Google Cloud Platform (GCP)|2020-09-20T07:15:53Z|Sznippers|true|3551|Google Compute Engine
+Google Cloud Platform (GCP)|2020-07-19T13:45:12Z|Sznippers|true|4924|Google Compute Engine
+Microsoft Azure|2021-10-30T00:13:51Z|Witold's and Jerzy's|false|2332|Azure Virtual Machines
+IBM Cloud|2022-03-16T09:40:05Z|Sznippers|true|4466|Amazon S3
+Amazon Web Services (AWS)|2022-10-19T04:41:10Z|Holoubek Corp|true|4435|Google Cloud SQL
+Alibaba Cloud|2020-09-17T21:31:53Z|Holoubek Corp|false|3660|Google Cloud SQL
+Oracle Cloud|2021-06-07T07:37:48Z|Holoubek Corp|false|1064|Google Cloud Datastore
+Alibaba Cloud|2022-09-19T03:13:41Z|Witold's and Jerzy's|true|834|Amazon S3
+Google Cloud Platform (GCP)|2021-05-20T20:44:25Z|Xen|false|4472|Azure Blob Storage
+Microsoft Azure|2023-05-09T11:20:22Z|Sznippers|true|4520|Azure Cosmos DB
+Google Cloud Platform (GCP)|2021-11-07T19:45:23Z|Holoubek Corp|true|4942|Amazon RDS
+Google Cloud Platform (GCP)|2023-01-30T23:57:54Z|Witold's and Jerzy's|false|2676|Google Cloud Functions
+Alibaba Cloud|2020-04-29T17:22:09Z|Miautex|false|2808|Azure Cosmos DB
+Microsoft Azure|2022-06-22T18:30:58Z|Holoubek Corp|true|1876|Google Cloud SQL
+IBM Cloud|2021-11-16T07:51:49Z|Kloburg|true|1576|Google Compute Engine
+Microsoft Azure|2021-03-24T15:33:57Z|Sznippers|true|4574|Azure Functions
+Oracle Cloud|2020-04-07T09:55:48Z|Kloburg|true|1796|Azure Virtual Machines
+IBM Cloud|2023-04-25T11:50:58Z|Sznippers|true|4544|Google Cloud SQL
+IBM Cloud|2022-12-31T04:14:44Z|Witold's and Jerzy's|false|3566|Azure Functions
+Alibaba Cloud|2023-03-27T12:27:29Z|Kumciaczkos|false|4564|Google Cloud SQL
+Alibaba Cloud|2023-01-06T08:17:53Z|Holoubek Corp|true|2563|Amazon EC2
+Microsoft Azure|2020-10-28T20:25:53Z|Holoubek Corp|false|803|Azure Cosmos DB
+IBM Cloud|2022-03-08T10:48:38Z|Kumciaczkos|true|4445|Amazon EC2
+Amazon Web Services (AWS)|2021-06-22T09:35:18Z|Miautex|false|1455|Amazon EC2
+IBM Cloud|2022-05-16T01:59:49Z|Miautex|true|3093|Google Cloud Functions
+IBM Cloud|2022-12-02T09:58:34Z|Kumciaczkos|true|4320|Azure Virtual Machines
+Microsoft Azure|2022-06-20T03:09:54Z|Sznippers|true|4272|Azure Functions
+Oracle Cloud|2021-09-07T07:18:40Z|Kumciaczkos|true|1915|Amazon EC2
+Oracle Cloud|2022-04-14T10:30:42Z|Holoubek Corp|false|2952|Google Cloud Functions
+Microsoft Azure|2021-03-01T07:55:12Z|Miautex|true|4235|Amazon S3
+Amazon Web Services (AWS)|2021-12-11T03:13:45Z|Witold's and Jerzy's|true|1227|Google Cloud Storage
+Alibaba Cloud|2021-11-13T00:58:37Z|Kloburg|true|1728|Google Cloud SQL
+IBM Cloud|2022-03-23T05:38:34Z|Sznippers|true|3634|Amazon DynamoDB
+Microsoft Azure|2023-03-04T21:00:22Z|Xen|true|607|Amazon RDS
+Oracle Cloud|2023-04-28T23:43:22Z|Witold's and Jerzy's|true|1903|Google Cloud Functions
+Google Cloud Platform (GCP)|2021-03-07T20:36:39Z|Sznippers|false|505|Google Cloud Functions
+Microsoft Azure|2023-04-01T15:05:28Z|Witold's and Jerzy's|true|493|Amazon S3
+Alibaba Cloud|2022-09-05T00:00:41Z|Kloburg|false|1811|Google Cloud Datastore
+Oracle Cloud|2021-04-04T11:26:07Z|Sznippers|true|1085|Amazon RDS
+Microsoft Azure|2020-12-04T09:54:25Z|Witold's and Jerzy's|true|3687|Amazon DynamoDB
+Google Cloud Platform (GCP)|2020-05-23T08:43:08Z|Holoubek Corp|false|2467|Google Cloud Datastore
+IBM Cloud|2022-05-20T01:51:31Z|Kloburg|true|1312|AWS Lambda
+Amazon Web Services (AWS)|2022-02-07T07:39:43Z|Kloburg|false|425|Google Cloud Datastore
+Alibaba Cloud|2023-04-07T17:59:24Z|Kloburg|false|1650|Google Cloud Storage
+Microsoft Azure|2020-05-10T11:21:45Z|Miautex|true|975|Google Cloud Datastore
+Oracle Cloud|2022-06-29T17:04:12Z|Kloburg|true|3750|Google Cloud Functions
+IBM Cloud|2021-11-11T17:21:35Z|Kumciaczkos|true|986|Azure Functions
+Amazon Web Services (AWS)|2023-03-09T09:29:21Z|Miautex|true|3120|Azure Cosmos DB
+Oracle Cloud|2021-02-27T03:07:55Z|Holoubek Corp|true|4766|Amazon S3
+Oracle Cloud|2020-10-11T00:09:44Z|Miautex|true|4811|Amazon RDS
+Google Cloud Platform (GCP)|2022-10-08T23:11:31Z|Holoubek Corp|true|4824|AWS Lambda
+Microsoft Azure|2022-10-18T12:31:32Z|Xen|false|3512|Azure Virtual Machines
+Alibaba Cloud|2022-03-10T07:36:34Z|Miautex|false|3933|Azure SQL Database
+Google Cloud Platform (GCP)|2023-03-14T02:17:38Z|Kumciaczkos|false|4558|Amazon RDS
+Google Cloud Platform (GCP)|2021-04-26T12:00:22Z|Holoubek Corp|true|4243|Amazon RDS
+IBM Cloud|2023-05-26T21:59:42Z|Sznippers|true|2997|Azure SQL Database
+Microsoft Azure|2022-02-20T16:48:26Z|Witold's and Jerzy's|true|1693|Google Cloud Datastore
+Alibaba Cloud|2020-05-16T16:16:26Z|Kumciaczkos|false|1722|Azure Functions
+Oracle Cloud|2023-04-21T19:38:33Z|Kumciaczkos|false|4691|Azure Functions
+Microsoft Azure|2021-09-07T08:52:38Z|Miautex|false|4378|Amazon DynamoDB
+Amazon Web Services (AWS)|2020-07-21T16:48:33Z|Kloburg|true|4556|Google Cloud Storage
+Alibaba Cloud|2021-11-28T22:33:48Z|Miautex|true|4929|Amazon RDS
+Alibaba Cloud|2021-01-07T00:45:08Z|Miautex|true|2096|Amazon DynamoDB
+Alibaba Cloud|2022-12-02T06:54:33Z|Miautex|true|4161|Amazon EC2
+IBM Cloud|2020-07-19T05:06:14Z|Xen|false|4148|Amazon S3
+Microsoft Azure|2022-02-22T20:01:12Z|Sznippers|true|1261|Azure Functions
+Oracle Cloud|2022-01-18T12:25:13Z|Sznippers|false|1544|Azure Virtual Machines
+Microsoft Azure|2021-02-07T17:48:27Z|Holoubek Corp|true|1431|Azure Cosmos DB
+IBM Cloud|2023-03-22T21:21:02Z|Witold's and Jerzy's|false|4504|Azure Virtual Machines
+Amazon Web Services (AWS)|2020-10-22T01:51:14Z|Miautex|false|428|Google Cloud Storage
+IBM Cloud|2022-03-11T01:52:11Z|Miautex|true|4112|Amazon EC2
+Alibaba Cloud|2022-11-06T06:11:06Z|Sznippers|false|4767|Azure Blob Storage
+IBM Cloud|2022-11-29T11:17:12Z|Sznippers|false|2477|Google Compute Engine
+IBM Cloud|2022-05-04T18:23:21Z|Sznippers|true|2020|Amazon S3
+Google Cloud Platform (GCP)|2021-10-08T18:23:44Z|Xen|true|1305|Amazon S3
+IBM Cloud|2023-04-05T04:27:11Z|Sznippers|false|2310|Google Cloud Datastore
+Microsoft Azure|2021-03-25T19:25:42Z|Kloburg|true|3707|Google Cloud SQL
+Alibaba Cloud|2021-01-10T17:30:34Z|Kloburg|false|1172|Google Cloud Datastore
+Google Cloud Platform (GCP)|2022-07-15T15:34:45Z|Sznippers|true|3644|Azure Virtual Machines
+Microsoft Azure|2022-11-16T22:01:38Z|Kloburg|false|3164|Azure SQL Database
+Oracle Cloud|2023-02-10T11:35:54Z|Kloburg|true|4940|Amazon RDS
+Alibaba Cloud|2021-08-12T12:43:05Z|Miautex|true|801|Azure Functions
+IBM Cloud|2021-07-08T04:06:05Z|Miautex|true|2427|Azure Virtual Machines
+IBM Cloud|2022-10-22T02:23:49Z|Xen|true|1567|Amazon RDS
+Google Cloud Platform (GCP)|2022-02-06T11:42:04Z|Sznippers|true|2233|Amazon EC2
+Alibaba Cloud|2022-01-25T20:11:37Z|Witold's and Jerzy's|false|811|Google Cloud Storage
+IBM Cloud|2020-05-01T21:13:02Z|Sznippers|true|3677|Azure Blob Storage
+Oracle Cloud|2023-01-16T03:46:32Z|Holoubek Corp|false|3134|Amazon DynamoDB
+Oracle Cloud|2022-09-21T06:06:49Z|Kloburg|true|4206|Amazon DynamoDB
+Oracle Cloud|2022-09-22T23:42:38Z|Witold's and Jerzy's|true|1954|Google Cloud Functions
+Alibaba Cloud|2020-05-23T14:25:13Z|Kumciaczkos|false|1035|Azure Blob Storage
+Microsoft Azure|2020-10-02T14:51:55Z|Kumciaczkos|false|4030|Amazon DynamoDB
+Alibaba Cloud|2020-05-09T16:39:09Z|Sznippers|true|1488|Azure SQL Database
+Microsoft Azure|2021-01-21T08:55:51Z|Holoubek Corp|true|1731|Azure Cosmos DB
+Microsoft Azure|2023-03-28T04:34:51Z|Holoubek Corp|false|3292|Azure Blob Storage
+Google Cloud Platform (GCP)|2023-03-09T08:04:10Z|Sznippers|false|4424|Azure SQL Database
+Oracle Cloud|2022-09-08T19:41:14Z|Xen|true|1894|Amazon DynamoDB
+Amazon Web Services (AWS)|2023-01-16T20:53:42Z|Kloburg|false|3916|Amazon EC2
+Google Cloud Platform (GCP)|2021-10-30T14:41:41Z|Kloburg|true|4775|Amazon EC2
+Alibaba Cloud|2020-04-21T21:52:04Z|Kumciaczkos|false|411|Amazon RDS
+IBM Cloud|2020-09-12T03:09:02Z|Witold's and Jerzy's|true|3082|Google Cloud Functions
+IBM Cloud|2021-09-27T01:03:23Z|Sznippers|false|1048|Google Compute Engine
+Oracle Cloud|2021-03-18T07:46:11Z|Xen|false|1801|Google Cloud Datastore
+Alibaba Cloud|2020-05-27T08:15:12Z|Holoubek Corp|false|4416|Amazon DynamoDB
+Microsoft Azure|2020-11-19T05:04:35Z|Witold's and Jerzy's|false|2286|Google Cloud Datastore
+Google Cloud Platform (GCP)|2021-03-25T23:00:05Z|Miautex|false|2036|Azure SQL Database
+Microsoft Azure|2023-05-11T04:00:20Z|Holoubek Corp|true|1146|Azure Cosmos DB
+Oracle Cloud|2021-05-18T07:21:13Z|Sznippers|true|2656|Google Cloud Functions
+Alibaba Cloud|2022-11-28T06:32:44Z|Witold's and Jerzy's|true|3107|Amazon S3
+Oracle Cloud|2023-04-21T10:14:18Z|Kloburg|false|2349|Amazon DynamoDB
+Google Cloud Platform (GCP)|2022-04-24T19:24:01Z|Kloburg|true|1043|Google Cloud Functions
+Oracle Cloud|2021-01-21T06:45:31Z|Xen|false|3640|Azure SQL Database
+Amazon Web Services (AWS)|2022-02-22T14:24:37Z|Kloburg|true|1064|Amazon DynamoDB
+Google Cloud Platform (GCP)|2020-08-26T11:37:11Z|Miautex|true|1691|Amazon RDS
+Google Cloud Platform (GCP)|2022-03-28T01:52:40Z|Xen|true|3394|Azure Blob Storage
+Oracle Cloud|2020-08-10T00:04:52Z|Xen|false|4334|Google Cloud Datastore
+Alibaba Cloud|2020-09-22T05:18:48Z|Sznippers|true|4561|AWS Lambda
+Alibaba Cloud|2022-04-07T17:10:44Z|Sznippers|true|3062|Google Compute Engine
+Oracle Cloud|2022-04-30T23:31:50Z|Kumciaczkos|true|4084|Google Cloud Datastore
+Microsoft Azure|2022-02-03T23:00:32Z|Kloburg|false|4880|Amazon EC2
+Microsoft Azure|2022-09-28T14:26:59Z|Xen|false|3132|Azure SQL Database
+Amazon Web Services (AWS)|2022-07-25T07:30:09Z|Kloburg|true|2997|Azure Blob Storage
+Microsoft Azure|2022-04-08T09:42:16Z|Kloburg|false|1930|Amazon DynamoDB
+Amazon Web Services (AWS)|2020-05-25T02:27:02Z|Miautex|true|3743|Azure Virtual Machines
+Google Cloud Platform (GCP)|2020-10-27T04:40:33Z|Kloburg|false|3931|Google Cloud Datastore
+Microsoft Azure|2022-10-19T05:15:38Z|Xen|false|3719|Azure Cosmos DB
+Amazon Web Services (AWS)|2020-10-06T10:31:21Z|Holoubek Corp|true|1846|Azure Cosmos DB
+Amazon Web Services (AWS)|2022-06-24T00:04:59Z|Xen|true|4724|Amazon EC2
+Oracle Cloud|2023-05-24T07:41:38Z|Kumciaczkos|false|1491|Amazon S3
+IBM Cloud|2023-04-02T22:07:53Z|Xen|false|2186|Azure Blob Storage
+Google Cloud Platform (GCP)|2021-12-10T10:59:38Z|Kumciaczkos|true|3593|Amazon RDS
+Oracle Cloud|2020-12-07T17:06:41Z|Kloburg|false|3151|Azure Cosmos DB
+IBM Cloud|2020-07-05T02:13:16Z|Xen|false|1275|AWS Lambda
+Google Cloud Platform (GCP)|2021-05-14T02:08:15Z|Kumciaczkos|false|4051|Google Cloud SQL
+Alibaba Cloud|2021-02-16T18:46:11Z|Witold's and Jerzy's|true|2214|Amazon EC2
+Oracle Cloud|2022-04-29T12:23:28Z|Kumciaczkos|false|2983|Azure Cosmos DB
+Alibaba Cloud|2021-06-09T06:19:32Z|Kumciaczkos|true|1457|AWS Lambda
+Alibaba Cloud|2022-07-29T08:05:18Z|Miautex|true|2298|AWS Lambda
+Alibaba Cloud|2021-09-21T22:32:09Z|Kumciaczkos|true|4127|Azure Blob Storage
+Microsoft Azure|2020-05-08T08:04:12Z|Kumciaczkos|true|2959|Azure Blob Storage
+Microsoft Azure|2022-08-15T18:29:53Z|Miautex|true|3697|AWS Lambda
+Google Cloud Platform (GCP)|2022-10-16T23:59:38Z|Kloburg|true|1819|Azure Functions
+Google Cloud Platform (GCP)|2021-06-16T06:20:19Z|Xen|true|4903|Google Compute Engine
+Google Cloud Platform (GCP)|2022-11-22T01:34:05Z|Miautex|true|4408|Amazon EC2
+Alibaba Cloud|2021-06-06T07:21:12Z|Sznippers|false|959|Amazon DynamoDB
+Google Cloud Platform (GCP)|2021-01-23T05:15:21Z|Kumciaczkos|false|1726|Amazon S3
+IBM Cloud|2021-06-28T17:28:55Z|Miautex|true|1648|Amazon RDS
+Google Cloud Platform (GCP)|2021-01-22T09:42:37Z|Sznippers|false|3320|Google Cloud Datastore
+Alibaba Cloud|2021-03-03T20:32:56Z|Kloburg|true|3049|Amazon RDS
+Oracle Cloud|2021-02-18T15:36:24Z|Holoubek Corp|false|1922|Azure Cosmos DB
+Microsoft Azure|2021-10-06T09:47:05Z|Sznippers|false|3206|Azure SQL Database
+Google Cloud Platform (GCP)|2021-01-20T17:47:32Z|Sznippers|true|4426|Amazon EC2
+Amazon Web Services (AWS)|2022-02-20T14:21:55Z|Sznippers|false|2821|Azure SQL Database
+Oracle Cloud|2022-12-11T12:30:40Z|Kumciaczkos|true|2973|Amazon S3
+Microsoft Azure|2021-01-22T08:16:23Z|Kloburg|false|1834|Google Cloud Datastore
+Oracle Cloud|2021-12-11T02:19:35Z|Witold's and Jerzy's|false|3527|Google Cloud SQL
+Alibaba Cloud|2021-06-10T02:56:25Z|Holoubek Corp|true|2418|Google Cloud Storage
+Google Cloud Platform (GCP)|2021-01-26T03:56:21Z|Holoubek Corp|false|3525|Google Cloud Datastore
+Google Cloud Platform (GCP)|2022-04-13T12:39:03Z|Kumciaczkos|false|3995|Amazon DynamoDB
+Oracle Cloud|2022-05-24T06:19:48Z|Kumciaczkos|false|3891|Amazon RDS
+Amazon Web Services (AWS)|2022-07-07T22:54:14Z|Sznippers|true|439|Google Cloud Datastore
+Oracle Cloud|2022-05-19T16:19:17Z|Xen|false|3811|Azure Cosmos DB
+Microsoft Azure|2021-04-22T15:27:02Z|Xen|false|1155|Azure Blob Storage
+Google Cloud Platform (GCP)|2022-05-15T10:16:22Z|Kumciaczkos|false|1062|Amazon DynamoDB
+Alibaba Cloud|2020-05-23T21:58:51Z|Xen|false|4354|Amazon DynamoDB
+Oracle Cloud|2021-04-15T22:20:06Z|Xen|false|2036|Google Cloud SQL
+Oracle Cloud|2022-09-09T10:22:34Z|Kumciaczkos|true|1017|Google Cloud SQL
+IBM Cloud|2022-07-15T09:18:07Z|Witold's and Jerzy's|true|4389|Amazon S3
+IBM Cloud|2021-01-08T17:09:02Z|Miautex|false|440|Google Cloud Storage
+Oracle Cloud|2022-10-13T00:09:57Z|Holoubek Corp|false|1188|Amazon RDS
+Microsoft Azure|2022-01-12T11:17:42Z|Kloburg|false|1414|AWS Lambda
+Microsoft Azure|2020-08-06T09:12:08Z|Miautex|false|1812|Amazon EC2
+Google Cloud Platform (GCP)|2023-04-25T20:23:26Z|Sznippers|true|1106|Amazon RDS
+Microsoft Azure|2022-10-07T23:12:27Z|Holoubek Corp|true|4790|Azure Virtual Machines
+Google Cloud Platform (GCP)|2022-03-10T19:19:46Z|Kloburg|true|3245|Google Cloud Functions
+Amazon Web Services (AWS)|2023-02-05T15:50:20Z|Holoubek Corp|false|2945|Google Cloud Functions
+Alibaba Cloud|2021-12-20T07:02:05Z|Xen|false|3737|Amazon RDS
+Microsoft Azure|2021-06-07T15:43:59Z|Kloburg|true|3559|Google Compute Engine
+Alibaba Cloud|2022-04-14T04:30:31Z|Witold's and Jerzy's|false|4877|Amazon RDS
+Oracle Cloud|2021-09-03T22:11:56Z|Witold's and Jerzy's|false|2356|Amazon EC2
+Amazon Web Services (AWS)|2020-06-10T10:57:03Z|Kumciaczkos|true|4363|Azure Functions
+Google Cloud Platform (GCP)|2021-04-27T10:27:54Z|Witold's and Jerzy's|true|1704|Azure SQL Database
+Google Cloud Platform (GCP)|2022-02-10T15:45:32Z|Sznippers|false|511|Amazon EC2
+Google Cloud Platform (GCP)|2020-10-11T13:13:28Z|Holoubek Corp|true|3763|Google Cloud SQL
+Alibaba Cloud|2021-03-04T12:49:25Z|Witold's and Jerzy's|false|4639|Amazon S3
+Google Cloud Platform (GCP)|2020-05-20T06:57:46Z|Miautex|false|2926|Azure Functions
+Oracle Cloud|2022-08-04T23:28:13Z|Miautex|false|2134|Amazon S3
+Google Cloud Platform (GCP)|2020-07-07T03:36:58Z|Holoubek Corp|true|4577|Google Cloud Datastore
+IBM Cloud|2021-10-21T12:01:21Z|Xen|true|2044|Azure Cosmos DB
+IBM Cloud|2022-01-28T05:16:39Z|Kumciaczkos|true|705|Google Cloud Storage
+Oracle Cloud|2020-12-30T14:21:16Z|Sznippers|false|2941|Amazon S3
+Oracle Cloud|2021-07-12T19:46:22Z|Kloburg|false|2616|Amazon RDS
+Alibaba Cloud|2022-11-20T13:17:59Z|Sznippers|true|1305|Amazon S3
+Alibaba Cloud|2020-07-24T02:20:45Z|Kumciaczkos|true|4869|Azure Cosmos DB
+Alibaba Cloud|2020-08-11T22:33:13Z|Witold's and Jerzy's|true|930|Google Cloud Functions
+Microsoft Azure|2020-11-05T17:24:15Z|Kloburg|false|851|Azure Cosmos DB
+IBM Cloud|2021-09-07T06:44:51Z|Witold's and Jerzy's|true|2737|Google Cloud Functions
+Google Cloud Platform (GCP)|2022-07-29T17:27:30Z|Xen|false|1161|Azure SQL Database
+IBM Cloud|2021-11-30T00:23:47Z|Kloburg|false|4609|Google Cloud Functions
+Amazon Web Services (AWS)|2021-07-24T12:00:19Z|Sznippers|false|1153|Amazon RDS
+IBM Cloud|2020-04-02T12:23:37Z|Holoubek Corp|true|1500|Google Cloud SQL
+IBM Cloud|2022-10-11T16:45:21Z|Miautex|false|3780|Amazon EC2
+Alibaba Cloud|2021-11-19T15:38:30Z|Xen|false|2790|Google Cloud Datastore
+Oracle Cloud|2022-11-17T10:16:58Z|Kumciaczkos|false|1739|Amazon RDS
+Amazon Web Services (AWS)|2021-07-29T05:00:37Z|Holoubek Corp|true|4062|AWS Lambda
+Amazon Web Services (AWS)|2022-09-29T10:02:29Z|Witold's and Jerzy's|true|4419|Amazon DynamoDB
+Microsoft Azure|2020-10-12T03:10:31Z|Miautex|true|3780|Google Cloud Functions
+IBM Cloud|2020-04-05T02:06:25Z|Miautex|true|1935|Amazon RDS
+Alibaba Cloud|2023-04-27T13:21:32Z|Kumciaczkos|false|959|Google Compute Engine
+Oracle Cloud|2022-04-18T15:43:45Z|Kloburg|false|4259|Google Cloud Functions
+Alibaba Cloud|2022-03-31T00:40:07Z|Kloburg|true|946|Google Cloud SQL
+Alibaba Cloud|2020-12-24T02:32:19Z|Holoubek Corp|true|2756|Amazon S3
+IBM Cloud|2022-04-11T05:15:28Z|Holoubek Corp|true|2262|Google Cloud Storage
+Oracle Cloud|2023-01-27T14:46:53Z|Witold's and Jerzy's|true|3998|Google Cloud Functions
+Alibaba Cloud|2023-04-01T00:07:10Z|Kumciaczkos|true|1245|AWS Lambda
+Google Cloud Platform (GCP)|2020-10-16T09:34:15Z|Xen|false|1210|Google Compute Engine
+Google Cloud Platform (GCP)|2021-08-16T09:20:06Z|Xen|false|3430|Azure Virtual Machines
+Alibaba Cloud|2022-02-26T23:46:27Z|Holoubek Corp|false|4546|Amazon S3
+Oracle Cloud|2020-04-29T05:59:56Z|Kloburg|true|922|Google Cloud Datastore
+Alibaba Cloud|2020-07-18T20:48:32Z|Kumciaczkos|true|2840|Azure Virtual Machines
+Alibaba Cloud|2020-07-07T06:59:54Z|Xen|false|488|Azure Blob Storage
+Oracle Cloud|2020-07-31T10:43:01Z|Witold's and Jerzy's|true|2113|Azure Blob Storage
+IBM Cloud|2022-08-18T00:46:46Z|Sznippers|false|4926|AWS Lambda
+Microsoft Azure|2023-04-12T19:46:06Z|Witold's and Jerzy's|false|3099|Azure Cosmos DB
+Alibaba Cloud|2020-08-03T09:42:50Z|Kumciaczkos|false|931|Amazon DynamoDB
+Oracle Cloud|2022-08-17T17:33:06Z|Kloburg|false|1574|Amazon DynamoDB
+Amazon Web Services (AWS)|2022-07-30T23:02:48Z|Sznippers|false|4233|AWS Lambda
+Oracle Cloud|2023-03-06T03:19:25Z|Sznippers|false|2723|Azure Blob Storage
+IBM Cloud|2022-09-15T10:59:25Z|Holoubek Corp|true|4040|Google Cloud Datastore
+Amazon Web Services (AWS)|2022-06-11T14:26:39Z|Kloburg|false|4624|Google Cloud Storage
+IBM Cloud|2022-04-01T19:47:02Z|Kumciaczkos|true|889|Azure SQL Database
+Alibaba Cloud|2021-06-13T21:43:57Z|Holoubek Corp|false|3400|Amazon RDS
+IBM Cloud|2020-08-17T03:37:28Z|Holoubek Corp|false|1508|Amazon DynamoDB
+Google Cloud Platform (GCP)|2021-02-12T23:21:06Z|Miautex|false|4938|Google Cloud Storage
+Amazon Web Services (AWS)|2020-11-02T21:31:08Z|Xen|false|1259|Amazon S3
+Amazon Web Services (AWS)|2022-09-09T16:20:13Z|Sznippers|true|3556|Amazon RDS
+Amazon Web Services (AWS)|2020-04-07T05:40:16Z|Sznippers|true|4864|AWS Lambda
+Amazon Web Services (AWS)|2020-06-29T06:43:48Z|Witold's and Jerzy's|true|1058|Google Cloud Functions
+Oracle Cloud|2021-03-25T06:43:59Z|Sznippers|true|4555|Amazon RDS
+Google Cloud Platform (GCP)|2023-05-25T17:33:27Z|Kloburg|true|964|Amazon S3
+Alibaba Cloud|2020-12-14T16:32:53Z|Xen|true|2385|Azure Virtual Machines
+Alibaba Cloud|2023-03-05T02:54:48Z|Kumciaczkos|false|4848|Amazon EC2
+Google Cloud Platform (GCP)|2020-05-12T22:07:25Z|Xen|true|462|Azure Cosmos DB
+IBM Cloud|2021-05-31T22:58:42Z|Kloburg|true|2890|Google Cloud Functions
+Alibaba Cloud|2020-11-11T00:37:50Z|Witold's and Jerzy's|false|3824|Amazon RDS
+IBM Cloud|2022-11-03T23:25:41Z|Holoubek Corp|true|3874|Azure Blob Storage
+IBM Cloud|2022-07-08T13:08:31Z|Witold's and Jerzy's|false|2768|Amazon EC2
+Oracle Cloud|2022-10-24T05:25:29Z|Miautex|false|3190|Azure Blob Storage
+IBM Cloud|2021-05-31T12:19:40Z|Witold's and Jerzy's|true|3753|AWS Lambda
+Google Cloud Platform (GCP)|2021-04-13T16:45:48Z|Sznippers|false|2676|Azure Cosmos DB
+Google Cloud Platform (GCP)|2021-07-20T06:16:07Z|Miautex|true|3033|Azure Blob Storage
+Alibaba Cloud|2022-10-17T19:24:40Z|Kloburg|false|4707|Amazon EC2
+Microsoft Azure|2023-05-10T20:32:28Z|Kumciaczkos|true|2176|Google Cloud SQL
+Oracle Cloud|2021-09-18T13:48:39Z|Sznippers|false|2452|Google Cloud Functions
+IBM Cloud|2020-09-13T02:23:10Z|Miautex|false|2919|Google Compute Engine
+Alibaba Cloud|2022-06-06T05:19:07Z|Kloburg|true|3553|Google Cloud SQL
+Amazon Web Services (AWS)|2022-03-28T03:09:27Z|Witold's and Jerzy's|true|2809|Azure Functions
+Oracle Cloud|2022-11-08T16:20:22Z|Kumciaczkos|true|4820|Amazon S3
+Oracle Cloud|2020-07-31T00:59:12Z|Holoubek Corp|true|4747|Google Cloud Storage
+Google Cloud Platform (GCP)|2021-03-11T11:51:22Z|Sznippers|false|4541|Google Cloud SQL
+Alibaba Cloud|2022-06-10T01:35:12Z|Miautex|false|989|Google Cloud Datastore
+Alibaba Cloud|2020-11-05T11:30:43Z|Kumciaczkos|false|4419|Amazon EC2
+Amazon Web Services (AWS)|2020-08-16T02:24:22Z|Kloburg|false|2681|Google Compute Engine
+Microsoft Azure|2021-05-18T04:07:34Z|Holoubek Corp|true|4962|Google Cloud Functions
+Amazon Web Services (AWS)|2020-12-29T05:35:40Z|Kloburg|true|1048|Azure Functions
+Amazon Web Services (AWS)|2021-06-27T11:34:22Z|Sznippers|true|1563|Azure Virtual Machines
+Alibaba Cloud|2022-08-12T21:46:40Z|Kumciaczkos|true|3419|Amazon RDS
+Oracle Cloud|2022-02-11T04:17:51Z|Miautex|true|4440|Azure Blob Storage
+Oracle Cloud|2023-02-25T11:12:02Z|Miautex|false|1266|Amazon DynamoDB
+Google Cloud Platform (GCP)|2022-08-24T03:48:32Z|Sznippers|true|4792|Azure SQL Database
+Microsoft Azure|2022-07-03T01:21:55Z|Kumciaczkos|false|4351|Google Compute Engine
+Alibaba Cloud|2022-10-27T11:00:07Z|Sznippers|true|1476|Azure Cosmos DB
+IBM Cloud|2020-04-05T00:45:05Z|Sznippers|true|3640|Azure Cosmos DB
+Alibaba Cloud|2023-04-03T12:51:05Z|Holoubek Corp|true|807|Amazon RDS
+Amazon Web Services (AWS)|2022-04-10T02:48:28Z|Miautex|true|3324|Amazon DynamoDB
+Alibaba Cloud|2022-05-26T09:43:25Z|Miautex|false|4248|Amazon RDS
+Alibaba Cloud|2020-07-23T19:32:46Z|Miautex|true|1567|Google Cloud Datastore
+Microsoft Azure|2021-01-13T13:48:17Z|Sznippers|false|2310|Amazon DynamoDB
+Alibaba Cloud|2023-03-14T05:53:52Z|Xen|false|1233|Amazon S3
+IBM Cloud|2021-10-21T02:15:50Z|Kloburg|false|3675|Azure Cosmos DB
+Oracle Cloud|2021-10-18T21:49:21Z|Xen|false|736|Google Cloud SQL
+Alibaba Cloud|2023-04-04T04:51:22Z|Kloburg|false|1688|Google Cloud Datastore
+Amazon Web Services (AWS)|2020-06-02T17:46:00Z|Xen|true|3313|Google Cloud Storage
+IBM Cloud|2020-12-25T19:47:01Z|Kumciaczkos|false|1131|AWS Lambda
+Microsoft Azure|2022-12-09T11:20:53Z|Witold's and Jerzy's|false|4290|Azure Virtual Machines
+Alibaba Cloud|2020-07-31T07:42:35Z|Holoubek Corp|true|609|Azure Functions
+Alibaba Cloud|2022-08-25T17:40:39Z|Miautex|true|608|Google Compute Engine
+Alibaba Cloud|2020-07-01T18:18:05Z|Xen|true|4983|Amazon EC2
+IBM Cloud|2022-03-22T11:08:13Z|Miautex|false|4990|Amazon S3
+Alibaba Cloud|2021-01-23T03:12:34Z|Kumciaczkos|false|2875|Azure Virtual Machines
+Oracle Cloud|2020-11-29T15:49:19Z|Miautex|false|1594|Azure Blob Storage
+Google Cloud Platform (GCP)|2022-06-07T15:12:43Z|Xen|true|1128|Amazon DynamoDB
+Oracle Cloud|2022-08-01T00:03:19Z|Kloburg|true|3707|Google Cloud Storage
+Amazon Web Services (AWS)|2020-07-01T10:22:04Z|Kumciaczkos|true|1870|Google Compute Engine
+Google Cloud Platform (GCP)|2020-10-30T05:38:35Z|Kloburg|true|1496|Google Cloud Datastore
+Microsoft Azure|2022-10-20T04:33:24Z|Miautex|false|4195|Google Cloud Datastore
+Amazon Web Services (AWS)|2022-08-31T03:38:42Z|Holoubek Corp|false|1866|Amazon RDS
+Alibaba Cloud|2022-03-16T08:48:28Z|Holoubek Corp|true|3577|Amazon DynamoDB
+Microsoft Azure|2022-11-09T02:44:03Z|Kloburg|false|1906|Amazon S3
+Microsoft Azure|2021-05-08T03:30:40Z|Holoubek Corp|false|4563|Azure SQL Database
+Oracle Cloud|2020-07-04T00:05:31Z|Witold's and Jerzy's|false|2021|Amazon RDS
+Amazon Web Services (AWS)|2021-08-05T06:26:12Z|Kumciaczkos|false|4799|Google Cloud SQL
+Microsoft Azure|2020-09-15T10:54:15Z|Kloburg|true|674|Amazon DynamoDB
+IBM Cloud|2022-06-10T07:37:01Z|Holoubek Corp|true|605|Azure Blob Storage
+Oracle Cloud|2021-01-30T07:40:08Z|Miautex|false|3288|Amazon S3
+Microsoft Azure|2021-05-09T01:51:29Z|Kumciaczkos|false|4505|Azure Cosmos DB
+IBM Cloud|2021-09-07T04:15:03Z|Witold's and Jerzy's|true|2161|Amazon EC2
+IBM Cloud|2020-04-23T16:07:41Z|Miautex|true|2434|Azure Cosmos DB
+Oracle Cloud|2021-09-27T12:27:31Z|Xen|false|4721|Amazon EC2
+IBM Cloud|2020-12-12T20:14:44Z|Holoubek Corp|true|712|Amazon DynamoDB
+Amazon Web Services (AWS)|2020-04-29T04:32:41Z|Witold's and Jerzy's|true|4867|Google Cloud Functions
+Oracle Cloud|2021-04-13T19:05:36Z|Witold's and Jerzy's|false|3904|Azure Blob Storage
+Alibaba Cloud|2020-07-29T12:32:38Z|Miautex|false|2179|Google Cloud SQL
+Amazon Web Services (AWS)|2021-03-05T22:13:48Z|Kloburg|false|4538|Azure Blob Storage
+Alibaba Cloud|2023-02-06T19:10:06Z|Kloburg|true|4031|Google Compute Engine
+Amazon Web Services (AWS)|2020-06-22T04:45:51Z|Sznippers|true|4069|Amazon S3
+Google Cloud Platform (GCP)|2022-06-04T10:32:14Z|Kloburg|true|810|AWS Lambda
+Alibaba Cloud|2023-04-24T09:45:06Z|Xen|true|1002|Azure SQL Database
+Google Cloud Platform (GCP)|2021-02-20T18:17:30Z|Miautex|true|767|Amazon EC2
+Alibaba Cloud|2021-05-27T17:18:01Z|Miautex|false|1711|Amazon EC2
+Microsoft Azure|2021-04-04T00:39:12Z|Holoubek Corp|true|4315|AWS Lambda
+Alibaba Cloud|2022-12-06T17:34:07Z|Sznippers|false|2182|AWS Lambda
+Oracle Cloud|2023-02-15T12:55:57Z|Kloburg|false|3236|Azure Cosmos DB
+Oracle Cloud|2020-06-02T12:32:19Z|Kloburg|false|3285|Amazon S3
+Google Cloud Platform (GCP)|2022-05-03T08:21:42Z|Xen|true|859|Azure Blob Storage
+Alibaba Cloud|2022-04-02T18:13:06Z|Kloburg|true|1242|Azure Blob Storage
+IBM Cloud|2020-04-10T23:27:50Z|Kumciaczkos|false|2104|Google Cloud Functions
+Oracle Cloud|2022-12-12T18:57:55Z|Miautex|true|3604|Google Compute Engine
+Amazon Web Services (AWS)|2021-06-19T08:24:03Z|Sznippers|false|3744|AWS Lambda
+Google Cloud Platform (GCP)|2022-04-06T03:55:54Z|Kloburg|true|1653|Google Compute Engine
+Alibaba Cloud|2023-05-25T05:58:49Z|Sznippers|false|832|Google Cloud Storage
+Alibaba Cloud|2022-04-09T14:32:07Z|Kumciaczkos|false|3422|Azure Functions
+Amazon Web Services (AWS)|2021-04-03T09:43:07Z|Witold's and Jerzy's|true|557|Amazon RDS
+IBM Cloud|2021-03-16T11:31:19Z|Witold's and Jerzy's|false|4102|Azure Blob Storage
+Amazon Web Services (AWS)|2022-02-14T10:54:07Z|Kumciaczkos|false|4615|AWS Lambda
+Microsoft Azure|2022-06-14T21:09:52Z|Sznippers|false|1719|Azure SQL Database
+Google Cloud Platform (GCP)|2021-03-14T01:55:39Z|Witold's and Jerzy's|false|3806|Azure SQL Database
+Oracle Cloud|2022-08-08T03:01:40Z|Holoubek Corp|true|1551|Azure Blob Storage
+Alibaba Cloud|2020-09-30T20:23:06Z|Kloburg|false|1289|Amazon EC2
+Alibaba Cloud|2022-01-15T09:55:16Z|Sznippers|true|2227|Google Cloud Datastore
+Alibaba Cloud|2021-08-02T19:24:07Z|Holoubek Corp|true|1708|Azure SQL Database
+Google Cloud Platform (GCP)|2022-11-30T23:51:52Z|Witold's and Jerzy's|true|2753|Azure Blob Storage
+IBM Cloud|2021-06-03T12:14:28Z|Witold's and Jerzy's|false|2043|Azure Virtual Machines
+Microsoft Azure|2021-05-10T13:00:01Z|Miautex|false|2116|Azure Virtual Machines
+Oracle Cloud|2021-03-23T05:04:44Z|Holoubek Corp|false|740|Google Cloud Functions
+Microsoft Azure|2021-09-15T14:45:46Z|Holoubek Corp|true|4109|Amazon RDS
+Alibaba Cloud|2022-10-15T03:11:09Z|Kloburg|false|1254|AWS Lambda
+Alibaba Cloud|2022-01-29T18:19:11Z|Witold's and Jerzy's|true|3510|Amazon RDS
+Google Cloud Platform (GCP)|2020-06-08T17:51:18Z|Holoubek Corp|false|4044|Azure Cosmos DB
+Microsoft Azure|2022-07-30T15:52:22Z|Holoubek Corp|true|4176|Azure Blob Storage
+Oracle Cloud|2023-02-25T00:25:47Z|Kloburg|false|4369|Azure Blob Storage
+Microsoft Azure|2020-05-24T06:30:46Z|Sznippers|false|1381|Azure Blob Storage
+Amazon Web Services (AWS)|2021-03-03T08:36:25Z|Xen|false|594|Amazon RDS
+Alibaba Cloud|2020-12-15T09:43:14Z|Kloburg|true|2819|Azure Functions
+Alibaba Cloud|2020-06-06T20:44:24Z|Sznippers|true|3350|Amazon RDS
+Alibaba Cloud|2022-08-31T17:11:19Z|Sznippers|true|2962|Azure Cosmos DB
+Google Cloud Platform (GCP)|2020-09-26T00:59:45Z|Kloburg|true|1573|Amazon S3
+IBM Cloud|2020-06-19T00:31:31Z|Sznippers|false|4209|Google Cloud Storage
+IBM Cloud|2021-11-29T08:03:42Z|Kumciaczkos|false|4280|AWS Lambda
+Google Cloud Platform (GCP)|2023-02-11T11:30:48Z|Kloburg|true|1054|Google Compute Engine
+Google Cloud Platform (GCP)|2020-11-07T23:26:15Z|Kloburg|false|912|AWS Lambda
+Alibaba Cloud|2022-04-02T02:53:04Z|Miautex|false|2867|Amazon RDS
+Microsoft Azure|2022-11-23T21:09:03Z|Kumciaczkos|true|4002|Amazon EC2
+Oracle Cloud|2022-03-22T14:17:52Z|Witold's and Jerzy's|true|3014|Amazon DynamoDB
+Google Cloud Platform (GCP)|2021-05-02T19:04:57Z|Sznippers|false|1986|Google Cloud Datastore
+Google Cloud Platform (GCP)|2023-04-12T10:30:02Z|Holoubek Corp|false|3516|Amazon RDS
+Google Cloud Platform (GCP)|2022-04-27T06:17:53Z|Witold's and Jerzy's|false|832|Google Cloud Datastore
+Alibaba Cloud|2023-05-20T18:29:09Z|Kumciaczkos|false|669|Google Cloud Datastore
+Google Cloud Platform (GCP)|2021-07-02T06:06:43Z|Witold's and Jerzy's|false|4215|Amazon S3
+Amazon Web Services (AWS)|2023-01-09T11:49:39Z|Sznippers|true|1559|Google Compute Engine
+Microsoft Azure|2022-11-04T12:29:52Z|Xen|false|432|Azure Cosmos DB
+Amazon Web Services (AWS)|2021-04-27T06:48:42Z|Witold's and Jerzy's|false|2442|Amazon RDS
+IBM Cloud|2021-05-24T23:22:33Z|Kumciaczkos|true|2129|Google Cloud Storage
+Microsoft Azure|2020-08-18T04:45:41Z|Witold's and Jerzy's|true|2861|AWS Lambda
+Amazon Web Services (AWS)|2022-08-04T23:55:37Z|Holoubek Corp|false|1317|AWS Lambda
+Oracle Cloud|2020-08-15T03:47:06Z|Sznippers|false|3044|Azure Blob Storage
+IBM Cloud|2020-09-23T13:15:28Z|Sznippers|false|1877|Google Compute Engine
+Amazon Web Services (AWS)|2022-09-16T23:46:38Z|Kumciaczkos|false|4643|Amazon DynamoDB
+Alibaba Cloud|2023-03-31T22:30:59Z|Kloburg|true|2829|Azure Functions
+Microsoft Azure|2021-04-04T19:52:45Z|Xen|true|4252|AWS Lambda
+Alibaba Cloud|2021-05-03T10:32:04Z|Witold's and Jerzy's|true|1254|Azure Cosmos DB
+Google Cloud Platform (GCP)|2022-06-13T08:53:56Z|Sznippers|false|2513|Amazon RDS
+Alibaba Cloud|2020-05-06T16:11:02Z|Holoubek Corp|true|3992|Google Cloud SQL
+Microsoft Azure|2023-03-24T04:21:11Z|Xen|false|3806|Azure Blob Storage
+Oracle Cloud|2021-08-03T01:46:13Z|Sznippers|false|4181|Amazon RDS
+Alibaba Cloud|2020-07-05T05:30:55Z|Kumciaczkos|false|1623|Amazon S3
+Amazon Web Services (AWS)|2021-01-09T10:27:52Z|Xen|true|4424|Google Cloud Datastore
+Alibaba Cloud|2021-11-26T00:10:27Z|Xen|true|2086|Google Cloud Datastore
+Microsoft Azure|2021-06-30T08:37:32Z|Xen|true|4543|Azure Functions
+Oracle Cloud|2020-11-24T05:39:27Z|Witold's and Jerzy's|true|4881|Google Cloud Storage
+Amazon Web Services (AWS)|2021-08-14T01:39:39Z|Sznippers|false|3128|Google Cloud Storage
+Alibaba Cloud|2020-06-25T08:29:15Z|Miautex|false|3374|Azure SQL Database
+Oracle Cloud|2023-04-05T18:26:26Z|Kumciaczkos|false|2045|Azure SQL Database
+Oracle Cloud|2020-07-05T06:02:27Z|Witold's and Jerzy's|false|3221|Azure Functions
+Microsoft Azure|2021-02-01T02:55:56Z|Sznippers|false|4123|Amazon EC2
+Microsoft Azure|2021-09-22T07:49:40Z|Witold's and Jerzy's|false|2894|Google Cloud Storage
+Alibaba Cloud|2020-08-04T21:37:29Z|Xen|true|1222|Amazon DynamoDB
+IBM Cloud|2022-08-10T04:32:24Z|Xen|false|2449|Google Cloud Storage
+Google Cloud Platform (GCP)|2022-02-10T23:25:43Z|Witold's and Jerzy's|true|3937|Amazon RDS
+Microsoft Azure|2021-04-29T12:00:23Z|Sznippers|false|882|Azure Functions
+Alibaba Cloud|2020-08-12T01:34:52Z|Sznippers|false|2227|Azure Functions
+Alibaba Cloud|2023-03-21T05:17:12Z|Kumciaczkos|true|1380|Amazon DynamoDB
+Google Cloud Platform (GCP)|2022-01-31T05:29:57Z|Kloburg|true|2039|Amazon DynamoDB
+Google Cloud Platform (GCP)|2020-06-15T19:19:23Z|Kloburg|true|3766|Azure Cosmos DB
+Microsoft Azure|2022-10-21T08:05:08Z|Sznippers|true|3531|Azure Functions
+Microsoft Azure|2023-03-01T07:16:31Z|Sznippers|false|3275|Amazon DynamoDB
+Amazon Web Services (AWS)|2020-10-03T15:57:53Z|Holoubek Corp|false|3232|Google Cloud Storage
+Amazon Web Services (AWS)|2022-06-02T11:28:17Z|Sznippers|false|4900|Amazon RDS
+Oracle Cloud|2022-05-20T19:54:30Z|Witold's and Jerzy's|true|4922|Azure Blob Storage
+IBM Cloud|2022-06-12T11:36:58Z|Witold's and Jerzy's|false|2224|Google Cloud Storage
+Amazon Web Services (AWS)|2022-02-19T05:50:34Z|Kumciaczkos|true|2336|Google Cloud Functions
+Oracle Cloud|2021-01-05T09:56:51Z|Kloburg|false|1977|Google Compute Engine
+IBM Cloud|2021-03-14T14:58:24Z|Kloburg|true|4346|Google Cloud Datastore
+Amazon Web Services (AWS)|2021-02-27T19:56:43Z|Kloburg|false|2086|Azure Virtual Machines
+Oracle Cloud|2021-08-12T03:52:34Z|Kumciaczkos|true|3985|AWS Lambda
+Amazon Web Services (AWS)|2021-06-15T19:59:42Z|Miautex|true|3319|Azure Blob Storage
+Alibaba Cloud|2020-07-28T03:54:14Z|Holoubek Corp|false|3988|Azure Virtual Machines
+IBM Cloud|2021-01-14T10:35:01Z|Witold's and Jerzy's|false|4981|Amazon DynamoDB
+Amazon Web Services (AWS)|2023-02-02T13:36:53Z|Xen|true|3091|Amazon DynamoDB
+Microsoft Azure|2021-01-14T01:01:59Z|Xen|true|2965|Google Compute Engine
+Oracle Cloud|2021-03-06T09:17:08Z|Holoubek Corp|false|3153|Amazon EC2
+Amazon Web Services (AWS)|2022-01-23T03:11:38Z|Miautex|true|1400|Azure Functions
+Microsoft Azure|2020-06-06T17:04:18Z|Kloburg|false|3144|Google Compute Engine
+Alibaba Cloud|2022-01-13T03:30:55Z|Miautex|false|2102|Amazon DynamoDB
+Microsoft Azure|2020-12-06T23:57:46Z|Kumciaczkos|true|4911|Google Cloud SQL
+Oracle Cloud|2020-08-13T10:48:34Z|Miautex|true|1547|Google Cloud SQL
+Microsoft Azure|2021-08-25T21:07:32Z|Sznippers|true|2211|Azure Virtual Machines
+IBM Cloud|2021-04-26T12:13:10Z|Miautex|true|3187|AWS Lambda
+Google Cloud Platform (GCP)|2021-03-28T06:00:02Z|Xen|false|4058|Amazon S3
+Google Cloud Platform (GCP)|2022-09-16T03:57:03Z|Xen|false|1521|Google Cloud Datastore
+Microsoft Azure|2021-03-18T08:51:57Z|Witold's and Jerzy's|true|2254|Google Cloud Storage
+Amazon Web Services (AWS)|2021-12-15T13:27:21Z|Kloburg|false|3704|Azure Functions
+Microsoft Azure|2022-07-22T06:40:20Z|Xen|true|4184|Azure Blob Storage
+Amazon Web Services (AWS)|2022-01-20T04:42:42Z|Xen|false|4625|Amazon DynamoDB
+Oracle Cloud|2022-08-17T15:34:14Z|Kumciaczkos|false|1897|Google Cloud Functions
+Microsoft Azure|2020-04-12T22:07:52Z|Sznippers|false|3735|Google Cloud Datastore
+Microsoft Azure|2021-03-19T23:33:50Z|Witold's and Jerzy's|false|2004|Google Cloud SQL
+Oracle Cloud|2021-06-20T13:42:33Z|Witold's and Jerzy's|false|2366|Amazon DynamoDB
+Amazon Web Services (AWS)|2022-06-09T07:00:15Z|Sznippers|true|4897|Google Cloud Datastore
+Amazon Web Services (AWS)|2022-02-18T15:04:09Z|Xen|true|960|AWS Lambda
+Google Cloud Platform (GCP)|2021-05-09T23:47:20Z|Witold's and Jerzy's|true|1733|Amazon EC2
+Amazon Web Services (AWS)|2021-06-20T05:11:05Z|Holoubek Corp|true|1940|Azure Blob Storage
+Alibaba Cloud|2020-04-26T23:26:53Z|Xen|false|3388|Google Compute Engine
+IBM Cloud|2020-08-24T13:10:45Z|Xen|false|1111|Google Cloud Storage
+Microsoft Azure|2020-11-27T13:21:41Z|Witold's and Jerzy's|true|873|Azure Virtual Machines
+IBM Cloud|2023-01-12T07:39:27Z|Xen|false|4505|Amazon RDS
+Microsoft Azure|2022-02-20T04:58:19Z|Sznippers|true|1632|Azure SQL Database
+Google Cloud Platform (GCP)|2021-10-21T01:54:26Z|Kloburg|true|2173|Google Cloud SQL
+Oracle Cloud|2023-03-06T05:45:20Z|Xen|false|1214|Amazon DynamoDB
+IBM Cloud|2023-03-16T11:48:01Z|Kloburg|false|2350|Google Compute Engine
+IBM Cloud|2020-11-05T13:39:22Z|Holoubek Corp|true|1529|Azure SQL Database
+Alibaba Cloud|2020-04-29T04:41:54Z|Kumciaczkos|true|1349|Amazon DynamoDB
+Microsoft Azure|2023-02-28T16:17:33Z|Witold's and Jerzy's|true|2752|AWS Lambda
+Google Cloud Platform (GCP)|2020-06-16T19:36:57Z|Sznippers|false|1214|Azure Cosmos DB
+IBM Cloud|2022-06-24T14:10:48Z|Kloburg|false|2956|Amazon EC2
+Google Cloud Platform (GCP)|2022-11-01T05:27:39Z|Kumciaczkos|false|4448|Google Compute Engine
+Google Cloud Platform (GCP)|2022-09-05T23:25:16Z|Holoubek Corp|true|3401|Azure Blob Storage
+Oracle Cloud|2021-09-08T09:43:31Z|Kloburg|true|969|Amazon RDS
+Microsoft Azure|2021-12-08T06:00:10Z|Miautex|false|4720|Azure SQL Database
+IBM Cloud|2023-02-15T15:23:28Z|Kloburg|false|820|Azure Functions
+Microsoft Azure|2022-10-10T19:01:59Z|Sznippers|false|2437|AWS Lambda
+IBM Cloud|2021-03-15T01:31:56Z|Xen|true|696|Amazon RDS
+Oracle Cloud|2020-04-07T16:26:42Z|Kumciaczkos|false|3516|Azure Cosmos DB
+Google Cloud Platform (GCP)|2020-04-04T18:15:58Z|Sznippers|true|3305|Google Cloud Functions
+Amazon Web Services (AWS)|2022-12-13T07:00:58Z|Holoubek Corp|false|4932|Google Compute Engine
+Google Cloud Platform (GCP)|2022-01-18T16:24:51Z|Witold's and Jerzy's|true|567|Google Cloud SQL
+IBM Cloud|2020-07-13T07:20:27Z|Holoubek Corp|true|1367|Amazon DynamoDB
+Alibaba Cloud|2022-09-26T19:55:17Z|Xen|false|2389|Amazon S3
+Alibaba Cloud|2023-01-19T17:07:28Z|Xen|false|1207|Azure Virtual Machines
+Google Cloud Platform (GCP)|2023-05-10T23:24:21Z|Kumciaczkos|true|4783|AWS Lambda
+Google Cloud Platform (GCP)|2022-06-15T07:33:26Z|Miautex|true|4912|Google Compute Engine
+IBM Cloud|2022-02-02T20:26:41Z|Sznippers|true|1912|Google Cloud SQL
+Google Cloud Platform (GCP)|2020-10-10T05:27:07Z|Miautex|true|2296|Amazon DynamoDB
+Amazon Web Services (AWS)|2023-02-02T10:58:50Z|Kloburg|false|1062|Amazon S3
+Alibaba Cloud|2021-12-24T09:10:14Z|Xen|false|1486|Google Cloud Storage
+Amazon Web Services (AWS)|2021-11-26T22:13:10Z|Kumciaczkos|true|782|Azure Blob Storage
+Microsoft Azure|2020-11-05T11:24:46Z|Miautex|true|1315|Amazon S3
+Oracle Cloud|2021-05-19T14:08:36Z|Sznippers|false|3822|Azure Functions
+Alibaba Cloud|2021-04-14T14:28:36Z|Witold's and Jerzy's|true|1116|Azure Virtual Machines
+Amazon Web Services (AWS)|2020-11-08T09:59:48Z|Kumciaczkos|true|1999|Amazon DynamoDB
+Google Cloud Platform (GCP)|2023-04-28T23:47:28Z|Holoubek Corp|true|3228|Google Cloud Functions
+Amazon Web Services (AWS)|2021-11-13T06:44:18Z|Kumciaczkos|true|4708|Google Cloud SQL
+Amazon Web Services (AWS)|2021-06-14T20:14:03Z|Witold's and Jerzy's|true|3068|Amazon EC2
+Microsoft Azure|2020-09-14T08:03:53Z|Xen|true|3360|Google Cloud SQL
+IBM Cloud|2023-02-05T04:28:45Z|Holoubek Corp|false|1022|Amazon EC2
+Microsoft Azure|2022-09-26T22:06:27Z|Miautex|false|1432|Azure Blob Storage
+Alibaba Cloud|2022-06-23T22:50:40Z|Kloburg|true|2400|Google Compute Engine
+Amazon Web Services (AWS)|2020-08-26T19:11:22Z|Witold's and Jerzy's|false|4154|Azure Blob Storage
+Amazon Web Services (AWS)|2020-07-11T07:29:21Z|Holoubek Corp|false|1670|Amazon DynamoDB
+Google Cloud Platform (GCP)|2023-03-19T04:20:24Z|Kumciaczkos|true|4736|Amazon S3
+Oracle Cloud|2021-07-09T17:41:39Z|Holoubek Corp|true|3582|AWS Lambda
+Oracle Cloud|2022-07-20T06:36:01Z|Miautex|true|1963|Amazon EC2
+Oracle Cloud|2021-10-26T22:04:09Z|Witold's and Jerzy's|false|2385|Amazon EC2
+Google Cloud Platform (GCP)|2023-04-29T20:36:23Z|Holoubek Corp|true|1358|Azure Blob Storage
+Alibaba Cloud|2022-01-31T19:13:06Z|Miautex|false|1155|Azure Cosmos DB
+Alibaba Cloud|2020-06-03T11:43:37Z|Kumciaczkos|true|454|Amazon DynamoDB
+Alibaba Cloud|2021-09-30T19:59:55Z|Miautex|false|1056|Amazon RDS
+Microsoft Azure|2020-09-27T18:02:23Z|Miautex|true|4836|Amazon S3
+Oracle Cloud|2021-07-18T00:47:46Z|Sznippers|false|3929|Google Cloud SQL
+Amazon Web Services (AWS)|2022-12-21T03:48:30Z|Kumciaczkos|false|4167|Amazon DynamoDB
+Amazon Web Services (AWS)|2023-05-24T11:45:43Z|Xen|true|2413|Google Cloud Datastore
+Google Cloud Platform (GCP)|2020-06-12T23:37:45Z|Kumciaczkos|true|2434|Amazon S3
+Amazon Web Services (AWS)|2021-06-25T10:57:23Z|Kumciaczkos|true|4630|Amazon DynamoDB
+Alibaba Cloud|2020-04-28T08:49:36Z|Miautex|true|801|Google Cloud Datastore
+Alibaba Cloud|2022-06-17T23:15:23Z|Miautex|false|3074|Google Cloud Functions
+Alibaba Cloud|2023-04-19T19:13:15Z|Holoubek Corp|false|4654|Amazon RDS
+Google Cloud Platform (GCP)|2020-06-06T05:31:26Z|Miautex|false|3583|Google Cloud Functions
+Google Cloud Platform (GCP)|2023-03-03T22:51:11Z|Kumciaczkos|true|2028|Azure Virtual Machines
+Oracle Cloud|2020-11-20T23:14:53Z|Witold's and Jerzy's|true|3112|Google Cloud SQL
+Amazon Web Services (AWS)|2021-07-05T10:58:12Z|Sznippers|true|4272|Google Cloud Datastore
+Amazon Web Services (AWS)|2020-09-01T10:26:11Z|Sznippers|true|4455|Amazon EC2
+Microsoft Azure|2022-07-22T22:53:18Z|Xen|true|3313|Google Cloud Functions
+Alibaba Cloud|2020-07-10T15:20:29Z|Holoubek Corp|false|4260|Google Cloud Storage
+Oracle Cloud|2020-12-16T06:38:07Z|Kloburg|true|512|Amazon EC2
+Microsoft Azure|2020-08-28T00:26:13Z|Holoubek Corp|true|4176|Amazon EC2
+Alibaba Cloud|2020-05-13T13:31:26Z|Witold's and Jerzy's|false|4533|Amazon EC2
+Alibaba Cloud|2022-03-30T11:00:53Z|Witold's and Jerzy's|false|599|Google Cloud Storage
+Amazon Web Services (AWS)|2020-04-18T21:11:45Z|Holoubek Corp|false|1126|Amazon DynamoDB
+Amazon Web Services (AWS)|2020-09-10T10:40:49Z|Miautex|true|2370|Amazon S3
+Amazon Web Services (AWS)|2020-04-13T08:43:32Z|Sznippers|false|1221|Google Cloud Functions
+Google Cloud Platform (GCP)|2020-08-15T06:06:57Z|Kumciaczkos|true|4683|Google Compute Engine
+Amazon Web Services (AWS)|2020-04-11T21:37:43Z|Kumciaczkos|true|3094|Amazon EC2
+IBM Cloud|2020-10-18T19:11:13Z|Holoubek Corp|false|4749|Google Cloud Storage
+Alibaba Cloud|2020-09-15T04:34:18Z|Kloburg|false|2291|Google Cloud Functions
+Amazon Web Services (AWS)|2021-02-14T02:46:50Z|Sznippers|false|2415|Amazon RDS
+Microsoft Azure|2021-05-19T09:01:49Z|Xen|true|2988|Amazon S3
+Alibaba Cloud|2022-09-12T17:34:24Z|Holoubek Corp|false|4821|Amazon EC2
+Oracle Cloud|2021-11-09T02:15:47Z|Xen|true|2638|Google Cloud Functions
+Google Cloud Platform (GCP)|2022-04-08T14:01:51Z|Xen|false|1654|Google Cloud Datastore
+IBM Cloud|2020-12-26T04:38:38Z|Sznippers|true|660|Google Cloud SQL
+IBM Cloud|2023-03-29T16:47:23Z|Holoubek Corp|true|1090|Azure Virtual Machines
+IBM Cloud|2020-12-27T21:08:58Z|Kloburg|true|1003|Google Cloud Storage
+Google Cloud Platform (GCP)|2023-04-02T12:21:35Z|Miautex|false|3459|Amazon EC2
+Google Cloud Platform (GCP)|2022-08-05T06:02:08Z|Miautex|true|3669|Google Cloud Datastore
+IBM Cloud|2020-12-26T09:31:56Z|Sznippers|false|4609|Google Cloud Datastore
+Oracle Cloud|2020-04-15T02:34:37Z|Witold's and Jerzy's|true|625|Google Cloud Storage
+Amazon Web Services (AWS)|2021-02-27T02:24:22Z|Sznippers|false|1787|Azure Cosmos DB
+Google Cloud Platform (GCP)|2022-11-05T12:57:48Z|Miautex|false|1095|Amazon S3
+IBM Cloud|2021-05-16T12:45:10Z|Witold's and Jerzy's|true|881|Azure Cosmos DB
+Google Cloud Platform (GCP)|2022-12-04T05:16:46Z|Kumciaczkos|false|543|Azure SQL Database
+Oracle Cloud|2022-06-30T02:50:15Z|Witold's and Jerzy's|true|4990|Amazon RDS
+Google Cloud Platform (GCP)|2020-04-03T19:51:04Z|Sznippers|true|1114|Google Compute Engine
+Google Cloud Platform (GCP)|2022-04-12T10:03:20Z|Kloburg|false|4588|Azure Virtual Machines
+Google Cloud Platform (GCP)|2021-10-16T19:13:34Z|Holoubek Corp|true|2538|Google Cloud Datastore
+IBM Cloud|2020-05-17T22:50:31Z|Miautex|true|4413|Azure Functions
+Google Cloud Platform (GCP)|2020-06-30T04:21:54Z|Kloburg|true|4601|Azure Cosmos DB
+Alibaba Cloud|2022-10-28T02:31:07Z|Kumciaczkos|false|2390|Google Cloud SQL
+Oracle Cloud|2021-08-04T00:35:05Z|Xen|false|3194|Azure Functions
+Google Cloud Platform (GCP)|2021-06-06T19:33:55Z|Miautex|false|1981|AWS Lambda
+Amazon Web Services (AWS)|2022-03-09T17:24:33Z|Kloburg|false|2592|Amazon S3
+Oracle Cloud|2020-07-19T05:41:24Z|Sznippers|true|1164|Google Compute Engine
+Google Cloud Platform (GCP)|2020-11-06T06:21:11Z|Kumciaczkos|true|1868|Amazon EC2
+Alibaba Cloud|2022-09-27T20:08:49Z|Kumciaczkos|true|3845|Azure Functions
+Oracle Cloud|2021-12-07T16:07:30Z|Xen|true|4221|Google Compute Engine
+Oracle Cloud|2021-05-01T13:23:42Z|Miautex|true|4971|AWS Lambda
+Amazon Web Services (AWS)|2023-04-06T23:36:44Z|Holoubek Corp|true|3854|AWS Lambda
+Microsoft Azure|2022-06-28T13:49:44Z|Xen|true|4499|Google Compute Engine
+IBM Cloud|2022-02-09T10:42:12Z|Xen|false|4824|Azure SQL Database
+Google Cloud Platform (GCP)|2023-04-04T18:27:19Z|Miautex|true|4333|Amazon DynamoDB
+IBM Cloud|2022-03-13T18:35:46Z|Xen|true|1635|Azure Blob Storage
+Alibaba Cloud|2021-12-21T11:45:24Z|Holoubek Corp|false|4370|Google Cloud Datastore
+Amazon Web Services (AWS)|2021-09-22T00:37:57Z|Miautex|true|1019|Google Cloud Datastore
+Amazon Web Services (AWS)|2021-09-02T23:10:24Z|Xen|true|1342|Azure SQL Database
+Microsoft Azure|2020-08-03T11:44:27Z|Kumciaczkos|false|3461|Google Cloud Datastore
+Google Cloud Platform (GCP)|2021-01-06T02:40:51Z|Kumciaczkos|false|4403|Amazon DynamoDB
+Microsoft Azure|2021-11-19T21:12:08Z|Sznippers|false|3753|Google Compute Engine
+Amazon Web Services (AWS)|2023-01-31T10:42:15Z|Witold's and Jerzy's|false|4271|Azure Virtual Machines
+IBM Cloud|2020-10-16T11:16:57Z|Witold's and Jerzy's|true|1138|Google Compute Engine
+IBM Cloud|2021-01-30T14:27:13Z|Holoubek Corp|false|4710|Google Cloud Storage
+IBM Cloud|2021-03-07T08:15:50Z|Witold's and Jerzy's|true|4376|Google Cloud Datastore
+IBM Cloud|2022-02-18T04:29:44Z|Miautex|false|1467|Amazon S3
+Alibaba Cloud|2021-04-06T05:14:17Z|Holoubek Corp|false|3227|Amazon RDS
+Microsoft Azure|2021-05-23T12:46:45Z|Kloburg|true|1091|AWS Lambda
+Microsoft Azure|2021-05-01T05:01:45Z|Holoubek Corp|false|797|Amazon EC2
+Alibaba Cloud|2022-12-11T04:19:35Z|Witold's and Jerzy's|false|3153|Azure Functions
+Alibaba Cloud|2021-12-01T16:47:12Z|Kumciaczkos|false|2392|Azure Functions
+Amazon Web Services (AWS)|2020-12-02T07:27:16Z|Witold's and Jerzy's|true|3343|Google Cloud Functions
+IBM Cloud|2021-12-18T17:28:49Z|Xen|true|823|Amazon RDS
+Oracle Cloud|2022-01-17T00:30:25Z|Kloburg|true|1099|Amazon DynamoDB
+IBM Cloud|2020-11-06T04:01:47Z|Miautex|true|2732|Google Cloud Storage
+Amazon Web Services (AWS)|2022-07-04T20:28:09Z|Xen|true|3451|Google Cloud Functions
+Oracle Cloud|2022-09-15T00:06:47Z|Sznippers|true|763|Azure Blob Storage
+Oracle Cloud|2023-04-01T06:54:59Z|Kumciaczkos|true|3782|Amazon DynamoDB
+Google Cloud Platform (GCP)|2023-01-09T21:54:13Z|Holoubek Corp|true|1034|Azure SQL Database
+Oracle Cloud|2021-03-07T07:55:39Z|Witold's and Jerzy's|false|4311|Amazon S3
+Amazon Web Services (AWS)|2022-02-24T01:19:15Z|Xen|false|3707|Amazon EC2
+Google Cloud Platform (GCP)|2021-08-22T01:21:53Z|Holoubek Corp|true|1181|Azure Cosmos DB
+Amazon Web Services (AWS)|2022-11-05T11:42:50Z|Holoubek Corp|false|4037|Google Compute Engine
+Alibaba Cloud|2021-03-14T10:17:17Z|Holoubek Corp|false|2851|Amazon EC2
+Google Cloud Platform (GCP)|2022-11-04T03:20:07Z|Kloburg|false|4834|Azure Functions
+Oracle Cloud|2022-03-17T02:39:01Z|Kumciaczkos|false|428|Google Cloud SQL
+Amazon Web Services (AWS)|2021-10-12T07:55:37Z|Miautex|false|1358|Azure Functions
+Microsoft Azure|2021-03-01T18:59:52Z|Sznippers|true|4664|Google Cloud SQL
+Amazon Web Services (AWS)|2022-05-30T07:44:39Z|Xen|true|1205|Google Cloud SQL
+Oracle Cloud|2022-08-27T06:14:19Z|Kloburg|true|3096|Azure Functions
+Amazon Web Services (AWS)|2020-10-16T13:53:17Z|Witold's and Jerzy's|true|3763|Azure Functions
+Amazon Web Services (AWS)|2022-04-06T00:48:35Z|Miautex|false|4877|Azure SQL Database
+Amazon Web Services (AWS)|2022-10-31T05:37:35Z|Xen|false|2400|Google Compute Engine
+Amazon Web Services (AWS)|2022-01-14T07:14:49Z|Witold's and Jerzy's|true|2023|Google Compute Engine
+Google Cloud Platform (GCP)|2021-08-26T14:01:36Z|Kloburg|false|1781|Azure Virtual Machines
+IBM Cloud|2022-02-07T19:37:29Z|Xen|true|3687|Amazon EC2
+Alibaba Cloud|2020-12-09T01:58:40Z|Holoubek Corp|true|2345|Amazon DynamoDB
+Google Cloud Platform (GCP)|2021-09-14T17:59:41Z|Kumciaczkos|false|924|Google Cloud Datastore
+Alibaba Cloud|2020-11-06T11:14:07Z|Kloburg|false|4699|Google Cloud SQL
+Google Cloud Platform (GCP)|2022-07-09T07:22:56Z|Sznippers|true|1718|Google Compute Engine
+Amazon Web Services (AWS)|2022-07-23T00:16:31Z|Xen|false|3640|Amazon RDS
+Oracle Cloud|2021-03-04T09:08:20Z|Kloburg|true|424|Google Compute Engine
+Alibaba Cloud|2020-09-20T05:12:30Z|Xen|true|2621|Azure SQL Database
+Google Cloud Platform (GCP)|2022-06-14T20:54:21Z|Kumciaczkos|false|841|Google Cloud Functions
+Alibaba Cloud|2021-06-14T16:11:55Z|Xen|true|1058|Google Cloud Storage
+Alibaba Cloud|2023-03-03T09:55:57Z|Kumciaczkos|false|3825|Google Compute Engine
+Alibaba Cloud|2022-04-19T17:51:57Z|Sznippers|true|4272|Google Cloud Functions
+Amazon Web Services (AWS)|2021-11-19T20:02:34Z|Witold's and Jerzy's|true|4174|AWS Lambda
+Alibaba Cloud|2022-04-05T15:17:14Z|Xen|false|1454|Azure Blob Storage
+Alibaba Cloud|2020-12-23T03:15:50Z|Miautex|true|3102|Amazon RDS
+IBM Cloud|2021-06-08T13:57:55Z|Kumciaczkos|false|3043|Google Cloud Functions
+Alibaba Cloud|2022-09-09T14:56:34Z|Kumciaczkos|false|1244|Google Cloud Storage
+Google Cloud Platform (GCP)|2020-12-05T02:07:21Z|Witold's and Jerzy's|false|714|Azure Cosmos DB
+Oracle Cloud|2021-04-21T19:04:33Z|Sznippers|false|2494|Google Cloud Storage
+Google Cloud Platform (GCP)|2021-12-07T23:57:35Z|Miautex|true|3862|Azure Virtual Machines
+Google Cloud Platform (GCP)|2020-12-25T11:03:21Z|Miautex|false|3429|Amazon RDS
+Oracle Cloud|2021-03-21T05:53:16Z|Witold's and Jerzy's|true|4420|Azure Blob Storage
+Google Cloud Platform (GCP)|2021-04-19T04:18:59Z|Kloburg|true|4253|Azure Blob Storage
+Amazon Web Services (AWS)|2022-07-25T05:18:36Z|Kumciaczkos|false|1165|Google Cloud Datastore
+Oracle Cloud|2021-01-07T07:08:46Z|Kumciaczkos|true|933|Amazon DynamoDB
+Alibaba Cloud|2021-08-07T10:11:56Z|Kloburg|false|496|Azure SQL Database
+Google Cloud Platform (GCP)|2021-09-09T03:57:23Z|Kumciaczkos|true|3525|Google Compute Engine
+Microsoft Azure|2022-02-02T22:47:39Z|Xen|true|4693|Google Cloud SQL
+Microsoft Azure|2022-08-05T12:45:23Z|Kloburg|true|443|Azure Functions
+Amazon Web Services (AWS)|2020-08-05T21:08:05Z|Kumciaczkos|false|4659|Amazon S3
+Oracle Cloud|2021-03-29T19:26:03Z|Miautex|true|1844|Google Compute Engine
+Oracle Cloud|2021-05-14T14:58:48Z|Miautex|true|1843|Amazon DynamoDB
+Alibaba Cloud|2022-01-21T02:16:56Z|Sznippers|true|4459|Google Cloud Datastore
+IBM Cloud|2023-01-28T17:37:43Z|Holoubek Corp|true|3602|Azure Virtual Machines
+IBM Cloud|2020-12-02T21:14:24Z|Kloburg|true|1325|Azure Functions
+Amazon Web Services (AWS)|2021-06-28T15:08:20Z|Kloburg|true|2977|Google Cloud SQL
+IBM Cloud|2023-05-21T08:29:07Z|Kumciaczkos|false|4828|Google Cloud SQL
+Google Cloud Platform (GCP)|2023-03-11T02:26:11Z|Kumciaczkos|true|4412|Amazon RDS
+Google Cloud Platform (GCP)|2020-06-02T01:59:24Z|Witold's and Jerzy's|false|3209|Azure Functions
+Oracle Cloud|2022-02-15T04:00:45Z|Kloburg|false|2100|Azure Blob Storage
+Google Cloud Platform (GCP)|2020-10-17T12:06:19Z|Xen|true|636|Amazon RDS
+IBM Cloud|2022-02-15T02:33:02Z|Holoubek Corp|true|643|Amazon DynamoDB
+IBM Cloud|2023-01-08T09:04:37Z|Xen|false|942|AWS Lambda
+IBM Cloud|2022-02-23T01:11:56Z|Kumciaczkos|true|535|Amazon EC2
+Alibaba Cloud|2022-03-12T14:07:56Z|Xen|false|2954|Amazon S3
+Oracle Cloud|2020-10-03T09:37:22Z|Sznippers|false|1447|Google Cloud SQL
+Alibaba Cloud|2022-06-11T15:09:03Z|Sznippers|true|3644|Azure Blob Storage
+Alibaba Cloud|2021-05-07T14:51:14Z|Kloburg|false|2266|Amazon EC2
+Google Cloud Platform (GCP)|2022-07-19T17:06:04Z|Miautex|false|867|Google Cloud SQL
+Microsoft Azure|2023-03-13T09:01:34Z|Kumciaczkos|false|650|AWS Lambda
+Amazon Web Services (AWS)|2022-02-24T16:28:58Z|Kumciaczkos|false|4814|Google Compute Engine
+Alibaba Cloud|2021-03-13T13:21:07Z|Xen|false|1305|Google Cloud Storage
+Google Cloud Platform (GCP)|2020-10-03T11:26:43Z|Sznippers|true|640|AWS Lambda
+Google Cloud Platform (GCP)|2021-11-04T16:32:20Z|Xen|false|4936|Google Cloud Functions
+IBM Cloud|2021-04-13T21:24:06Z|Kumciaczkos|true|3344|Google Cloud Storage
+Alibaba Cloud|2022-05-28T01:42:34Z|Kumciaczkos|true|4736|Amazon DynamoDB
+Alibaba Cloud|2022-01-21T21:28:29Z|Kumciaczkos|true|864|AWS Lambda
+Google Cloud Platform (GCP)|2022-10-12T18:17:18Z|Holoubek Corp|false|1994|AWS Lambda
+Amazon Web Services (AWS)|2021-07-01T17:28:21Z|Holoubek Corp|false|4133|AWS Lambda
+Microsoft Azure|2021-05-30T21:18:43Z|Sznippers|true|3022|Azure Blob Storage
+Google Cloud Platform (GCP)|2022-01-16T07:19:09Z|Kumciaczkos|true|1534|Google Compute Engine
+Alibaba Cloud|2022-09-06T19:26:30Z|Witold's and Jerzy's|true|4835|Google Cloud Functions
+Google Cloud Platform (GCP)|2022-09-26T03:58:02Z|Kloburg|true|1989|Azure Virtual Machines
+Microsoft Azure|2021-04-21T14:49:34Z|Kumciaczkos|false|1658|Amazon RDS
+Amazon Web Services (AWS)|2020-10-30T19:51:14Z|Holoubek Corp|true|2121|Amazon RDS
+Google Cloud Platform (GCP)|2020-10-31T01:46:17Z|Kumciaczkos|true|2674|Azure Virtual Machines
+IBM Cloud|2020-11-12T03:02:05Z|Xen|true|4311|Amazon S3
+Microsoft Azure|2021-07-31T23:50:25Z|Kloburg|false|3858|Amazon S3
+Google Cloud Platform (GCP)|2020-11-09T10:08:05Z|Holoubek Corp|false|2464|Amazon DynamoDB
+Microsoft Azure|2021-04-17T19:37:37Z|Witold's and Jerzy's|true|1080|Google Cloud Datastore
+Alibaba Cloud|2021-12-16T12:38:23Z|Holoubek Corp|true|433|Google Compute Engine
+IBM Cloud|2022-12-28T07:12:23Z|Miautex|false|1243|Amazon DynamoDB
+Microsoft Azure|2020-07-12T03:39:00Z|Sznippers|false|4311|Azure SQL Database
+IBM Cloud|2022-08-07T21:23:39Z|Sznippers|false|3609|Azure Functions
+IBM Cloud|2021-09-29T22:00:57Z|Xen|false|2542|Azure Functions
+Alibaba Cloud|2022-07-22T23:41:32Z|Witold's and Jerzy's|true|3958|Azure Virtual Machines
+Oracle Cloud|2023-01-28T15:26:59Z|Kumciaczkos|false|1895|Google Cloud Storage
+Amazon Web Services (AWS)|2021-11-29T02:10:10Z|Witold's and Jerzy's|true|4949|Azure Cosmos DB
+IBM Cloud|2022-11-13T14:09:39Z|Sznippers|false|3502|Google Cloud Datastore
+Alibaba Cloud|2021-10-19T15:31:43Z|Miautex|true|458|Google Cloud Functions
+IBM Cloud|2021-05-27T00:41:42Z|Miautex|true|3837|Amazon RDS
+Alibaba Cloud|2023-04-04T05:44:56Z|Kloburg|false|1948|Azure Functions
+Google Cloud Platform (GCP)|2020-09-18T17:33:06Z|Kumciaczkos|false|1949|Amazon S3
+Alibaba Cloud|2022-05-25T07:30:32Z|Miautex|false|4049|Google Compute Engine
+Oracle Cloud|2020-04-13T07:26:53Z|Xen|false|471|Azure Blob Storage
+Oracle Cloud|2020-06-27T19:03:43Z|Holoubek Corp|false|4139|Google Cloud Datastore
+Oracle Cloud|2021-12-30T02:04:29Z|Witold's and Jerzy's|true|2241|Azure Cosmos DB
+Microsoft Azure|2022-04-23T22:35:58Z|Kloburg|true|1401|Amazon RDS
+Google Cloud Platform (GCP)|2022-08-07T04:31:48Z|Xen|false|1185|Google Cloud SQL
+Amazon Web Services (AWS)|2021-07-10T21:51:12Z|Witold's and Jerzy's|false|4824|Azure Virtual Machines
+Alibaba Cloud|2023-03-17T12:46:25Z|Kloburg|false|1640|Google Cloud Datastore
+Oracle Cloud|2021-07-30T13:06:51Z|Kloburg|false|601|Azure Functions
+Alibaba Cloud|2022-11-15T08:21:51Z|Xen|true|3258|Azure SQL Database
+Oracle Cloud|2022-01-19T00:34:24Z|Witold's and Jerzy's|false|2521|Azure SQL Database
+Microsoft Azure|2020-09-26T22:27:04Z|Xen|false|867|Azure Functions
+Google Cloud Platform (GCP)|2020-11-29T11:52:53Z|Holoubek Corp|false|4593|Azure SQL Database
+IBM Cloud|2022-02-03T05:58:31Z|Witold's and Jerzy's|false|3627|Google Cloud Datastore
+IBM Cloud|2020-09-06T09:00:44Z|Xen|false|3272|Azure Cosmos DB
+Oracle Cloud|2023-03-02T06:53:46Z|Xen|true|2815|Azure Virtual Machines
+Microsoft Azure|2020-12-05T21:52:06Z|Sznippers|false|3027|Amazon DynamoDB
+Microsoft Azure|2021-07-30T17:56:14Z|Holoubek Corp|true|3023|Azure Blob Storage
+Amazon Web Services (AWS)|2021-10-17T00:02:59Z|Witold's and Jerzy's|false|3498|Azure SQL Database
+IBM Cloud|2022-02-13T06:35:13Z|Kloburg|false|2722|Azure Functions
+Google Cloud Platform (GCP)|2020-04-27T01:41:22Z|Sznippers|false|3960|Azure Blob Storage
+Alibaba Cloud|2021-10-14T10:04:36Z|Xen|false|4312|Azure Functions
+IBM Cloud|2021-12-24T05:42:57Z|Miautex|false|954|Google Cloud SQL
+Oracle Cloud|2020-08-06T09:34:43Z|Xen|true|2038|AWS Lambda
+Oracle Cloud|2022-02-19T21:04:51Z|Holoubek Corp|true|1164|AWS Lambda
+IBM Cloud|2021-08-05T16:02:16Z|Witold's and Jerzy's|true|1687|Azure SQL Database
+Oracle Cloud|2021-09-06T03:35:04Z|Miautex|false|2833|Azure Blob Storage
+Amazon Web Services (AWS)|2021-03-12T11:03:40Z|Miautex|false|3620|Amazon DynamoDB
+Google Cloud Platform (GCP)|2022-12-17T16:42:23Z|Xen|true|4418|Google Cloud Functions
+Google Cloud Platform (GCP)|2022-10-23T19:37:46Z|Sznippers|false|4267|Google Cloud SQL
+Alibaba Cloud|2022-03-12T22:56:08Z|Holoubek Corp|false|4697|Azure Functions
+Amazon Web Services (AWS)|2022-01-20T18:32:54Z|Miautex|true|3840|Amazon DynamoDB
+Microsoft Azure|2020-08-28T15:05:44Z|Miautex|false|3746|Google Cloud Functions
+Microsoft Azure|2021-10-19T14:56:29Z|Kumciaczkos|false|2569|AWS Lambda
+Oracle Cloud|2020-08-15T21:16:30Z|Kloburg|true|1796|Google Compute Engine
+Alibaba Cloud|2021-04-14T11:29:51Z|Miautex|true|2228|Google Compute Engine
+Oracle Cloud|2023-05-04T00:37:50Z|Miautex|false|2904|Azure Blob Storage
+Amazon Web Services (AWS)|2020-07-19T02:10:45Z|Holoubek Corp|true|2273|Google Compute Engine
+IBM Cloud|2023-05-27T15:39:18Z|Holoubek Corp|false|4119|Google Cloud Functions
+Amazon Web Services (AWS)|2023-04-21T06:25:58Z|Witold's and Jerzy's|false|3617|Amazon DynamoDB
+Amazon Web Services (AWS)|2021-03-11T23:28:40Z|Sznippers|false|2668|Google Cloud SQL
+Microsoft Azure|2023-01-13T22:55:38Z|Xen|false|4685|Azure Virtual Machines
+Microsoft Azure|2020-11-16T06:47:41Z|Kumciaczkos|false|3515|Azure Cosmos DB
+IBM Cloud|2021-10-25T06:40:32Z|Kloburg|true|2714|Azure Virtual Machines
+IBM Cloud|2020-09-16T17:28:30Z|Holoubek Corp|false|4367|Google Cloud SQL
+Oracle Cloud|2022-07-27T22:38:06Z|Sznippers|false|1238|Amazon S3
+IBM Cloud|2022-12-26T14:18:26Z|Holoubek Corp|true|3888|AWS Lambda
+Google Cloud Platform (GCP)|2021-09-09T00:54:40Z|Xen|false|3373|Google Cloud Datastore
+Oracle Cloud|2023-01-01T19:42:57Z|Miautex|true|1734|Amazon RDS
+Google Cloud Platform (GCP)|2020-12-24T23:54:29Z|Witold's and Jerzy's|false|764|Azure Functions
+Microsoft Azure|2020-12-04T06:12:18Z|Holoubek Corp|true|787|Azure SQL Database
+Amazon Web Services (AWS)|2022-07-18T21:41:52Z|Sznippers|false|1802|Amazon RDS
+Microsoft Azure|2022-06-19T16:37:31Z|Holoubek Corp|false|3048|Azure Virtual Machines
+Amazon Web Services (AWS)|2020-08-16T10:40:50Z|Witold's and Jerzy's|true|4892|Azure Functions
+Google Cloud Platform (GCP)|2022-05-04T07:53:47Z|Miautex|false|1246|Google Cloud SQL
+Alibaba Cloud|2020-07-15T05:20:53Z|Kumciaczkos|true|3601|Amazon S3
+Oracle Cloud|2022-05-20T22:00:41Z|Witold's and Jerzy's|true|1919|Amazon EC2
+IBM Cloud|2023-01-08T21:20:57Z|Kloburg|false|4629|Google Compute Engine
+Amazon Web Services (AWS)|2021-06-25T17:27:14Z|Kloburg|false|4646|Google Cloud Datastore
+Microsoft Azure|2021-10-14T21:25:19Z|Kumciaczkos|true|2241|Azure Functions
+Amazon Web Services (AWS)|2020-06-05T12:50:46Z|Holoubek Corp|true|4764|Google Cloud Functions
+Alibaba Cloud|2020-10-15T13:56:14Z|Kloburg|false|2227|Azure Cosmos DB
+Amazon Web Services (AWS)|2021-05-31T09:44:02Z|Holoubek Corp|true|2264|AWS Lambda
+IBM Cloud|2023-04-04T09:47:33Z|Kumciaczkos|true|519|Amazon DynamoDB
+Oracle Cloud|2020-12-16T13:10:53Z|Xen|false|4120|Azure Virtual Machines
+Microsoft Azure|2021-04-27T19:20:48Z|Witold's and Jerzy's|true|4921|Amazon EC2
+IBM Cloud|2022-11-11T08:32:05Z|Xen|true|419|Azure Virtual Machines
+Alibaba Cloud|2022-07-22T12:41:07Z|Miautex|true|3631|Azure SQL Database
+Alibaba Cloud|2022-04-15T22:08:08Z|Kloburg|true|3535|Azure Virtual Machines
+Google Cloud Platform (GCP)|2022-09-10T00:24:07Z|Miautex|true|926|Google Cloud Storage
+Alibaba Cloud|2020-12-25T01:37:07Z|Xen|true|4347|Google Cloud Datastore
+IBM Cloud|2020-06-21T09:48:41Z|Kumciaczkos|false|4725|Amazon EC2
+Microsoft Azure|2023-02-11T21:52:54Z|Miautex|true|4729|Azure Virtual Machines
+Oracle Cloud|2021-10-05T13:39:49Z|Xen|false|4848|AWS Lambda
+Google Cloud Platform (GCP)|2020-12-29T23:25:55Z|Holoubek Corp|false|608|Amazon EC2
+Alibaba Cloud|2020-04-05T11:14:51Z|Xen|true|1193|Azure Blob Storage
+Google Cloud Platform (GCP)|2020-06-09T19:31:55Z|Miautex|true|3552|Azure SQL Database
+IBM Cloud|2021-05-24T18:39:52Z|Xen|false|1010|Azure Cosmos DB
+Oracle Cloud|2023-01-31T03:06:58Z|Holoubek Corp|false|4105|Azure Blob Storage
+IBM Cloud|2022-09-21T02:08:09Z|Xen|false|2619|Amazon DynamoDB
+Google Cloud Platform (GCP)|2023-03-29T12:37:06Z|Sznippers|true|4439|Azure Cosmos DB
+Google Cloud Platform (GCP)|2020-09-09T21:08:19Z|Kloburg|true|4607|Azure Blob Storage
+Oracle Cloud|2021-03-08T08:13:29Z|Sznippers|true|3648|Amazon RDS
+Google Cloud Platform (GCP)|2022-11-23T22:56:26Z|Kloburg|true|3970|Google Cloud Datastore
+Alibaba Cloud|2022-06-17T07:04:32Z|Kloburg|false|1759|Amazon DynamoDB
+Google Cloud Platform (GCP)|2021-11-23T16:14:53Z|Kumciaczkos|false|4745|Google Cloud Storage
+IBM Cloud|2022-10-09T15:55:12Z|Xen|false|4324|Azure SQL Database
+IBM Cloud|2021-09-30T17:04:12Z|Sznippers|true|1769|Azure Blob Storage
+Microsoft Azure|2021-12-03T15:56:59Z|Sznippers|false|1412|Google Cloud Storage
+Oracle Cloud|2020-08-10T15:05:02Z|Witold's and Jerzy's|true|3464|Azure Virtual Machines
+Microsoft Azure|2021-01-16T05:32:52Z|Xen|false|1357|Azure SQL Database
+Alibaba Cloud|2021-07-03T11:21:02Z|Sznippers|false|1977|Google Cloud Storage
+IBM Cloud|2021-12-04T11:05:11Z|Miautex|true|1616|Azure Functions
+IBM Cloud|2021-01-11T14:26:38Z|Holoubek Corp|false|4527|Google Cloud Datastore
+Alibaba Cloud|2021-07-12T02:48:34Z|Witold's and Jerzy's|false|4382|Azure Virtual Machines
+Oracle Cloud|2021-04-29T14:39:09Z|Xen|false|1787|Azure Blob Storage
+Microsoft Azure|2021-07-14T12:56:16Z|Xen|true|465|Azure Virtual Machines
+Alibaba Cloud|2020-05-17T20:38:40Z|Sznippers|true|2357|Google Cloud SQL
+IBM Cloud|2021-05-14T19:56:50Z|Witold's and Jerzy's|true|853|Azure Cosmos DB
+Oracle Cloud|2021-07-17T13:26:49Z|Kloburg|false|4003|Google Cloud SQL
+IBM Cloud|2020-12-12T14:42:18Z|Xen|true|3972|Google Cloud Datastore
+Alibaba Cloud|2020-09-06T18:36:32Z|Sznippers|false|1923|Azure Functions
+Google Cloud Platform (GCP)|2022-04-14T11:07:27Z|Witold's and Jerzy's|true|4512|Amazon S3
+Google Cloud Platform (GCP)|2021-09-02T05:01:57Z|Kumciaczkos|false|4908|Azure SQL Database
+Oracle Cloud|2023-02-11T16:27:18Z|Kumciaczkos|true|4949|Amazon EC2
+Amazon Web Services (AWS)|2020-06-21T18:02:45Z|Kloburg|false|1839|Amazon RDS
+Amazon Web Services (AWS)|2020-09-25T11:57:22Z|Kumciaczkos|false|1777|Google Cloud SQL
+IBM Cloud|2021-04-19T04:10:57Z|Xen|true|1537|Amazon EC2
+Google Cloud Platform (GCP)|2020-12-14T23:28:47Z|Kloburg|false|4936|Amazon DynamoDB
+Amazon Web Services (AWS)|2021-09-17T04:18:14Z|Witold's and Jerzy's|false|4471|Amazon S3
+Amazon Web Services (AWS)|2020-07-22T20:01:45Z|Sznippers|true|1794|Azure Virtual Machines
+Microsoft Azure|2022-07-20T12:42:07Z|Miautex|false|2272|Google Cloud Functions
+Alibaba Cloud|2020-06-29T20:24:15Z|Sznippers|false|2591|Amazon EC2
+Alibaba Cloud|2021-04-20T15:03:34Z|Kloburg|true|4040|Amazon S3
+IBM Cloud|2021-12-17T08:43:42Z|Kloburg|true|3848|Google Cloud SQL
+Amazon Web Services (AWS)|2023-03-06T01:24:17Z|Miautex|true|3287|Google Compute Engine
+Oracle Cloud|2022-02-08T03:25:38Z|Kloburg|false|3366|Amazon RDS
+Google Cloud Platform (GCP)|2021-12-26T11:48:50Z|Sznippers|true|4204|Azure SQL Database
+IBM Cloud|2023-02-02T04:57:06Z|Kumciaczkos|true|2445|AWS Lambda
+Alibaba Cloud|2023-01-24T11:02:26Z|Xen|true|2211|Google Cloud Datastore
+Oracle Cloud|2022-01-19T03:51:26Z|Kloburg|true|4669|Google Cloud Datastore
+Microsoft Azure|2022-02-14T08:19:46Z|Miautex|false|2568|Amazon DynamoDB
+Microsoft Azure|2020-06-15T18:27:22Z|Kloburg|true|4309|Amazon DynamoDB
+Oracle Cloud|2023-02-01T08:06:52Z|Kumciaczkos|true|3162|Azure Virtual Machines
+IBM Cloud|2020-11-25T15:09:57Z|Sznippers|true|4539|Google Cloud Functions
+Amazon Web Services (AWS)|2022-02-05T04:54:35Z|Witold's and Jerzy's|false|1843|Azure Blob Storage
+Google Cloud Platform (GCP)|2022-02-11T01:00:41Z|Kloburg|true|4426|Google Cloud Storage

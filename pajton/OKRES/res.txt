@@ -1,0 +1,552 @@
+cycle 0
+Period start date: 2023-04-15 22:00:00.0
+Period end date: 2023-04-20 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 1
+Period start date: 2023-03-26 22:00:00.0
+Period end date: 2023-03-30 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 2
+Period start date: 2023-02-24 23:00:00.0
+Period end date: 2023-02-28 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 3
+Period start date: 2023-01-26 23:00:00.0
+Period end date: 2023-01-30 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 4
+Period start date: 2022-12-29 23:00:00.0
+Period end date: 2023-01-02 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 5
+Period start date: 2022-11-29 23:00:00.0
+Period end date: 2022-12-04 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 6
+Period start date: 2022-10-31 23:00:00.0
+Period end date: 2022-11-04 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 7
+Period start date: 2022-10-04 22:00:00.0
+Period end date: 2022-10-08 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 8
+Period start date: 2022-09-06 22:00:00.0
+Period end date: 2022-09-11 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 9
+Period start date: 2022-08-09 22:00:00.0
+Period end date: 2022-08-13 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 10
+Period start date: 2022-07-09 22:00:00.0
+Period end date: 2022-07-13 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 11
+Period start date: 2022-06-08 22:00:00.0
+Period end date: 2022-06-12 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 12
+Period start date: 2022-05-10 22:00:00.0
+Period end date: 2022-05-14 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 13
+Period start date: 2022-04-11 22:00:00.0
+Period end date: 2022-04-15 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 14
+Period start date: 2022-03-14 23:00:00.0
+Period end date: 2022-03-19 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 15
+Period start date: 2022-02-12 23:00:00.0
+Period end date: 2022-02-16 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 16
+Period start date: 2022-01-14 23:00:00.0
+Period end date: 2022-01-18 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 17
+Period start date: 2021-12-21 23:00:00.0
+Period end date: 2021-12-25 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 18
+Period start date: 2021-11-23 23:00:00.0
+Period end date: 2021-11-27 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 19
+Period start date: 2021-10-28 22:00:00.0
+Period end date: 2021-11-01 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 20
+Period start date: 2021-10-01 22:00:00.0
+Period end date: 2021-10-05 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 21
+Period start date: 2021-09-03 22:00:00.0
+Period end date: 2021-09-07 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 22
+Period start date: 2021-08-06 22:00:00.0
+Period end date: 2021-08-10 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 23
+Period start date: 2021-07-10 22:00:00.0
+Period end date: 2021-07-14 22:00:00.0
+Pregnant: False
+Period intensity: 
+Day 0: intensity: Medium 
+---------------
+cycle 24
+Period start date: 2021-06-10 22:00:00.0
+Period end date: 2021-06-14 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 25
+Period start date: 2021-05-15 22:00:00.0
+Period end date: 2021-05-19 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 26
+Period start date: 2021-04-16 22:00:00.0
+Period end date: 2021-04-20 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 27
+Period start date: 2021-03-19 23:00:00.0
+Period end date: 2021-03-23 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 28
+Period start date: 2021-02-16 23:00:00.0
+Period end date: 2021-02-21 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 29
+Period start date: 2021-01-19 23:00:00.0
+Period end date: 2021-01-23 23:00:00.0
+Pregnant: False
+Period intensity: 
+Day 0: intensity: High 
+---------------
+cycle 30
+Period start date: 2020-12-21 23:00:00.0
+Period end date: 2020-12-25 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 31
+Period start date: 2020-11-22 23:00:00.0
+Period end date: 2020-11-26 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 32
+Period start date: 2020-10-25 23:00:00.0
+Period end date: 2020-10-29 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 33
+Period start date: 2020-09-27 22:00:00.0
+Period end date: 2020-10-01 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 34
+Period start date: 2020-08-29 22:00:00.0
+Period end date: 2020-09-02 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 35
+Period start date: 2020-08-02 22:00:00.0
+Period end date: 2020-08-06 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 36
+Period start date: 2020-07-11 22:00:00.0
+Period end date: 2020-07-14 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 37
+Period start date: 2020-06-20 22:00:00.0
+Period end date: 2020-06-23 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 38
+Period start date: 2020-05-20 22:00:00.0
+Period end date: 2020-05-23 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 39
+Period start date: 2020-04-22 22:00:00.0
+Period end date: 2020-04-25 22:00:00.0
+Pregnant: False
+Period intensity: 
+Day 2: intensity: Medium 
+---------------
+cycle 40
+Period start date: 2020-03-22 23:00:00.0
+Period end date: 2020-03-25 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 41
+Period start date: 2020-02-18 23:00:00.0
+Period end date: 2020-02-22 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 42
+Period start date: 2020-01-22 23:00:00.0
+Period end date: 2020-01-26 23:00:00.0
+Pregnant: False
+Period intensity: 
+Day 0: intensity: Low 
+Day 1: intensity: Low 
+---------------
+cycle 43
+Period start date: 2020-01-02 23:00:00.0
+Period end date: 2020-01-06 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 44
+Period start date: 2019-12-06 23:00:00.0
+Period end date: 2019-12-09 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 45
+Period start date: 2019-11-11 23:00:00.0
+Period end date: 2019-11-14 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 46
+Period start date: 2019-10-15 22:00:00.0
+Period end date: 2019-10-20 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 47
+Period start date: 2019-09-15 22:00:00.0
+Period end date: 2019-09-18 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 48
+Period start date: 2019-08-17 22:00:00.0
+Period end date: 2019-08-20 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 49
+Period start date: 2019-07-16 22:00:00.0
+Period end date: 2019-07-19 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 50
+Period start date: 2019-06-11 22:00:00.0
+Period end date: 2019-06-14 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 51
+Period start date: 2019-05-14 22:00:00.0
+Period end date: 2019-05-17 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 52
+Period start date: 2019-04-10 22:00:00.0
+Period end date: 2019-04-15 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 53
+Period start date: 2019-03-14 23:00:00.0
+Period end date: 2019-03-18 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 54
+Period start date: 2019-02-13 23:00:00.0
+Period end date: 2019-02-17 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 55
+Period start date: 2019-01-08 23:00:00.0
+Period end date: 2019-01-11 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 56
+Period start date: 2016-12-01 23:00:00.0
+Period end date: 2016-12-05 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 57
+Period start date: 2016-06-26 22:00:00.0
+Period end date: 2016-06-29 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 58
+Period start date: 2017-03-23 23:00:00.0
+Period end date: 2017-03-25 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 59
+Period start date: 2016-05-03 22:00:00.0
+Period end date: 2016-05-07 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 60
+Period start date: 2017-08-13 22:00:00.0
+Period end date: 2017-08-16 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 61
+Period start date: 2016-11-03 23:00:00.0
+Period end date: 2016-11-05 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 62
+Period start date: 2016-03-31 22:00:00.0
+Period end date: 2016-04-03 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 63
+Period start date: 2016-07-28 22:00:00.0
+Period end date: 2016-07-31 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 64
+Period start date: 2017-06-16 22:00:00.0
+Period end date: 2017-06-20 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 65
+Period start date: 2017-05-14 22:00:00.0
+Period end date: 2017-05-18 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 66
+Period start date: 2017-04-14 22:00:00.0
+Period end date: 2017-04-18 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 67
+Period start date: 2017-07-07 22:00:00.0
+Period end date: 2017-07-10 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 68
+Period start date: 2017-10-09 22:00:00.0
+Period end date: 2017-10-13 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 69
+Period start date: 2017-09-15 22:00:00.0
+Period end date: 2017-09-18 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 70
+Period start date: 2017-11-01 23:00:00.0
+Period end date: 2017-11-04 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 71
+Period start date: 2016-05-31 22:00:00.0
+Period end date: 2016-06-03 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 72
+Period start date: 2018-02-17 23:00:00.0
+Period end date: 2018-02-20 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 73
+Period start date: 2018-01-20 23:00:00.0
+Period end date: 2018-01-23 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 74
+Period start date: 2017-12-22 23:00:00.0
+Period end date: 2017-12-25 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 75
+Period start date: 2016-08-29 22:00:00.0
+Period end date: 2016-09-02 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 76
+Period start date: 2017-11-29 23:00:00.0
+Period end date: 2017-12-02 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 77
+Period start date: 2016-09-28 22:00:00.0
+Period end date: 2016-10-02 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 78
+Period start date: 2016-12-31 23:00:00.0
+Period end date: 2017-01-03 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 79
+Period start date: 2017-02-26 23:00:00.0
+Period end date: 2017-03-01 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 80
+Period start date: 2017-01-30 23:00:00.0
+Period end date: 2017-02-02 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 81
+Period start date: 2018-03-25 22:00:00.0
+Period end date: 2018-03-28 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 82
+Period start date: 2018-04-14 22:00:00.0
+Period end date: 2018-04-17 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 83
+Period start date: 2018-05-16 22:00:00.0
+Period end date: 2018-05-19 22:00:00.0
+Pregnant: False
+Period intensity: 
+Day 0: intensity: Medium 
+---------------
+cycle 84
+Period start date: 2018-06-11 22:00:00.0
+Period end date: 2018-06-14 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 85
+Period start date: 2018-10-14 22:00:00.0
+Period end date: 2018-10-17 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 86
+Period start date: 2018-07-13 22:00:00.0
+Period end date: 2018-07-17 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 87
+Period start date: 2018-09-13 22:00:00.0
+Period end date: 2018-09-16 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 88
+Period start date: 2018-08-15 22:00:00.0
+Period end date: 2018-08-18 22:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 89
+Period start date: 2018-12-09 23:00:00.0
+Period end date: 2018-12-12 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------
+cycle 90
+Period start date: 2018-11-14 23:00:00.0
+Period end date: 2018-11-17 23:00:00.0
+Pregnant: False
+Period intensity: 
+---------------

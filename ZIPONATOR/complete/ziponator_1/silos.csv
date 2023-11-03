@@ -1,0 +1,1001 @@
+amount,event_datetime,brand,active,sales,silos
+189,2021-12-02T17:55:52Z,Witold's and Jerzy's,true,4232,Soybean
+285,2023-05-20T04:00:32Z,Sznippers,true,1125,Rice
+280,2021-04-30T05:56:18Z,Miautex,true,3834,Oats
+155,2021-11-19T19:56:03Z,Witold's and Jerzy's,true,2561,Soybean
+437,2023-01-09T12:51:40Z,Holoubek Corp,false,2970,Flaxseed
+273,2021-11-12T13:20:18Z,Sznippers,false,1255,Flaxseed
+370,2022-07-25T22:06:18Z,Miautex,true,2725,Flaxseed
+157,2021-07-18T21:10:54Z,Kloburg,true,2405,Rice
+252,2021-01-18T17:49:50Z,Kumciaczkos,true,3655,Sunflower
+143,2023-03-21T14:54:37Z,Sznippers,false,1793,Rice
+353,2022-12-23T18:13:27Z,Kloburg,true,2862,Rice
+119,2021-10-26T19:05:04Z,Kloburg,false,2697,Wheat
+279,2022-05-10T02:09:37Z,Holoubek Corp,false,4724,Barley
+178,2022-02-03T17:13:36Z,Kumciaczkos,true,2566,Soybean
+272,2020-11-24T07:57:52Z,Witold's and Jerzy's,false,4738,Oats
+144,2020-06-25T16:21:09Z,Kumciaczkos,true,4067,Oats
+489,2020-12-06T12:49:41Z,Miautex,false,4653,Cotton
+306,2021-10-29T04:44:53Z,Miautex,true,3373,Rice
+481,2020-05-29T08:30:12Z,Sznippers,true,4351,Soybean
+321,2021-12-17T00:09:28Z,Xen,true,2240,Oats
+341,2022-11-14T03:40:43Z,Xen,true,1779,Flaxseed
+188,2023-02-05T17:23:45Z,Holoubek Corp,false,2035,Barley
+333,2021-01-30T06:57:32Z,Witold's and Jerzy's,false,2593,Soybean
+287,2022-12-13T22:54:55Z,Holoubek Corp,false,3173,Rice
+128,2021-02-16T06:27:44Z,Kumciaczkos,false,1238,Barley
+224,2021-06-29T11:25:02Z,Miautex,true,3910,Corn
+242,2023-01-16T07:56:53Z,Holoubek Corp,true,1441,Cotton
+466,2023-04-12T15:04:52Z,Kloburg,false,1575,Barley
+214,2021-01-10T14:07:55Z,Witold's and Jerzy's,true,451,Cotton
+284,2021-10-07T15:34:26Z,Xen,false,2749,Barley
+137,2021-12-01T19:41:54Z,Miautex,true,2411,Barley
+176,2021-02-07T21:19:24Z,Miautex,true,2714,Soybean
+349,2021-06-10T07:26:17Z,Sznippers,true,1097,Rice
+223,2020-10-08T15:25:08Z,Kumciaczkos,false,2999,Wheat
+259,2021-05-03T06:16:41Z,Sznippers,false,1237,Barley
+235,2020-08-07T07:02:14Z,Xen,true,2207,Corn
+412,2022-04-11T23:35:18Z,Kumciaczkos,true,3909,Barley
+319,2022-05-06T03:22:39Z,Miautex,false,1048,Oats
+184,2020-07-31T05:31:08Z,Kloburg,false,3379,Soybean
+481,2020-05-30T12:10:13Z,Kumciaczkos,true,3323,Soybean
+170,2022-04-18T14:42:39Z,Xen,false,4287,Oats
+295,2020-05-04T15:30:58Z,Witold's and Jerzy's,false,1413,Wheat
+254,2022-02-26T05:34:35Z,Miautex,true,532,Rice
+270,2020-11-17T12:30:12Z,Kumciaczkos,false,3542,Flaxseed
+319,2022-02-04T17:33:28Z,Sznippers,true,4768,Cotton
+371,2022-12-02T13:58:03Z,Kloburg,false,609,Wheat
+469,2021-11-15T16:46:25Z,Kumciaczkos,false,541,Corn
+132,2022-11-15T05:53:37Z,Kumciaczkos,true,2237,Sunflower
+240,2021-04-26T21:46:01Z,Kloburg,true,3898,Soybean
+470,2021-05-31T15:56:49Z,Kumciaczkos,true,1889,Rice
+365,2020-11-09T16:01:19Z,Kumciaczkos,false,1332,Flaxseed
+254,2022-10-03T22:22:38Z,Miautex,true,3507,Soybean
+225,2022-08-04T15:41:56Z,Kloburg,false,2049,Cotton
+363,2022-04-10T08:05:00Z,Xen,true,3773,Corn
+299,2020-11-16T11:51:12Z,Kloburg,false,2346,Flaxseed
+232,2022-06-12T07:01:50Z,Xen,true,4265,Oats
+468,2021-05-27T00:41:34Z,Witold's and Jerzy's,false,2175,Rice
+207,2022-06-27T02:51:49Z,Xen,true,595,Cotton
+304,2021-05-06T15:49:24Z,Holoubek Corp,false,3011,Rice
+255,2020-05-28T10:08:58Z,Kumciaczkos,true,923,Soybean
+216,2020-12-20T08:32:10Z,Sznippers,true,4012,Oats
+286,2022-03-08T13:18:16Z,Xen,false,4978,Canola
+421,2022-05-01T11:18:31Z,Sznippers,true,3286,Flaxseed
+465,2023-02-11T22:54:50Z,Miautex,true,1511,Corn
+358,2022-06-02T14:52:02Z,Kloburg,true,974,Barley
+411,2022-10-10T06:14:58Z,Miautex,false,3507,Oats
+493,2021-10-06T07:48:47Z,Witold's and Jerzy's,true,3294,Wheat
+481,2021-11-13T22:54:53Z,Xen,true,4464,Cotton
+381,2021-01-31T09:43:22Z,Kloburg,false,2111,Barley
+233,2021-01-17T08:22:00Z,Kumciaczkos,true,1701,Barley
+215,2023-04-16T23:56:45Z,Witold's and Jerzy's,true,979,Canola
+316,2021-01-07T04:14:17Z,Holoubek Corp,false,2862,Rice
+440,2022-01-26T02:25:13Z,Xen,false,3242,Barley
+182,2021-10-21T03:41:51Z,Sznippers,false,4533,Sunflower
+345,2022-06-02T03:29:38Z,Kloburg,true,2057,Flaxseed
+383,2022-09-14T09:57:23Z,Sznippers,true,2462,Soybean
+194,2022-05-07T21:08:18Z,Holoubek Corp,false,2264,Rice
+493,2022-08-26T07:31:28Z,Miautex,true,4201,Wheat
+161,2021-03-30T20:25:11Z,Xen,true,4253,Cotton
+164,2020-06-21T21:28:17Z,Kloburg,true,4396,Flaxseed
+346,2022-03-18T12:28:37Z,Xen,false,1322,Barley
+216,2021-05-14T12:10:57Z,Sznippers,true,3047,Oats
+134,2020-09-21T06:17:01Z,Holoubek Corp,false,3223,Canola
+238,2022-08-27T19:31:33Z,Kloburg,false,4793,Wheat
+176,2022-09-11T04:44:42Z,Sznippers,true,2794,Soybean
+424,2023-05-02T20:06:58Z,Witold's and Jerzy's,false,1298,Canola
+416,2022-06-10T10:33:27Z,Sznippers,true,1697,Corn
+178,2022-09-12T16:45:18Z,Sznippers,false,4992,Canola
+497,2020-07-23T15:39:29Z,Kumciaczkos,false,3904,Soybean
+496,2020-10-07T11:08:31Z,Xen,false,1137,Corn
+341,2023-03-21T23:45:17Z,Xen,false,2196,Flaxseed
+302,2022-08-09T04:16:00Z,Xen,true,2179,Canola
+147,2023-04-16T21:51:43Z,Kloburg,true,4268,Wheat
+464,2020-08-15T11:33:30Z,Xen,false,2664,Flaxseed
+115,2020-05-19T09:45:06Z,Kloburg,false,3921,Cotton
+164,2022-03-23T01:23:41Z,Sznippers,true,497,Barley
+234,2022-07-20T19:05:03Z,Kloburg,true,4596,Soybean
+226,2021-06-18T21:57:47Z,Kumciaczkos,true,3149,Soybean
+305,2021-07-02T15:18:11Z,Xen,true,1814,Barley
+344,2020-08-08T05:21:05Z,Miautex,false,1318,Cotton
+452,2023-03-21T10:23:17Z,Miautex,true,1218,Sunflower
+256,2021-04-09T05:34:58Z,Miautex,false,2738,Wheat
+337,2020-10-08T04:33:39Z,Kloburg,false,3716,Rice
+261,2020-07-04T20:23:56Z,Holoubek Corp,true,4313,Sunflower
+435,2020-08-15T08:29:35Z,Kloburg,false,4690,Corn
+396,2022-10-15T22:08:26Z,Kloburg,false,1127,Cotton
+105,2021-10-20T19:54:24Z,Kumciaczkos,false,2535,Rice
+168,2021-08-09T15:32:16Z,Holoubek Corp,false,1083,Soybean
+332,2022-11-22T16:53:23Z,Kloburg,true,525,Flaxseed
+404,2021-08-04T08:43:20Z,Miautex,false,440,Cotton
+122,2022-10-12T04:27:02Z,Sznippers,false,3613,Flaxseed
+312,2021-09-23T04:58:24Z,Kloburg,true,4888,Flaxseed
+417,2020-05-24T18:26:13Z,Miautex,true,4590,Wheat
+192,2020-11-04T11:10:03Z,Kumciaczkos,true,4460,Soybean
+272,2022-07-11T17:16:20Z,Xen,true,745,Flaxseed
+478,2022-02-17T16:14:13Z,Kumciaczkos,true,2418,Flaxseed
+291,2021-07-22T10:59:19Z,Kumciaczkos,true,1432,Oats
+201,2022-04-01T00:34:50Z,Miautex,true,2581,Wheat
+162,2022-02-01T11:47:34Z,Sznippers,false,2831,Canola
+432,2021-10-31T16:19:55Z,Sznippers,true,4828,Cotton
+342,2023-01-09T04:09:06Z,Kloburg,true,1174,Corn
+311,2022-05-04T11:31:19Z,Sznippers,true,4323,Corn
+108,2021-02-05T05:05:53Z,Miautex,false,1435,Corn
+308,2022-03-15T00:33:45Z,Kumciaczkos,true,2031,Corn
+410,2022-01-23T20:10:18Z,Sznippers,false,3333,Flaxseed
+195,2020-04-25T00:47:36Z,Sznippers,true,1389,Flaxseed
+306,2020-06-21T13:36:18Z,Xen,false,4997,Barley
+313,2022-08-29T20:51:54Z,Holoubek Corp,true,3143,Corn
+334,2020-08-25T01:22:35Z,Kloburg,true,3593,Flaxseed
+380,2021-11-10T03:03:02Z,Witold's and Jerzy's,true,2521,Oats
+324,2022-04-23T00:05:21Z,Holoubek Corp,false,1500,Rice
+348,2020-07-28T01:53:49Z,Miautex,true,2678,Sunflower
+181,2022-04-11T10:41:44Z,Sznippers,true,4379,Wheat
+462,2022-06-27T10:55:43Z,Sznippers,false,2717,Flaxseed
+296,2020-11-17T02:00:11Z,Miautex,true,1005,Cotton
+257,2022-01-19T19:25:13Z,Witold's and Jerzy's,true,502,Flaxseed
+458,2020-04-17T20:26:41Z,Kloburg,true,4694,Barley
+291,2021-08-12T10:55:22Z,Witold's and Jerzy's,true,4249,Oats
+181,2022-04-16T16:21:56Z,Sznippers,false,2967,Rice
+401,2020-04-24T03:02:42Z,Kloburg,true,1639,Cotton
+280,2021-04-05T00:40:22Z,Sznippers,true,4924,Wheat
+245,2020-06-15T07:30:07Z,Sznippers,true,680,Canola
+412,2020-06-12T00:40:16Z,Xen,false,4854,Soybean
+462,2020-05-08T18:36:29Z,Miautex,true,2181,Sunflower
+433,2023-03-25T20:57:17Z,Kumciaczkos,false,3749,Barley
+218,2021-10-14T16:23:03Z,Xen,false,1944,Wheat
+315,2023-04-18T19:54:26Z,Witold's and Jerzy's,false,1267,Soybean
+239,2021-03-17T00:08:50Z,Miautex,false,4028,Canola
+147,2020-05-04T06:39:29Z,Holoubek Corp,true,3728,Cotton
+419,2022-02-02T15:22:13Z,Sznippers,false,1605,Cotton
+434,2022-06-13T00:58:00Z,Miautex,false,1295,Soybean
+194,2022-06-10T22:28:23Z,Xen,false,4521,Wheat
+291,2022-07-03T03:13:28Z,Holoubek Corp,true,2826,Cotton
+231,2022-06-29T05:57:52Z,Holoubek Corp,false,4235,Cotton
+187,2021-06-15T05:31:31Z,Miautex,false,3027,Soybean
+179,2021-03-20T06:43:46Z,Sznippers,true,4946,Cotton
+137,2021-04-28T20:34:16Z,Kloburg,false,877,Oats
+364,2021-09-09T09:53:46Z,Sznippers,true,2370,Rice
+388,2021-10-11T22:38:52Z,Kloburg,true,3306,Barley
+197,2022-11-26T17:07:46Z,Miautex,false,536,Oats
+106,2022-11-26T05:08:07Z,Xen,true,2260,Flaxseed
+157,2021-11-09T08:44:12Z,Kumciaczkos,false,4699,Rice
+342,2023-05-10T04:00:05Z,Sznippers,false,2930,Oats
+296,2023-02-19T20:05:17Z,Kumciaczkos,false,3471,Sunflower
+254,2021-01-14T18:53:18Z,Xen,false,3269,Rice
+198,2022-02-03T18:01:58Z,Kloburg,false,1913,Canola
+135,2022-07-11T20:27:52Z,Kumciaczkos,false,4879,Barley
+306,2020-09-22T00:21:38Z,Miautex,false,2348,Cotton
+276,2022-03-15T18:32:57Z,Kumciaczkos,true,766,Corn
+413,2022-03-03T14:44:56Z,Holoubek Corp,true,981,Cotton
+228,2022-04-09T16:55:27Z,Witold's and Jerzy's,false,3160,Canola
+489,2023-01-01T22:45:59Z,Witold's and Jerzy's,true,3360,Soybean
+463,2022-09-17T18:31:08Z,Xen,true,1467,Rice
+149,2022-11-28T12:46:33Z,Miautex,false,4142,Corn
+111,2022-03-08T02:38:59Z,Xen,true,1566,Canola
+162,2022-09-05T01:29:57Z,Kloburg,true,4193,Wheat
+419,2021-12-26T10:38:24Z,Holoubek Corp,false,4162,Flaxseed
+362,2021-08-13T07:49:07Z,Xen,true,3680,Oats
+385,2020-10-08T00:20:06Z,Holoubek Corp,true,593,Sunflower
+142,2022-02-07T04:16:08Z,Xen,false,4077,Canola
+361,2020-10-19T14:25:46Z,Holoubek Corp,false,4822,Rice
+312,2020-08-25T17:34:05Z,Kloburg,true,1303,Cotton
+213,2023-02-18T07:25:32Z,Miautex,true,1393,Corn
+196,2021-03-15T06:10:20Z,Kumciaczkos,true,2808,Canola
+294,2022-05-23T05:00:41Z,Miautex,true,2141,Cotton
+459,2021-03-08T19:20:48Z,Kumciaczkos,true,912,Barley
+254,2023-03-13T05:38:24Z,Xen,false,684,Wheat
+187,2022-09-18T03:32:11Z,Kloburg,true,1532,Rice
+455,2021-01-31T11:04:24Z,Holoubek Corp,false,3495,Canola
+482,2022-05-18T13:08:54Z,Kloburg,false,1623,Corn
+323,2021-07-08T04:29:02Z,Kumciaczkos,true,3693,Soybean
+257,2021-01-10T17:05:29Z,Kloburg,true,3153,Sunflower
+218,2022-02-17T23:41:47Z,Kloburg,false,2446,Barley
+308,2023-01-22T19:28:49Z,Xen,false,4135,Wheat
+451,2022-01-16T20:07:41Z,Kumciaczkos,true,1636,Oats
+399,2023-04-24T11:40:59Z,Kumciaczkos,true,3328,Corn
+284,2022-03-14T23:15:09Z,Xen,true,4879,Flaxseed
+365,2020-09-12T06:37:01Z,Holoubek Corp,true,3505,Flaxseed
+429,2021-09-15T00:33:01Z,Xen,false,2118,Wheat
+416,2023-02-27T20:42:16Z,Miautex,false,2612,Rice
+127,2020-09-01T00:03:45Z,Kumciaczkos,false,2054,Sunflower
+480,2021-10-04T22:08:22Z,Witold's and Jerzy's,false,622,Wheat
+417,2022-06-27T08:48:01Z,Holoubek Corp,true,1746,Canola
+408,2020-11-28T22:32:23Z,Sznippers,true,429,Rice
+211,2022-12-01T10:04:59Z,Kumciaczkos,false,1951,Wheat
+405,2021-10-09T03:53:07Z,Witold's and Jerzy's,true,1370,Flaxseed
+148,2022-01-23T03:47:37Z,Witold's and Jerzy's,false,2792,Wheat
+221,2020-09-18T00:35:55Z,Sznippers,false,3278,Barley
+464,2021-01-16T07:33:02Z,Kumciaczkos,false,963,Canola
+354,2022-07-15T16:05:38Z,Sznippers,true,1598,Corn
+131,2022-05-26T15:27:36Z,Xen,true,479,Rice
+277,2023-05-24T16:54:20Z,Xen,true,1820,Rice
+430,2020-11-14T05:44:17Z,Holoubek Corp,true,1419,Flaxseed
+161,2022-02-09T18:55:10Z,Holoubek Corp,false,1712,Sunflower
+496,2021-04-14T20:14:22Z,Kloburg,true,1112,Rice
+161,2020-06-30T08:17:52Z,Xen,false,3392,Rice
+399,2022-09-18T07:54:22Z,Miautex,true,2403,Rice
+155,2021-11-12T22:40:20Z,Kumciaczkos,false,1446,Canola
+289,2021-03-05T14:32:48Z,Sznippers,true,3362,Oats
+355,2022-11-11T11:35:54Z,Miautex,true,3715,Corn
+385,2021-09-17T13:30:43Z,Xen,true,1816,Cotton
+250,2021-10-10T01:25:07Z,Kloburg,true,3180,Cotton
+189,2022-09-23T01:46:02Z,Witold's and Jerzy's,true,4784,Barley
+268,2022-10-26T00:10:05Z,Witold's and Jerzy's,true,3024,Canola
+437,2022-12-21T23:06:48Z,Xen,true,3531,Wheat
+428,2020-05-04T01:10:58Z,Sznippers,false,4770,Corn
+302,2021-09-16T15:30:47Z,Witold's and Jerzy's,true,1790,Corn
+272,2022-10-04T10:37:41Z,Sznippers,false,3341,Rice
+164,2023-03-12T12:56:02Z,Holoubek Corp,true,4222,Canola
+325,2020-05-24T19:58:42Z,Sznippers,false,2717,Soybean
+494,2022-01-22T18:40:59Z,Kumciaczkos,true,4724,Barley
+204,2021-01-07T20:12:19Z,Kumciaczkos,true,1715,Cotton
+172,2023-04-18T23:09:46Z,Sznippers,false,4444,Oats
+216,2022-04-19T13:01:35Z,Kumciaczkos,false,2146,Canola
+455,2021-08-31T20:06:29Z,Kumciaczkos,false,1809,Flaxseed
+163,2022-11-06T23:25:52Z,Sznippers,false,3426,Oats
+385,2021-01-08T08:45:37Z,Holoubek Corp,false,660,Oats
+262,2022-01-27T11:02:58Z,Witold's and Jerzy's,true,4778,Canola
+440,2020-11-06T17:18:22Z,Witold's and Jerzy's,false,703,Soybean
+496,2021-03-16T10:50:35Z,Miautex,true,3444,Canola
+459,2022-08-13T16:13:00Z,Xen,false,983,Wheat
+479,2021-05-06T16:52:04Z,Miautex,true,3982,Cotton
+407,2020-12-12T10:15:15Z,Xen,false,966,Corn
+324,2022-05-23T06:51:07Z,Witold's and Jerzy's,true,2515,Barley
+190,2020-09-30T04:21:37Z,Holoubek Corp,true,1035,Barley
+168,2020-10-25T21:54:21Z,Kloburg,false,3789,Flaxseed
+293,2022-10-30T13:43:58Z,Xen,false,4933,Corn
+189,2022-02-18T01:54:36Z,Witold's and Jerzy's,false,4817,Soybean
+195,2021-08-07T01:02:32Z,Kloburg,false,3043,Soybean
+180,2022-04-06T06:08:42Z,Holoubek Corp,false,846,Sunflower
+117,2021-12-10T03:03:28Z,Miautex,true,1812,Oats
+386,2020-07-04T12:21:26Z,Holoubek Corp,true,834,Barley
+137,2021-01-15T19:08:01Z,Kloburg,true,3863,Flaxseed
+354,2022-03-15T21:22:31Z,Miautex,true,2442,Barley
+410,2022-12-13T10:06:58Z,Xen,false,774,Rice
+432,2021-03-02T04:08:54Z,Xen,false,1558,Canola
+294,2022-10-25T21:41:53Z,Miautex,false,1327,Barley
+475,2023-02-15T12:03:35Z,Xen,true,1026,Rice
+460,2021-11-05T13:12:43Z,Holoubek Corp,false,4279,Canola
+135,2020-12-08T21:03:43Z,Holoubek Corp,true,4982,Sunflower
+224,2022-05-31T17:27:08Z,Miautex,false,2927,Flaxseed
+255,2023-01-24T05:47:49Z,Witold's and Jerzy's,false,3740,Corn
+310,2021-10-25T12:16:04Z,Holoubek Corp,true,4952,Cotton
+118,2021-12-26T11:28:48Z,Holoubek Corp,true,4366,Barley
+419,2020-11-27T00:34:14Z,Witold's and Jerzy's,true,689,Barley
+452,2022-07-22T06:45:47Z,Kloburg,false,1278,Flaxseed
+322,2022-08-28T11:10:45Z,Holoubek Corp,false,4811,Canola
+487,2021-06-21T06:08:19Z,Holoubek Corp,true,1948,Canola
+375,2020-12-28T12:43:37Z,Kloburg,true,856,Sunflower
+254,2022-03-09T02:59:15Z,Sznippers,true,4078,Canola
+148,2020-04-13T19:14:34Z,Miautex,true,3633,Barley
+368,2021-01-12T11:41:08Z,Sznippers,false,1089,Barley
+118,2020-12-31T21:17:55Z,Kloburg,true,3113,Corn
+174,2021-01-03T03:09:42Z,Sznippers,true,3622,Corn
+437,2020-08-27T09:38:43Z,Holoubek Corp,false,3926,Flaxseed
+364,2022-01-06T12:28:43Z,Sznippers,false,1233,Canola
+408,2020-06-20T20:23:10Z,Kloburg,false,4890,Sunflower
+226,2022-08-18T22:47:05Z,Holoubek Corp,false,3399,Soybean
+384,2021-06-23T08:02:19Z,Miautex,true,2666,Canola
+325,2020-08-24T19:42:06Z,Holoubek Corp,false,4672,Cotton
+119,2021-10-27T11:01:20Z,Holoubek Corp,false,4147,Oats
+178,2021-01-14T06:18:42Z,Witold's and Jerzy's,false,4730,Oats
+260,2022-09-26T08:43:23Z,Miautex,false,4799,Wheat
+112,2023-04-19T02:48:37Z,Miautex,true,3736,Barley
+207,2022-12-10T16:49:56Z,Kloburg,true,4519,Rice
+282,2022-04-23T20:43:18Z,Holoubek Corp,true,3453,Oats
+353,2022-10-08T11:54:52Z,Witold's and Jerzy's,false,4651,Oats
+353,2020-06-13T13:55:07Z,Miautex,false,1398,Barley
+448,2022-07-28T00:11:19Z,Holoubek Corp,false,4591,Soybean
+414,2022-05-02T23:26:44Z,Kumciaczkos,true,3047,Canola
+227,2020-08-09T09:03:14Z,Sznippers,true,3248,Barley
+340,2022-01-24T16:29:10Z,Holoubek Corp,false,706,Cotton
+351,2021-11-20T01:58:15Z,Kloburg,false,3284,Oats
+363,2021-11-05T12:25:39Z,Kloburg,false,2870,Canola
+200,2021-06-11T13:52:50Z,Sznippers,true,1807,Flaxseed
+373,2020-05-27T05:27:39Z,Miautex,true,3922,Oats
+479,2022-10-29T04:08:42Z,Sznippers,true,4474,Rice
+461,2022-04-19T21:11:07Z,Xen,true,1309,Soybean
+440,2022-09-09T00:42:56Z,Holoubek Corp,false,2935,Cotton
+174,2022-01-02T04:52:28Z,Miautex,false,4891,Oats
+422,2023-05-19T03:53:22Z,Witold's and Jerzy's,false,3670,Corn
+273,2022-06-15T08:53:23Z,Kumciaczkos,false,3572,Wheat
+140,2020-09-24T22:33:23Z,Witold's and Jerzy's,true,717,Rice
+346,2020-10-26T14:06:28Z,Holoubek Corp,true,1153,Corn
+185,2020-06-14T21:38:50Z,Holoubek Corp,true,711,Oats
+245,2022-04-26T12:20:46Z,Kloburg,true,4635,Wheat
+469,2021-08-01T03:00:56Z,Miautex,false,2651,Corn
+283,2020-04-03T00:06:45Z,Kumciaczkos,false,3278,Sunflower
+421,2022-10-27T23:05:54Z,Sznippers,false,2899,Soybean
+282,2020-05-30T00:41:02Z,Holoubek Corp,true,1055,Barley
+295,2021-12-10T12:27:26Z,Witold's and Jerzy's,false,4791,Cotton
+339,2022-11-09T05:25:48Z,Miautex,false,4748,Soybean
+310,2020-11-23T13:18:47Z,Kumciaczkos,false,2426,Soybean
+113,2022-11-16T21:24:45Z,Holoubek Corp,true,4223,Sunflower
+280,2022-11-14T21:13:56Z,Xen,false,1552,Wheat
+279,2023-02-19T09:16:42Z,Holoubek Corp,true,1259,Wheat
+443,2022-09-05T11:09:40Z,Kumciaczkos,true,3202,Cotton
+499,2022-07-22T15:24:31Z,Xen,false,2737,Barley
+173,2023-05-05T16:54:27Z,Kloburg,true,3821,Wheat
+239,2022-05-08T08:10:39Z,Holoubek Corp,true,1613,Oats
+336,2022-03-17T10:40:13Z,Kumciaczkos,false,3731,Flaxseed
+223,2021-07-31T16:17:27Z,Witold's and Jerzy's,false,783,Sunflower
+112,2020-12-11T21:53:24Z,Sznippers,true,1821,Rice
+302,2020-10-22T23:33:04Z,Kloburg,false,912,Flaxseed
+430,2021-07-28T13:29:44Z,Sznippers,true,2021,Cotton
+317,2022-04-29T03:04:56Z,Kloburg,false,4393,Corn
+459,2022-05-20T01:50:29Z,Sznippers,false,2982,Flaxseed
+495,2023-03-20T23:50:23Z,Sznippers,true,1195,Rice
+148,2021-09-28T15:15:20Z,Sznippers,true,3069,Flaxseed
+238,2022-05-29T09:41:17Z,Miautex,false,3963,Flaxseed
+386,2021-03-15T11:02:45Z,Sznippers,true,2671,Cotton
+468,2023-05-24T06:25:14Z,Holoubek Corp,false,3501,Flaxseed
+307,2022-12-13T17:03:05Z,Miautex,true,816,Flaxseed
+434,2020-08-25T11:58:29Z,Miautex,true,3793,Soybean
+135,2022-01-05T10:59:43Z,Sznippers,true,4363,Barley
+299,2021-08-04T08:26:28Z,Holoubek Corp,false,3664,Barley
+147,2022-11-12T21:02:33Z,Miautex,true,2313,Cotton
+117,2021-08-29T13:15:02Z,Holoubek Corp,true,4855,Corn
+500,2023-01-26T13:03:39Z,Xen,false,1848,Canola
+157,2021-09-24T17:32:58Z,Holoubek Corp,false,572,Sunflower
+178,2020-10-23T22:20:57Z,Miautex,false,4775,Rice
+303,2022-08-30T12:50:07Z,Miautex,true,2487,Wheat
+225,2020-07-07T06:11:52Z,Sznippers,false,2845,Soybean
+106,2023-02-19T06:18:52Z,Miautex,true,2917,Flaxseed
+419,2022-01-24T15:14:39Z,Miautex,true,3780,Canola
+270,2021-10-22T01:26:57Z,Xen,true,3641,Soybean
+500,2022-09-28T17:05:59Z,Kumciaczkos,false,2102,Cotton
+120,2022-09-19T16:17:28Z,Sznippers,true,4458,Canola
+189,2022-12-23T21:53:54Z,Kloburg,false,4907,Sunflower
+259,2020-08-18T07:14:24Z,Miautex,true,3268,Corn
+465,2021-06-02T01:48:49Z,Holoubek Corp,false,3129,Sunflower
+451,2021-09-24T12:01:20Z,Kloburg,true,552,Barley
+324,2021-05-13T00:19:07Z,Miautex,false,4884,Canola
+423,2023-04-13T20:54:43Z,Kumciaczkos,false,4801,Oats
+236,2021-11-22T08:48:12Z,Witold's and Jerzy's,false,690,Oats
+336,2021-10-31T16:28:21Z,Witold's and Jerzy's,true,4176,Wheat
+286,2022-10-30T00:41:02Z,Kumciaczkos,false,1641,Rice
+392,2022-04-28T05:52:42Z,Sznippers,false,3373,Barley
+250,2021-05-01T03:42:55Z,Witold's and Jerzy's,true,2139,Canola
+240,2022-04-24T03:47:37Z,Sznippers,true,771,Soybean
+326,2021-03-10T05:44:19Z,Kloburg,false,2270,Flaxseed
+333,2021-07-19T00:24:37Z,Miautex,false,4581,Corn
+388,2022-01-30T20:34:04Z,Miautex,false,1054,Sunflower
+378,2020-06-01T03:50:40Z,Kloburg,false,470,Flaxseed
+256,2022-05-14T11:19:06Z,Kumciaczkos,false,3822,Wheat
+114,2022-09-16T20:07:17Z,Miautex,false,2141,Soybean
+181,2022-09-21T05:59:20Z,Holoubek Corp,false,614,Barley
+146,2020-04-15T08:43:42Z,Sznippers,false,691,Corn
+249,2020-04-11T07:53:01Z,Holoubek Corp,true,4491,Sunflower
+145,2020-09-01T08:37:56Z,Sznippers,true,4647,Corn
+291,2022-04-08T16:15:35Z,Witold's and Jerzy's,false,640,Cotton
+456,2022-06-03T01:34:36Z,Holoubek Corp,false,2601,Sunflower
+138,2020-10-03T09:44:33Z,Holoubek Corp,false,2618,Sunflower
+130,2021-09-26T05:02:58Z,Miautex,true,4094,Cotton
+345,2021-01-13T03:01:08Z,Witold's and Jerzy's,true,4536,Soybean
+391,2023-03-30T03:45:52Z,Kloburg,false,3854,Cotton
+376,2020-12-19T04:03:39Z,Sznippers,true,1810,Barley
+214,2021-07-28T14:49:18Z,Kumciaczkos,false,3206,Canola
+230,2021-09-06T15:46:51Z,Sznippers,true,4329,Sunflower
+494,2023-01-16T14:29:25Z,Witold's and Jerzy's,true,3979,Canola
+106,2020-11-03T11:32:11Z,Holoubek Corp,false,1604,Wheat
+229,2022-03-03T13:47:03Z,Miautex,false,2001,Rice
+339,2023-02-05T10:15:32Z,Miautex,true,1729,Sunflower
+488,2022-03-27T02:25:09Z,Kloburg,true,2046,Wheat
+318,2021-01-16T20:09:44Z,Miautex,false,3185,Rice
+248,2023-02-19T18:27:25Z,Xen,true,1266,Flaxseed
+238,2021-07-24T10:39:53Z,Miautex,false,3219,Oats
+319,2022-04-28T13:08:32Z,Holoubek Corp,false,621,Canola
+183,2020-05-30T00:38:54Z,Xen,true,1934,Barley
+404,2021-08-05T01:31:18Z,Miautex,true,2057,Soybean
+426,2021-07-11T17:54:31Z,Kloburg,false,2875,Oats
+415,2021-10-24T03:45:40Z,Kumciaczkos,false,3928,Sunflower
+271,2023-01-14T10:59:50Z,Xen,false,967,Canola
+393,2021-04-02T15:13:00Z,Xen,false,3649,Sunflower
+366,2020-05-25T12:56:37Z,Kumciaczkos,true,4180,Sunflower
+476,2022-06-24T18:20:50Z,Witold's and Jerzy's,false,4665,Soybean
+470,2022-11-11T14:57:25Z,Holoubek Corp,false,3952,Canola
+158,2021-06-02T16:40:57Z,Sznippers,false,3312,Wheat
+208,2021-04-18T23:51:40Z,Miautex,false,1946,Rice
+473,2022-03-22T09:50:03Z,Xen,true,2043,Barley
+297,2022-08-27T12:19:51Z,Kloburg,false,1291,Flaxseed
+385,2021-08-19T16:07:01Z,Sznippers,true,4288,Oats
+392,2021-09-10T20:39:49Z,Holoubek Corp,true,2095,Oats
+458,2023-04-23T02:41:50Z,Xen,false,955,Rice
+268,2020-09-01T08:15:49Z,Kumciaczkos,true,541,Cotton
+342,2021-02-18T11:11:59Z,Miautex,false,3646,Barley
+248,2021-04-17T14:53:29Z,Holoubek Corp,true,2237,Flaxseed
+278,2022-09-09T00:11:30Z,Kumciaczkos,false,3543,Soybean
+105,2022-07-31T19:31:39Z,Holoubek Corp,true,797,Oats
+381,2022-06-27T10:45:32Z,Xen,true,1285,Canola
+170,2023-02-27T16:16:39Z,Miautex,true,4934,Flaxseed
+463,2021-07-14T22:56:41Z,Holoubek Corp,true,4222,Corn
+187,2021-04-20T18:11:51Z,Kumciaczkos,true,3439,Cotton
+139,2022-10-25T11:31:43Z,Miautex,false,1238,Soybean
+214,2022-07-14T23:15:06Z,Xen,true,2458,Rice
+364,2020-04-06T13:03:28Z,Xen,true,1817,Rice
+153,2020-10-15T20:11:52Z,Sznippers,true,1227,Oats
+220,2020-09-10T00:04:24Z,Holoubek Corp,true,1638,Flaxseed
+217,2022-11-24T17:06:51Z,Kloburg,true,3937,Oats
+421,2022-09-11T15:33:52Z,Sznippers,false,4021,Flaxseed
+401,2020-04-07T15:07:36Z,Miautex,false,1812,Barley
+323,2021-03-30T23:23:35Z,Miautex,false,4980,Flaxseed
+113,2023-02-21T21:25:52Z,Sznippers,false,1837,Rice
+143,2021-03-18T19:18:45Z,Kumciaczkos,false,3514,Cotton
+304,2023-05-23T05:12:05Z,Kloburg,false,2112,Flaxseed
+252,2021-12-16T09:24:50Z,Kloburg,true,4057,Corn
+209,2020-11-11T13:35:05Z,Kloburg,true,2045,Oats
+337,2021-12-02T20:33:34Z,Witold's and Jerzy's,false,3930,Oats
+380,2021-10-05T03:13:46Z,Kumciaczkos,true,3331,Cotton
+223,2023-04-11T06:53:58Z,Sznippers,false,4110,Sunflower
+448,2020-06-15T16:40:57Z,Xen,true,3852,Barley
+268,2023-01-14T16:02:27Z,Xen,false,1840,Wheat
+353,2022-10-22T03:41:15Z,Kumciaczkos,true,4371,Barley
+278,2022-11-28T03:50:52Z,Kumciaczkos,true,2428,Sunflower
+495,2021-08-31T18:34:48Z,Miautex,false,2631,Wheat
+347,2020-12-24T15:48:10Z,Witold's and Jerzy's,true,2337,Soybean
+183,2021-05-03T03:28:19Z,Kumciaczkos,true,3717,Cotton
+189,2022-07-09T16:39:10Z,Holoubek Corp,false,810,Sunflower
+166,2021-03-06T02:02:14Z,Miautex,false,2787,Canola
+433,2021-09-05T21:31:52Z,Kloburg,false,2160,Canola
+161,2022-07-15T22:06:42Z,Holoubek Corp,true,3641,Wheat
+454,2020-12-03T00:37:31Z,Holoubek Corp,true,3982,Cotton
+198,2020-06-19T21:20:07Z,Kloburg,false,2706,Oats
+101,2020-12-03T04:05:56Z,Kloburg,true,4479,Soybean
+311,2023-05-08T11:58:53Z,Sznippers,false,3214,Sunflower
+467,2021-12-09T15:35:19Z,Witold's and Jerzy's,true,1835,Canola
+490,2022-04-28T06:51:17Z,Holoubek Corp,false,4958,Cotton
+198,2021-03-17T23:50:21Z,Xen,true,825,Flaxseed
+106,2021-03-04T07:02:49Z,Kloburg,false,3686,Sunflower
+365,2020-07-21T08:14:27Z,Xen,false,4897,Cotton
+216,2020-05-07T02:05:07Z,Holoubek Corp,false,2021,Rice
+264,2022-01-27T08:56:22Z,Witold's and Jerzy's,false,4263,Barley
+486,2020-11-02T05:08:43Z,Xen,true,3333,Barley
+248,2023-01-09T21:34:58Z,Kloburg,true,1642,Sunflower
+236,2023-03-19T18:29:53Z,Kloburg,true,3842,Rice
+244,2023-05-07T03:02:51Z,Xen,false,1547,Cotton
+256,2021-03-23T13:27:47Z,Kumciaczkos,false,2455,Rice
+415,2020-04-16T21:41:01Z,Miautex,false,2239,Sunflower
+348,2022-09-24T04:22:16Z,Witold's and Jerzy's,false,4116,Flaxseed
+437,2022-06-03T23:51:36Z,Kumciaczkos,false,1135,Oats
+240,2021-02-12T06:08:26Z,Witold's and Jerzy's,false,3859,Barley
+458,2020-12-09T18:15:43Z,Miautex,true,3336,Flaxseed
+448,2021-07-31T13:50:18Z,Sznippers,true,634,Flaxseed
+278,2021-06-29T02:26:31Z,Holoubek Corp,false,3066,Cotton
+484,2021-09-25T02:42:56Z,Kloburg,true,3864,Soybean
+123,2022-07-21T21:32:39Z,Sznippers,true,3054,Cotton
+362,2020-06-21T21:14:20Z,Miautex,true,1199,Oats
+484,2022-04-15T00:24:38Z,Kloburg,false,732,Corn
+469,2020-07-26T08:51:42Z,Sznippers,false,3550,Canola
+194,2020-09-08T05:50:37Z,Miautex,true,2157,Wheat
+280,2021-04-22T17:30:52Z,Sznippers,true,2338,Sunflower
+233,2021-01-04T16:07:18Z,Witold's and Jerzy's,false,512,Flaxseed
+118,2020-04-17T14:06:27Z,Sznippers,true,2015,Cotton
+280,2020-10-23T19:06:03Z,Kloburg,true,1725,Corn
+140,2021-10-29T17:50:59Z,Kloburg,true,3514,Barley
+363,2020-08-06T07:10:05Z,Kumciaczkos,false,4303,Flaxseed
+181,2021-09-30T06:18:52Z,Sznippers,false,4007,Cotton
+474,2023-05-25T11:41:54Z,Xen,true,3589,Cotton
+385,2023-04-06T02:34:01Z,Witold's and Jerzy's,true,2631,Cotton
+426,2022-01-08T10:34:34Z,Kumciaczkos,false,4995,Cotton
+282,2022-11-08T06:26:39Z,Kumciaczkos,false,3203,Barley
+242,2022-08-27T14:10:05Z,Sznippers,true,2073,Corn
+446,2022-02-03T16:21:11Z,Witold's and Jerzy's,false,1257,Flaxseed
+454,2020-05-15T18:41:33Z,Kloburg,false,4854,Oats
+334,2023-04-14T01:01:01Z,Witold's and Jerzy's,true,954,Canola
+461,2021-01-29T05:10:54Z,Kloburg,true,2726,Cotton
+192,2020-05-17T18:54:27Z,Miautex,false,2535,Soybean
+362,2022-08-22T22:54:49Z,Miautex,true,1614,Flaxseed
+121,2022-05-04T22:49:29Z,Kloburg,false,3919,Oats
+216,2020-04-18T16:35:04Z,Holoubek Corp,false,4409,Sunflower
+423,2023-01-04T19:12:52Z,Witold's and Jerzy's,false,1976,Canola
+164,2020-08-18T09:23:07Z,Xen,true,4909,Rice
+221,2020-10-19T19:49:11Z,Kumciaczkos,true,4976,Flaxseed
+323,2021-05-15T10:31:03Z,Kloburg,true,3185,Soybean
+349,2021-07-10T08:24:41Z,Holoubek Corp,false,2575,Soybean
+302,2021-07-30T03:34:54Z,Xen,false,924,Flaxseed
+385,2023-04-07T01:12:06Z,Kumciaczkos,false,995,Oats
+457,2021-10-12T19:47:39Z,Witold's and Jerzy's,true,1892,Flaxseed
+155,2023-04-25T11:35:42Z,Miautex,true,3829,Soybean
+209,2020-09-16T00:58:00Z,Kloburg,true,2735,Soybean
+203,2021-03-19T12:04:05Z,Miautex,false,3502,Canola
+267,2020-12-27T13:28:09Z,Holoubek Corp,true,4347,Barley
+205,2021-02-15T04:23:10Z,Kloburg,true,2893,Sunflower
+215,2022-11-01T21:55:40Z,Miautex,false,917,Wheat
+379,2022-01-28T21:25:22Z,Kloburg,true,4379,Sunflower
+238,2022-04-04T21:11:58Z,Witold's and Jerzy's,true,4910,Rice
+324,2020-10-04T21:30:19Z,Witold's and Jerzy's,true,3468,Oats
+286,2022-04-26T18:23:07Z,Holoubek Corp,false,1779,Oats
+451,2022-09-21T11:47:47Z,Xen,true,1104,Cotton
+349,2022-12-14T21:51:07Z,Kloburg,true,1534,Rice
+193,2023-04-17T03:46:58Z,Holoubek Corp,true,641,Flaxseed
+381,2023-02-14T19:49:34Z,Kloburg,true,4464,Canola
+212,2021-07-28T20:48:30Z,Xen,false,2942,Sunflower
+271,2021-06-30T12:58:32Z,Sznippers,true,1857,Soybean
+144,2023-04-04T16:33:08Z,Miautex,false,4916,Soybean
+477,2020-12-21T06:21:08Z,Miautex,true,3407,Rice
+273,2022-09-15T05:00:27Z,Xen,true,2390,Canola
+145,2022-06-03T23:05:04Z,Miautex,false,3582,Soybean
+482,2021-04-18T20:06:38Z,Kumciaczkos,true,1724,Barley
+268,2021-12-16T23:20:45Z,Xen,true,1062,Flaxseed
+393,2020-05-28T12:39:02Z,Miautex,false,2821,Flaxseed
+476,2023-02-28T03:26:56Z,Kloburg,true,3596,Sunflower
+374,2022-01-04T20:01:25Z,Miautex,true,3323,Canola
+482,2021-01-31T16:02:05Z,Xen,true,2632,Barley
+152,2021-06-24T14:49:43Z,Witold's and Jerzy's,true,1593,Sunflower
+369,2022-11-14T00:15:10Z,Kloburg,true,4165,Soybean
+310,2022-04-18T20:25:36Z,Miautex,true,1953,Barley
+137,2021-06-29T02:38:25Z,Holoubek Corp,true,2387,Rice
+265,2021-09-19T11:55:46Z,Sznippers,false,2351,Wheat
+108,2023-03-29T21:19:49Z,Kumciaczkos,true,529,Sunflower
+124,2020-05-28T12:56:55Z,Sznippers,false,3761,Sunflower
+390,2020-08-28T13:31:49Z,Kumciaczkos,false,2208,Corn
+443,2021-03-26T06:34:24Z,Sznippers,false,3847,Rice
+434,2020-08-31T04:19:28Z,Kumciaczkos,true,1038,Barley
+355,2022-12-29T11:34:37Z,Xen,true,2063,Soybean
+352,2021-08-25T00:35:46Z,Holoubek Corp,true,1718,Cotton
+246,2021-06-08T16:33:27Z,Sznippers,true,4031,Flaxseed
+202,2021-01-30T12:53:16Z,Kloburg,true,1721,Canola
+168,2022-09-23T21:48:59Z,Xen,true,2436,Sunflower
+193,2022-01-01T19:44:43Z,Witold's and Jerzy's,true,1430,Cotton
+341,2023-04-23T20:38:20Z,Holoubek Corp,true,2705,Rice
+378,2023-01-22T22:37:58Z,Miautex,false,1026,Barley
+349,2021-06-20T07:18:28Z,Kloburg,false,2528,Flaxseed
+218,2023-03-23T11:28:01Z,Kumciaczkos,true,3933,Sunflower
+177,2020-09-25T04:11:54Z,Witold's and Jerzy's,true,4384,Rice
+361,2023-02-12T07:57:14Z,Xen,false,2481,Wheat
+216,2022-07-19T13:53:41Z,Kloburg,false,4624,Wheat
+119,2020-12-08T04:54:36Z,Miautex,true,3503,Rice
+291,2023-05-11T10:15:10Z,Kloburg,true,2448,Wheat
+236,2020-10-14T00:02:57Z,Holoubek Corp,false,2650,Cotton
+495,2020-10-11T04:09:28Z,Sznippers,false,3009,Rice
+129,2021-01-07T05:37:53Z,Holoubek Corp,true,3217,Barley
+415,2022-11-16T00:36:50Z,Miautex,false,1740,Flaxseed
+166,2022-09-13T02:17:01Z,Kumciaczkos,true,4461,Sunflower
+184,2022-01-08T17:45:51Z,Xen,false,1659,Barley
+449,2020-07-08T09:29:46Z,Witold's and Jerzy's,true,2431,Flaxseed
+126,2021-09-07T04:42:32Z,Xen,false,4136,Wheat
+228,2022-06-26T17:29:00Z,Sznippers,false,2794,Wheat
+483,2021-07-18T00:34:40Z,Xen,true,4714,Soybean
+373,2022-02-27T21:50:07Z,Kloburg,true,1791,Sunflower
+196,2021-01-09T11:34:22Z,Kumciaczkos,false,1352,Soybean
+171,2021-06-18T00:59:29Z,Kumciaczkos,false,2027,Corn
+248,2020-09-18T20:50:26Z,Sznippers,true,467,Barley
+215,2021-04-03T10:06:33Z,Miautex,true,4925,Sunflower
+169,2021-08-21T03:22:39Z,Kumciaczkos,true,2165,Oats
+122,2020-10-28T15:59:45Z,Sznippers,true,2942,Corn
+432,2022-09-15T18:22:44Z,Kumciaczkos,false,1798,Cotton
+453,2022-11-23T04:43:46Z,Holoubek Corp,false,1591,Corn
+190,2022-06-07T07:38:07Z,Kloburg,true,2130,Cotton
+462,2022-10-16T04:07:01Z,Kumciaczkos,true,3660,Oats
+390,2021-02-26T20:34:59Z,Miautex,false,4397,Wheat
+141,2022-04-16T08:12:14Z,Sznippers,false,4962,Rice
+226,2023-03-16T13:07:07Z,Xen,true,928,Flaxseed
+176,2021-07-16T04:21:56Z,Kumciaczkos,true,4860,Rice
+108,2020-07-13T12:24:04Z,Holoubek Corp,true,451,Rice
+145,2021-10-30T11:39:48Z,Holoubek Corp,true,3090,Corn
+275,2020-06-04T00:58:11Z,Miautex,false,4051,Flaxseed
+239,2021-06-27T23:37:35Z,Miautex,false,1540,Wheat
+360,2020-04-02T00:47:58Z,Sznippers,true,2355,Wheat
+455,2023-01-11T01:59:01Z,Witold's and Jerzy's,false,2182,Rice
+462,2020-07-14T05:27:18Z,Sznippers,false,3204,Corn
+360,2022-11-02T10:42:03Z,Kloburg,false,3560,Sunflower
+500,2021-02-01T00:59:00Z,Kumciaczkos,false,4755,Sunflower
+251,2021-09-26T14:32:53Z,Kumciaczkos,false,1099,Soybean
+446,2021-07-19T19:40:36Z,Witold's and Jerzy's,false,1135,Sunflower
+112,2023-03-10T20:12:03Z,Xen,true,764,Soybean
+348,2022-06-19T02:54:22Z,Sznippers,true,1824,Sunflower
+100,2023-05-18T17:08:06Z,Xen,true,3815,Oats
+230,2022-11-17T22:52:43Z,Xen,true,1371,Wheat
+220,2023-03-07T19:35:33Z,Xen,true,3453,Cotton
+490,2021-09-09T01:00:29Z,Kloburg,false,4172,Canola
+157,2021-06-01T12:08:49Z,Xen,false,4966,Cotton
+352,2022-05-05T02:45:47Z,Miautex,false,3099,Canola
+318,2021-04-23T21:01:03Z,Witold's and Jerzy's,false,2928,Canola
+417,2021-02-05T12:06:46Z,Sznippers,false,1010,Rice
+290,2023-02-16T09:48:11Z,Witold's and Jerzy's,false,1557,Flaxseed
+394,2020-06-25T02:42:34Z,Sznippers,true,1019,Corn
+458,2020-04-19T08:04:29Z,Miautex,true,2712,Flaxseed
+409,2022-08-01T00:01:08Z,Holoubek Corp,false,3268,Sunflower
+329,2021-08-09T18:08:13Z,Kloburg,false,4989,Wheat
+374,2020-04-16T00:08:12Z,Kumciaczkos,false,1436,Cotton
+261,2023-03-18T08:53:19Z,Kloburg,true,2950,Corn
+440,2022-01-26T07:43:44Z,Kumciaczkos,true,1606,Canola
+250,2022-07-29T20:34:17Z,Witold's and Jerzy's,false,4463,Canola
+370,2020-05-09T10:22:59Z,Sznippers,true,1803,Soybean
+149,2020-06-03T20:46:50Z,Holoubek Corp,false,892,Wheat
+289,2022-01-19T22:06:40Z,Sznippers,false,501,Canola
+452,2021-04-03T09:53:30Z,Kumciaczkos,false,2590,Barley
+495,2022-07-19T15:15:43Z,Holoubek Corp,true,2085,Corn
+254,2022-06-07T07:57:01Z,Kloburg,true,4047,Canola
+319,2022-06-08T00:00:14Z,Witold's and Jerzy's,false,4999,Canola
+215,2022-06-18T20:30:14Z,Witold's and Jerzy's,false,3489,Barley
+496,2022-03-05T16:11:00Z,Sznippers,false,2974,Corn
+174,2020-09-15T12:33:15Z,Kloburg,true,4683,Corn
+138,2022-09-14T10:56:09Z,Witold's and Jerzy's,true,3829,Wheat
+314,2020-11-14T23:32:13Z,Sznippers,false,2725,Sunflower
+239,2022-09-15T22:25:13Z,Miautex,false,4555,Barley
+215,2020-07-15T00:31:59Z,Holoubek Corp,true,2153,Cotton
+156,2020-05-24T06:10:31Z,Witold's and Jerzy's,false,2024,Sunflower
+369,2021-08-04T00:37:44Z,Witold's and Jerzy's,true,504,Sunflower
+377,2021-10-19T17:23:10Z,Holoubek Corp,true,1165,Wheat
+300,2022-01-22T20:24:12Z,Miautex,false,3053,Wheat
+406,2022-02-21T15:59:36Z,Xen,false,1802,Cotton
+143,2020-12-09T10:16:00Z,Kloburg,false,3468,Cotton
+129,2021-08-19T02:51:49Z,Kumciaczkos,false,1492,Flaxseed
+337,2021-08-10T15:29:45Z,Kumciaczkos,false,3027,Cotton
+127,2020-09-22T23:58:37Z,Holoubek Corp,false,3840,Wheat
+357,2023-03-08T01:59:21Z,Witold's and Jerzy's,true,3481,Canola
+121,2022-08-01T15:05:29Z,Kumciaczkos,true,1167,Barley
+349,2022-02-21T05:54:21Z,Witold's and Jerzy's,false,4716,Corn
+395,2021-10-28T10:46:39Z,Miautex,true,2327,Cotton
+426,2023-03-21T03:43:44Z,Miautex,true,3039,Cotton
+445,2020-05-17T21:30:33Z,Kumciaczkos,false,1852,Cotton
+162,2021-09-17T05:53:58Z,Kumciaczkos,true,4696,Barley
+352,2020-05-24T06:05:50Z,Kloburg,false,1938,Oats
+343,2020-10-11T00:06:56Z,Xen,true,985,Cotton
+434,2021-01-02T08:53:43Z,Miautex,false,4002,Rice
+496,2021-01-04T20:02:31Z,Witold's and Jerzy's,true,1808,Soybean
+456,2020-11-18T18:23:56Z,Xen,false,4195,Canola
+124,2022-02-25T16:15:16Z,Holoubek Corp,true,3879,Sunflower
+425,2022-11-29T20:48:17Z,Holoubek Corp,false,2046,Soybean
+405,2021-04-14T09:09:33Z,Xen,true,2813,Barley
+257,2022-06-03T23:36:52Z,Sznippers,true,4103,Rice
+132,2021-12-13T17:39:07Z,Kloburg,false,3841,Corn
+496,2021-04-20T12:58:14Z,Sznippers,true,2778,Soybean
+229,2022-06-22T20:19:41Z,Sznippers,false,1170,Barley
+167,2023-03-10T13:47:34Z,Witold's and Jerzy's,false,2852,Wheat
+135,2021-04-30T10:38:00Z,Kloburg,true,1280,Corn
+285,2020-07-17T17:37:22Z,Witold's and Jerzy's,false,1247,Corn
+391,2020-11-20T01:21:12Z,Holoubek Corp,false,1783,Oats
+249,2022-06-14T10:45:39Z,Holoubek Corp,true,502,Soybean
+166,2023-01-31T06:05:38Z,Miautex,false,640,Rice
+334,2021-01-10T05:21:42Z,Kloburg,true,3850,Flaxseed
+178,2021-12-24T04:32:56Z,Miautex,true,4969,Wheat
+484,2023-03-17T19:32:51Z,Miautex,false,1931,Flaxseed
+230,2020-10-25T14:46:38Z,Kloburg,true,2736,Corn
+101,2022-06-17T02:41:45Z,Sznippers,false,3195,Corn
+224,2021-09-30T09:47:56Z,Miautex,true,1849,Rice
+490,2021-12-25T23:08:23Z,Sznippers,false,3228,Canola
+387,2022-05-01T08:32:58Z,Kumciaczkos,true,1958,Sunflower
+451,2022-09-27T13:05:32Z,Holoubek Corp,false,4047,Corn
+391,2021-07-05T12:18:31Z,Miautex,true,2720,Sunflower
+316,2021-01-01T09:19:16Z,Miautex,true,589,Sunflower
+111,2022-11-07T13:39:17Z,Miautex,false,3388,Canola
+329,2020-04-19T04:36:18Z,Kloburg,true,3631,Soybean
+174,2021-10-29T15:30:23Z,Holoubek Corp,true,4540,Corn
+452,2021-09-10T15:30:19Z,Holoubek Corp,true,1248,Canola
+299,2021-12-10T05:02:43Z,Holoubek Corp,false,3391,Corn
+476,2022-12-25T14:14:13Z,Miautex,true,3040,Rice
+291,2022-02-04T06:11:42Z,Holoubek Corp,true,3690,Sunflower
+480,2022-12-18T23:06:33Z,Witold's and Jerzy's,true,438,Barley
+197,2022-08-21T21:39:51Z,Kloburg,false,3513,Rice
+134,2020-07-26T17:17:29Z,Xen,true,4530,Flaxseed
+223,2023-04-03T02:18:43Z,Kumciaczkos,true,3631,Sunflower
+134,2022-03-10T11:19:01Z,Xen,false,4342,Sunflower
+456,2020-09-03T05:00:21Z,Sznippers,true,2987,Soybean
+287,2022-07-25T05:30:32Z,Kloburg,true,3036,Barley
+496,2022-05-24T08:02:23Z,Xen,true,1209,Wheat
+185,2021-02-15T16:50:37Z,Xen,true,3935,Wheat
+249,2023-01-30T13:11:07Z,Sznippers,true,1710,Wheat
+161,2020-07-26T06:38:05Z,Kumciaczkos,true,4415,Cotton
+350,2020-09-14T22:39:57Z,Sznippers,false,4790,Cotton
+127,2021-12-21T15:44:40Z,Sznippers,true,2730,Sunflower
+240,2020-09-10T22:31:19Z,Sznippers,true,3470,Oats
+108,2022-08-23T22:51:06Z,Miautex,true,2103,Sunflower
+119,2021-07-06T04:41:12Z,Kloburg,true,1823,Oats
+400,2022-09-07T01:43:09Z,Miautex,false,524,Sunflower
+479,2021-05-24T13:38:40Z,Sznippers,true,4369,Corn
+149,2022-12-26T03:04:18Z,Kumciaczkos,false,4050,Corn
+243,2023-05-06T17:18:21Z,Sznippers,false,1165,Wheat
+250,2020-09-14T21:07:43Z,Miautex,false,2286,Rice
+343,2022-01-28T01:58:57Z,Kloburg,true,3303,Sunflower
+105,2021-10-08T04:05:13Z,Holoubek Corp,false,3932,Rice
+222,2022-05-13T14:54:46Z,Witold's and Jerzy's,true,4880,Soybean
+171,2022-12-14T23:22:20Z,Miautex,true,4001,Corn
+389,2021-09-10T10:55:58Z,Miautex,false,2276,Sunflower
+381,2020-09-10T14:35:47Z,Miautex,true,595,Cotton
+445,2020-06-12T12:07:06Z,Miautex,true,2818,Barley
+385,2022-07-24T18:40:24Z,Witold's and Jerzy's,true,2499,Rice
+196,2020-04-09T11:40:05Z,Xen,true,750,Rice
+382,2021-06-12T03:09:11Z,Witold's and Jerzy's,false,3951,Canola
+134,2021-05-16T13:29:36Z,Kloburg,false,4168,Sunflower
+442,2022-02-18T19:13:57Z,Miautex,false,2036,Wheat
+351,2020-06-17T22:30:28Z,Miautex,false,4081,Wheat
+248,2020-10-06T02:12:49Z,Witold's and Jerzy's,false,4583,Soybean
+427,2021-08-21T06:05:31Z,Sznippers,false,2202,Corn
+491,2021-03-17T21:03:30Z,Witold's and Jerzy's,true,2671,Wheat
+230,2021-07-31T14:19:23Z,Sznippers,false,3059,Canola
+253,2023-01-26T19:22:15Z,Miautex,true,1331,Oats
+489,2020-09-24T03:51:41Z,Miautex,true,645,Corn
+412,2020-10-18T03:44:30Z,Holoubek Corp,true,3305,Barley
+236,2021-07-31T10:21:20Z,Kloburg,false,2070,Sunflower
+247,2021-11-10T11:33:42Z,Kloburg,false,4785,Oats
+204,2022-06-27T10:52:16Z,Sznippers,false,4419,Canola
+202,2023-04-29T17:19:26Z,Sznippers,true,710,Wheat
+241,2022-02-23T19:07:20Z,Holoubek Corp,true,928,Sunflower
+172,2021-02-21T20:01:37Z,Witold's and Jerzy's,false,684,Barley
+328,2023-04-22T08:25:07Z,Sznippers,false,565,Barley
+314,2022-06-13T17:49:02Z,Sznippers,false,1573,Barley
+375,2020-04-14T21:30:29Z,Kloburg,false,4481,Canola
+407,2022-10-25T14:48:52Z,Kloburg,false,1302,Wheat
+376,2021-04-07T18:05:48Z,Miautex,false,4439,Sunflower
+160,2022-03-08T17:32:53Z,Sznippers,false,4327,Flaxseed
+306,2021-11-05T15:20:47Z,Sznippers,false,2268,Sunflower
+457,2021-05-28T05:26:12Z,Witold's and Jerzy's,false,3374,Barley
+400,2021-06-06T10:50:24Z,Xen,true,865,Rice
+167,2022-03-01T22:10:57Z,Sznippers,false,2585,Corn
+260,2021-01-13T03:05:55Z,Kumciaczkos,false,4330,Canola
+427,2020-04-21T05:23:05Z,Miautex,true,1293,Wheat
+444,2021-08-19T18:45:40Z,Witold's and Jerzy's,true,1255,Flaxseed
+481,2021-03-31T07:38:55Z,Holoubek Corp,false,4044,Cotton
+110,2021-05-18T00:45:25Z,Miautex,false,1882,Cotton
+350,2021-10-14T04:05:36Z,Xen,true,3330,Barley
+477,2023-03-23T13:58:42Z,Witold's and Jerzy's,false,505,Oats
+354,2021-11-15T19:56:20Z,Kloburg,true,1637,Rice
+491,2021-04-14T17:57:23Z,Holoubek Corp,false,4118,Cotton
+376,2021-02-18T00:40:20Z,Witold's and Jerzy's,false,3683,Sunflower
+446,2022-11-06T11:23:07Z,Kumciaczkos,false,520,Cotton
+195,2021-03-19T19:35:54Z,Kumciaczkos,false,1771,Wheat
+483,2020-06-17T10:49:26Z,Kumciaczkos,false,3269,Soybean
+243,2020-10-30T18:40:27Z,Sznippers,false,2026,Wheat
+209,2022-08-07T16:36:53Z,Witold's and Jerzy's,false,2587,Oats
+272,2022-02-22T00:22:02Z,Xen,false,1652,Wheat
+446,2022-04-18T14:44:56Z,Xen,true,1755,Corn
+294,2021-01-26T00:37:31Z,Kloburg,false,1523,Rice
+260,2021-06-23T13:26:54Z,Xen,false,4490,Cotton
+213,2022-12-23T20:16:26Z,Kloburg,true,2130,Sunflower
+153,2020-04-28T04:59:34Z,Sznippers,true,3900,Corn
+475,2021-06-14T12:16:48Z,Xen,false,456,Oats
+493,2021-10-19T10:21:16Z,Kloburg,false,3024,Barley
+396,2022-10-24T02:47:45Z,Kloburg,true,4467,Barley
+484,2021-07-11T08:53:20Z,Sznippers,false,3003,Wheat
+332,2022-01-19T12:20:29Z,Witold's and Jerzy's,true,4489,Sunflower
+295,2021-11-30T15:11:42Z,Miautex,false,2805,Rice
+226,2022-10-15T07:11:03Z,Kumciaczkos,true,3199,Cotton
+388,2020-07-11T13:50:08Z,Kloburg,true,3866,Rice
+393,2023-05-12T02:25:16Z,Kumciaczkos,true,3127,Oats
+303,2021-08-13T21:19:26Z,Kloburg,true,2282,Flaxseed
+116,2021-03-15T23:52:31Z,Kloburg,true,4664,Corn
+453,2023-03-19T06:38:51Z,Kumciaczkos,true,1927,Cotton
+263,2020-12-01T15:17:33Z,Kloburg,false,2424,Soybean
+228,2021-01-08T08:44:04Z,Miautex,true,4886,Sunflower
+482,2021-03-11T22:47:54Z,Kloburg,false,1204,Wheat
+133,2022-03-18T00:40:18Z,Kumciaczkos,true,2603,Oats
+346,2021-03-02T22:01:26Z,Miautex,false,3285,Rice
+443,2022-07-13T15:24:48Z,Sznippers,false,1785,Barley
+172,2023-03-06T21:10:09Z,Sznippers,true,1971,Sunflower
+270,2020-12-17T06:03:20Z,Xen,false,4608,Canola
+479,2021-01-01T09:07:47Z,Miautex,false,4552,Cotton
+409,2021-09-27T10:45:20Z,Kumciaczkos,true,581,Rice
+274,2023-05-11T22:00:04Z,Witold's and Jerzy's,false,2415,Cotton
+406,2020-08-14T09:57:35Z,Xen,false,856,Sunflower
+411,2021-02-28T15:40:21Z,Witold's and Jerzy's,true,4655,Cotton
+440,2022-06-29T15:11:28Z,Kloburg,false,2317,Barley
+196,2022-03-10T19:02:17Z,Xen,false,1264,Oats
+242,2022-10-20T11:30:58Z,Xen,false,4993,Oats
+339,2022-11-18T13:41:39Z,Miautex,true,2421,Sunflower
+150,2022-12-12T11:09:01Z,Kloburg,false,1463,Canola
+345,2020-11-24T09:27:54Z,Holoubek Corp,true,2291,Rice
+467,2023-05-27T07:40:26Z,Xen,false,699,Wheat
+246,2020-04-18T12:10:48Z,Miautex,false,1403,Barley
+492,2023-02-12T01:35:07Z,Witold's and Jerzy's,false,3690,Soybean
+473,2022-10-26T10:24:07Z,Sznippers,false,1290,Soybean
+384,2021-10-17T02:32:18Z,Miautex,false,1350,Rice
+103,2022-01-31T07:29:24Z,Kloburg,false,2227,Corn
+170,2021-09-11T10:55:46Z,Holoubek Corp,false,1448,Flaxseed
+185,2021-06-18T06:40:46Z,Witold's and Jerzy's,false,2715,Oats
+204,2021-01-25T05:16:16Z,Sznippers,true,4388,Cotton
+253,2022-02-02T16:58:55Z,Witold's and Jerzy's,false,2368,Barley
+105,2021-04-06T04:50:13Z,Miautex,false,1351,Wheat
+447,2021-02-04T08:08:14Z,Kumciaczkos,false,2701,Cotton
+418,2022-11-08T11:45:14Z,Holoubek Corp,true,4861,Soybean
+122,2022-02-04T08:25:00Z,Xen,true,931,Corn
+310,2021-03-15T13:36:51Z,Holoubek Corp,true,1577,Soybean
+313,2023-02-07T02:17:26Z,Kumciaczkos,false,4073,Wheat
+298,2021-04-26T21:01:52Z,Witold's and Jerzy's,false,2250,Soybean
+116,2022-04-01T18:56:50Z,Kumciaczkos,true,2090,Oats
+233,2023-03-04T20:33:16Z,Witold's and Jerzy's,false,1757,Soybean
+279,2020-05-20T14:47:43Z,Witold's and Jerzy's,false,716,Flaxseed
+302,2022-08-07T04:12:55Z,Kumciaczkos,true,1676,Sunflower
+497,2021-12-23T14:28:55Z,Xen,true,4962,Sunflower
+265,2021-05-26T22:19:19Z,Witold's and Jerzy's,true,2276,Rice
+356,2020-10-21T18:04:18Z,Holoubek Corp,false,599,Sunflower
+344,2020-06-01T00:24:42Z,Kumciaczkos,true,4318,Corn
+126,2021-05-10T22:42:00Z,Xen,true,2095,Rice
+234,2023-05-26T02:38:01Z,Kumciaczkos,false,4034,Barley
+483,2020-12-02T13:17:58Z,Witold's and Jerzy's,false,3134,Canola
+412,2020-04-02T05:56:38Z,Kloburg,false,1463,Barley
+338,2020-12-13T04:21:04Z,Holoubek Corp,true,2279,Rice
+421,2021-05-21T07:25:35Z,Miautex,false,3145,Barley
+412,2021-11-26T11:18:42Z,Kumciaczkos,true,2924,Corn
+375,2022-02-02T23:04:45Z,Miautex,false,2263,Barley
+113,2021-09-20T06:47:01Z,Miautex,true,1119,Wheat
+443,2021-11-25T20:22:13Z,Kloburg,false,2614,Rice
+265,2022-04-13T09:22:23Z,Kumciaczkos,true,4415,Wheat
+131,2023-01-10T21:07:22Z,Witold's and Jerzy's,false,2222,Rice
+394,2022-06-22T02:02:47Z,Witold's and Jerzy's,true,3251,Rice
+416,2020-10-04T21:48:12Z,Sznippers,true,1918,Oats
+129,2020-05-01T09:07:31Z,Sznippers,false,3941,Wheat
+353,2021-06-28T10:17:57Z,Kumciaczkos,true,4272,Oats
+419,2023-01-19T00:41:25Z,Sznippers,true,411,Rice
+150,2022-01-16T19:27:33Z,Holoubek Corp,true,1298,Sunflower
+187,2021-08-12T10:37:24Z,Xen,false,2396,Flaxseed
+456,2022-04-30T19:41:13Z,Holoubek Corp,true,2600,Flaxseed
+116,2020-12-26T23:15:30Z,Miautex,true,3909,Soybean
+228,2021-04-06T18:31:47Z,Sznippers,false,1624,Sunflower
+270,2022-04-02T15:30:42Z,Miautex,true,3422,Rice
+279,2021-06-18T14:28:16Z,Xen,false,624,Barley
+192,2021-11-19T13:39:49Z,Xen,true,4154,Oats
+239,2020-08-14T11:53:21Z,Witold's and Jerzy's,false,4208,Cotton
+326,2020-11-23T13:26:55Z,Xen,true,3716,Corn
+318,2023-03-21T22:25:34Z,Holoubek Corp,true,4460,Soybean
+177,2021-04-27T12:38:14Z,Kumciaczkos,false,1041,Rice
+342,2022-03-23T01:39:12Z,Kumciaczkos,false,2754,Corn
+409,2020-12-25T12:13:48Z,Witold's and Jerzy's,true,2405,Rice
+191,2022-09-08T21:23:33Z,Miautex,true,4126,Barley
+459,2020-08-19T11:30:08Z,Miautex,true,3057,Canola
+476,2023-05-27T16:38:48Z,Holoubek Corp,false,3991,Oats
+456,2021-09-26T11:20:34Z,Sznippers,false,2179,Barley
+390,2020-05-28T14:25:29Z,Witold's and Jerzy's,true,2723,Rice
+248,2021-11-30T05:06:01Z,Kloburg,false,2105,Rice
+311,2020-05-10T12:10:29Z,Kloburg,false,887,Soybean
+372,2021-12-08T22:01:39Z,Sznippers,false,2447,Canola
+184,2022-07-21T15:18:36Z,Holoubek Corp,false,3385,Flaxseed
+114,2022-12-18T11:53:03Z,Kloburg,true,3199,Sunflower
+214,2021-07-22T19:12:51Z,Holoubek Corp,true,3349,Oats
+151,2022-04-12T03:04:16Z,Witold's and Jerzy's,false,1719,Barley
+465,2021-03-18T08:32:31Z,Miautex,true,1707,Soybean
+216,2020-04-09T04:07:02Z,Holoubek Corp,true,1259,Cotton
+152,2020-07-07T05:40:27Z,Xen,false,1496,Rice
+124,2022-05-28T14:10:08Z,Kloburg,false,3623,Canola
+253,2023-02-10T23:42:18Z,Sznippers,false,588,Oats
+172,2020-06-12T21:05:10Z,Miautex,false,4348,Wheat
+358,2023-05-27T05:58:53Z,Holoubek Corp,true,1801,Canola
+352,2021-03-15T06:29:03Z,Sznippers,true,2599,Canola
+296,2022-10-12T18:30:56Z,Holoubek Corp,true,1314,Sunflower
+132,2022-04-05T08:17:56Z,Witold's and Jerzy's,false,1053,Oats
+491,2020-07-22T01:27:47Z,Kloburg,false,3300,Cotton
+442,2020-05-04T09:55:08Z,Xen,true,3676,Soybean
+461,2020-06-07T04:37:57Z,Xen,true,1425,Soybean
+253,2022-07-21T09:43:31Z,Holoubek Corp,true,3471,Rice
+131,2022-07-24T00:28:18Z,Miautex,false,3150,Oats
+430,2020-09-01T00:37:51Z,Sznippers,false,1951,Canola
+424,2021-12-05T04:49:12Z,Kloburg,false,3194,Flaxseed
+449,2021-06-21T07:22:23Z,Holoubek Corp,false,3561,Rice
+101,2023-04-20T03:40:00Z,Holoubek Corp,true,2436,Flaxseed
+346,2022-01-15T03:53:30Z,Kumciaczkos,false,3741,Wheat
+190,2020-06-10T10:00:41Z,Holoubek Corp,false,3397,Corn
+195,2022-10-31T10:00:39Z,Witold's and Jerzy's,true,1161,Oats
+141,2021-10-26T10:01:37Z,Miautex,true,2393,Wheat
+297,2021-07-31T23:44:30Z,Sznippers,false,3522,Corn
+270,2021-04-13T00:25:58Z,Kumciaczkos,true,1007,Corn
+253,2020-10-11T03:46:15Z,Kumciaczkos,false,1215,Flaxseed
+185,2022-09-13T18:38:02Z,Miautex,true,3791,Oats
+418,2021-12-18T22:06:19Z,Sznippers,true,4194,Cotton
+328,2023-05-13T05:32:50Z,Kumciaczkos,false,3596,Wheat
+258,2022-09-04T08:41:04Z,Kloburg,true,2338,Oats
+437,2020-12-13T03:06:54Z,Kloburg,true,718,Rice
+376,2021-03-19T12:05:10Z,Holoubek Corp,true,4812,Canola
+316,2021-02-15T16:48:03Z,Miautex,false,3348,Cotton
+444,2021-01-19T08:46:14Z,Miautex,false,3389,Oats
+400,2020-10-05T00:02:30Z,Holoubek Corp,false,3123,Sunflower
+439,2022-03-04T15:27:01Z,Kloburg,false,1309,Soybean
+246,2023-02-19T20:36:42Z,Witold's and Jerzy's,true,2051,Oats
+113,2022-05-04T23:04:02Z,Holoubek Corp,true,805,Wheat
+142,2021-01-04T22:02:26Z,Xen,true,1387,Cotton
+398,2020-05-14T23:01:56Z,Kloburg,true,3045,Rice
+320,2020-04-27T05:31:55Z,Witold's and Jerzy's,true,2748,Corn
+132,2021-04-29T19:41:24Z,Miautex,true,881,Wheat
+103,2022-08-25T19:42:56Z,Xen,false,3569,Wheat
+264,2023-01-06T02:46:50Z,Witold's and Jerzy's,false,2728,Wheat
+293,2022-08-15T10:11:19Z,Kloburg,false,4205,Corn
+240,2022-03-05T03:24:33Z,Witold's and Jerzy's,true,2179,Canola
+416,2020-09-12T06:32:54Z,Holoubek Corp,true,2615,Oats
+297,2020-12-24T10:09:36Z,Witold's and Jerzy's,false,2311,Sunflower
+374,2021-07-19T08:39:59Z,Kumciaczkos,false,2473,Cotton
+422,2020-12-30T01:52:32Z,Kumciaczkos,true,1081,Oats
+449,2021-06-25T03:25:30Z,Witold's and Jerzy's,false,2444,Corn
+292,2020-08-05T14:27:40Z,Kloburg,false,2584,Canola
+305,2022-02-01T11:50:51Z,Xen,true,1421,Rice
+159,2022-06-13T18:53:27Z,Holoubek Corp,false,3592,Sunflower
+118,2022-12-21T05:32:31Z,Kloburg,true,2218,Wheat
+195,2021-06-07T21:10:33Z,Miautex,true,2583,Corn
+342,2023-01-12T18:33:44Z,Witold's and Jerzy's,false,3742,Cotton
+170,2020-07-09T12:31:12Z,Witold's and Jerzy's,false,2789,Oats
+317,2022-03-10T13:06:50Z,Witold's and Jerzy's,false,2282,Oats
+199,2022-08-29T20:57:15Z,Holoubek Corp,true,1456,Oats
+334,2022-10-24T15:29:27Z,Holoubek Corp,true,2547,Corn
+388,2021-12-15T07:24:20Z,Miautex,true,4137,Sunflower
+239,2021-04-18T19:33:03Z,Kloburg,true,3889,Canola
+385,2020-07-24T19:50:39Z,Holoubek Corp,false,3879,Rice
+241,2022-02-17T23:45:57Z,Xen,false,4438,Soybean
+277,2022-11-26T07:57:12Z,Witold's and Jerzy's,true,4255,Soybean
+190,2021-07-14T10:58:29Z,Kloburg,true,2300,Barley
+182,2022-06-28T02:32:35Z,Kumciaczkos,true,491,Canola
+238,2022-06-26T14:47:24Z,Kumciaczkos,false,3902,Oats
+491,2021-01-26T12:30:19Z,Kumciaczkos,false,3707,Corn
+310,2020-11-09T17:05:37Z,Kloburg,false,1340,Flaxseed
+326,2021-12-19T01:50:30Z,Xen,false,2394,Corn
+113,2022-02-03T16:38:08Z,Witold's and Jerzy's,true,3852,Canola
+280,2023-01-21T21:28:50Z,Holoubek Corp,true,4196,Barley
+158,2022-02-08T04:01:34Z,Kumciaczkos,true,721,Sunflower
+220,2020-07-14T03:02:50Z,Sznippers,false,3727,Flaxseed
+407,2021-08-01T14:52:10Z,Xen,false,1259,Sunflower
+421,2022-08-25T00:53:11Z,Miautex,true,4339,Cotton
+190,2022-08-30T07:57:33Z,Holoubek Corp,true,3142,Soybean
+499,2020-10-03T04:26:40Z,Sznippers,true,1024,Soybean
+461,2021-11-20T02:10:11Z,Sznippers,false,2644,Soybean
+216,2021-05-13T11:32:19Z,Kloburg,true,1243,Canola
+121,2021-05-23T05:22:46Z,Kumciaczkos,false,2652,Flaxseed
+194,2020-07-22T01:41:33Z,Kloburg,false,1124,Rice
+397,2020-10-24T19:05:02Z,Kloburg,true,1586,Oats
+224,2022-02-22T01:42:36Z,Holoubek Corp,true,2062,Wheat
+483,2023-02-26T06:03:50Z,Kloburg,true,1369,Rice
+491,2023-05-24T09:21:51Z,Kloburg,false,2467,Barley
+379,2020-04-15T10:33:04Z,Witold's and Jerzy's,true,2670,Cotton
+173,2021-04-25T10:05:37Z,Miautex,true,1868,Canola
+352,2020-04-06T11:24:19Z,Xen,true,1627,Wheat
+202,2020-10-14T12:46:50Z,Kloburg,true,4306,Barley
+292,2022-03-29T14:00:34Z,Sznippers,false,4479,Soybean
+161,2022-09-20T10:23:16Z,Witold's and Jerzy's,false,1744,Oats
+268,2022-06-10T19:35:53Z,Kloburg,true,4586,Sunflower
+428,2021-04-06T06:11:23Z,Kumciaczkos,true,1235,Barley
+162,2020-06-25T12:56:36Z,Xen,false,4230,Canola
+184,2022-06-17T11:51:40Z,Witold's and Jerzy's,true,3786,Wheat
+246,2021-08-26T22:34:09Z,Holoubek Corp,false,1631,Flaxseed
+107,2022-08-07T09:19:04Z,Witold's and Jerzy's,false,2033,Canola
+215,2021-11-01T01:32:11Z,Miautex,false,2172,Oats
+317,2021-10-27T23:26:12Z,Kloburg,true,1623,Cotton
+292,2023-02-08T13:34:32Z,Xen,true,1158,Rice
+270,2021-12-09T17:04:48Z,Kloburg,true,1342,Oats
+328,2022-02-09T15:49:23Z,Witold's and Jerzy's,false,983,Cotton
+348,2022-02-27T14:00:05Z,Witold's and Jerzy's,false,1021,Barley
+331,2023-04-15T07:07:45Z,Kloburg,false,995,Barley
+451,2021-01-12T03:07:49Z,Miautex,true,4119,Canola
+407,2020-06-02T17:40:49Z,Witold's and Jerzy's,false,2198,Sunflower
+382,2021-02-02T17:43:11Z,Kumciaczkos,true,1009,Barley
+194,2022-02-11T14:06:58Z,Sznippers,false,922,Canola
+348,2021-02-13T13:59:21Z,Holoubek Corp,true,2399,Cotton
+385,2021-11-04T13:41:17Z,Miautex,false,3544,Cotton
+362,2021-09-15T20:58:13Z,Sznippers,true,4431,Flaxseed
+420,2020-10-27T17:08:09Z,Sznippers,false,2757,Soybean
+149,2021-10-17T01:00:21Z,Xen,true,1265,Sunflower
+231,2021-06-01T11:06:53Z,Witold's and Jerzy's,false,4766,Sunflower
+216,2023-01-21T05:31:01Z,Sznippers,true,3315,Flaxseed
+379,2020-12-06T16:49:19Z,Miautex,false,4086,Rice
+351,2021-12-23T04:03:45Z,Witold's and Jerzy's,true,4304,Soybean
+118,2021-12-06T18:38:37Z,Witold's and Jerzy's,false,599,Barley
+428,2022-04-23T12:22:00Z,Holoubek Corp,true,1793,Rice
+405,2022-03-26T06:31:03Z,Sznippers,false,1210,Rice
+187,2021-07-05T23:57:16Z,Sznippers,false,3706,Oats
+203,2022-04-29T16:59:16Z,Xen,true,3750,Sunflower
+193,2021-06-06T06:26:46Z,Kloburg,true,3498,Oats
+103,2022-11-29T16:46:54Z,Xen,false,4285,Flaxseed
+404,2020-04-07T00:06:45Z,Kumciaczkos,true,742,Soybean
+345,2022-09-14T22:12:48Z,Xen,false,3799,Wheat
+245,2022-01-09T07:51:17Z,Miautex,false,792,Wheat
+316,2020-12-31T12:58:07Z,Sznippers,false,2409,Wheat
+122,2021-08-26T04:43:33Z,Xen,true,1384,Soybean
+196,2020-10-29T14:15:00Z,Sznippers,true,4749,Wheat
+249,2021-02-17T04:15:53Z,Holoubek Corp,true,1917,Corn
+303,2020-06-23T01:01:06Z,Sznippers,true,2022,Cotton
+171,2023-04-24T02:57:36Z,Xen,true,2606,Barley
+449,2023-04-21T22:30:59Z,Xen,false,1704,Barley
+125,2020-10-28T10:22:06Z,Witold's and Jerzy's,false,1494,Canola
+314,2020-10-03T05:43:42Z,Miautex,true,1810,Barley
+139,2021-07-26T11:20:19Z,Xen,true,2427,Sunflower
+254,2021-02-07T10:45:41Z,Sznippers,false,1122,Sunflower
+207,2021-08-20T14:47:37Z,Miautex,true,3214,Sunflower
+289,2021-05-13T02:39:46Z,Witold's and Jerzy's,true,585,Oats
+394,2022-11-27T10:14:41Z,Kloburg,true,2678,Wheat
+367,2021-06-23T19:50:22Z,Miautex,false,3998,Flaxseed
+311,2022-11-07T23:02:43Z,Holoubek Corp,true,4477,Soybean
+341,2023-01-29T13:28:22Z,Kloburg,false,3668,Sunflower
+217,2022-03-21T11:21:42Z,Miautex,false,1397,Sunflower
+254,2021-06-21T10:22:17Z,Sznippers,true,4114,Flaxseed
+116,2023-05-26T00:29:28Z,Kloburg,true,1673,Corn
+447,2020-07-09T19:24:18Z,Miautex,true,4108,Sunflower
+247,2022-09-02T19:33:14Z,Xen,false,2495,Flaxseed
+148,2023-05-06T14:35:52Z,Holoubek Corp,true,934,Oats

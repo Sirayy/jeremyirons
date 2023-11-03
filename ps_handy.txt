@@ -1,0 +1,24 @@
+ls - check files
+cd [folder] - go to
+cd .. - return to prev
+cd ..\.. - go 2 folders back
+tab - propozycje
+absolute (wth / || from the start) & relative (wthout / || <-)
+pwd - pokaz absolutną scieżkę obecnego folderu
+cd / - return to the root folder
+cat/get-content - check the content 
+cd ~ - POMOCY CHCE DO DOMU 
+
+#####
+zmienne środowiskowe lokalne - zapisane tylko w danej sesji
+zmienne środowiskowe globalne - zapisane w kontekscie calego komputera
+
+code (.) - code (from HERE)
+
+ps1 - rozszerzenie pliku, np. zapisywanie zmiennych srodowiskowych
+sh - dla linuxa (git bash)
+. () - run
+
+explorer . - file explorer
+
+
