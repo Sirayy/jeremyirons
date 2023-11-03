@@ -1,0 +1,38 @@
+{
+  "movie_1": {
+    "title": "The Llama Whisperer",
+    "genre": "Comedy",
+    "director": "Chuckles McRibbons",
+    "rating": "PG-13",
+    "plot": "In a small town, a mysterious stranger arrives with an uncanny ability to communicate with llamas. Chaos ensues as the town's eccentric residents compete to learn the secrets of llama whispering.",
+    "cast": [
+      "Jim Funnyman",
+      "Tina Giggleton",
+      "Larry Guffaw"
+    ]
+  },
+  "movie_2": {
+    "title": "Attack of the Killer Squirrels",
+    "genre": "Horror-Comedy",
+    "director": "Silly McPants",
+    "rating": "R",
+    "plot": "When a nuclear accident grants squirrels superintelligence and razor-sharp teeth, a group of friends must fight for their lives against the relentless army of acorn-obsessed rodents.",
+    "cast": [
+      "Billy Chucklesworth",
+      "Sandra Snickers",
+      "Frank Bellylaughs"
+    ]
+  },
+  "movie_3": {
+    "title": "The Dancing Tacos",
+    "genre": "Musical",
+    "director": "Giggles O'Salsa",
+    "rating": "G",
+    "plot": "In a world where tacos come to life, a shy chef discovers a hidden talent for salsa dancing. Joined by a lively group of singing and dancing tacos, they set out to win the ultimate dance competition and save their beloved taco truck from closure.",
+    "cast": [
+      "Manny Nacho",
+      "Isabella Quesadilla",
+      "Carlos Enchilada"
+    ]
+  }
+}

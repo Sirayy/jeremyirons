@@ -1,0 +1,1001 @@
+brand;cat_name;cat_breed;event_datetime;active;sales;toys
+Miautex;Plover, blacksmith;Russian Blue;2021-08-18T08:52:28Z;true;1783;Butterfly
+Holoubek Corp;Macaque, pig-tailed;Russian Blue;2022-05-09T19:25:17Z;false;225;Rabbit
+Holoubek Corp;Sally lightfoot crab;British Shorthair;2022-12-23T09:52:18Z;false;365;Squirrel
+Xen;Civet cat;Russian Blue;2022-07-09T04:20:52Z;false;1380;Yarn
+Witold's and Jerzy's;Wambenger, red-tailed;Bengal;2021-12-17T03:04:48Z;true;1377;Bell
+Holoubek Corp;Flamingo, chilean;Sphynx;2020-06-20T03:35:35Z;false;303;String
+Kumciaczkos;White-throated robin;Bengal;2020-08-29T12:06:06Z;false;964;String
+Witold's and Jerzy's;Cormorant, little;Persian;2021-06-07T21:51:21Z;true;944;Ball
+Miautex;South African hedgehog;Russian Blue;2021-09-07T06:15:53Z;true;1195;Yarn
+Kloburg;Green-winged macaw;Sphynx;2022-11-28T02:00:39Z;false;1346;Bell
+Kloburg;Malabar squirrel;Scottish Fold;2021-05-13T21:20:39Z;false;1027;Rabbit
+Kloburg;African polecat;Persian;2021-02-17T23:22:05Z;false;1314;Yarn
+Holoubek Corp;Deer, white-tailed;Russian Blue;2021-08-25T01:31:14Z;false;546;Feather
+Witold's and Jerzy's;Dunnart, fat-tailed;Ragdoll;2022-05-24T15:36:39Z;false;1348;Squirrel
+Witold's and Jerzy's;Bushpig;Siamese;2021-08-12T12:59:37Z;false;152;Butterfly
+Xen;Monitor, white-throated;Ragdoll;2021-12-29T03:27:32Z;false;1658;Feather
+Xen;Blue crane;Siamese;2022-04-07T10:43:39Z;true;109;Bell
+Kumciaczkos;Tarantula, salmon pink bird eater;Persian;2022-01-18T16:04:46Z;true;960;Butterfly
+Sznippers;Crocodile, nile;Bengal;2022-10-03T16:06:50Z;false;880;Feather
+Witold's and Jerzy's;Blue-breasted cordon bleu;Sphynx;2020-08-07T03:48:42Z;true;1784;Squirrel
+Sznippers;Crested barbet;Persian;2021-05-09T20:38:08Z;true;177;Mouse
+Kloburg;Striped hyena;British Shorthair;2021-04-10T02:45:51Z;true;1970;Ball
+Holoubek Corp;North American red fox;Russian Blue;2022-07-27T07:08:30Z;false;392;Fish
+Miautex;Rhinoceros, white;Persian;2022-02-15T18:44:30Z;true;1938;Ball
+Kumciaczkos;Bustard, stanley;Ragdoll;2022-08-17T09:54:48Z;true;1165;Mouse
+Sznippers;American crow;Russian Blue;2022-12-16T18:47:58Z;true;1982;Squirrel
+Miautex;Rhesus macaque;Sphynx;2022-02-10T11:31:34Z;false;626;String
+Miautex;Water legaan;American Shorthair;2021-06-09T11:25:58Z;true;1668;Yarn
+Witold's and Jerzy's;Chestnut weaver;Russian Blue;2023-03-21T16:23:59Z;true;1988;Ball
+Sznippers;Greater sage grouse;Ragdoll;2022-10-18T21:04:41Z;true;358;Ball
+Witold's and Jerzy's;Bleeding heart monkey;Persian;2022-01-12T18:31:21Z;false;1749;String
+Miautex;Dassie;Scottish Fold;2020-10-23T08:28:11Z;false;1903;Rabbit
+Xen;American bison;Sphynx;2021-01-15T09:04:43Z;false;1749;Bell
+Miautex;Galapagos dove;Persian;2022-03-19T02:00:09Z;true;1312;Feather
+Sznippers;Pelican, brown;Ragdoll;2022-02-01T15:04:16Z;true;1009;Mouse
+Miautex;Grison;Scottish Fold;2022-02-05T21:43:06Z;true;1583;Ball
+Xen;Seal, southern elephant;Russian Blue;2021-09-19T14:46:42Z;true;1670;Feather
+Miautex;Red-billed hornbill;Bengal;2021-11-11T19:45:22Z;false;894;Ball
+Sznippers;Black swan;Persian;2022-09-10T20:45:44Z;false;470;String
+Miautex;Chilean flamingo;Siamese;2021-11-07T20:24:12Z;true;1555;Mouse
+Xen;Boa, cook's tree;Scottish Fold;2022-08-10T01:27:32Z;false;570;Feather
+Xen;Lorikeet, scaly-breasted;Scottish Fold;2021-01-08T20:50:32Z;true;986;Ball
+Kloburg;Colobus, white-mantled;Maine Coon;2022-09-10T04:02:08Z;false;1071;String
+Holoubek Corp;Currasow (unidentified);Russian Blue;2022-02-24T00:33:21Z;true;549;Mouse
+Miautex;Bontebok;Scottish Fold;2021-10-19T03:16:44Z;false;1917;Butterfly
+Miautex;Woodcock, american;Ragdoll;2021-11-23T20:29:58Z;true;1762;Butterfly
+Witold's and Jerzy's;Pig-tailed macaque;Maine Coon;2021-10-11T20:18:41Z;false;1382;Yarn
+Witold's and Jerzy's;Paradoxure;Siamese;2022-09-29T05:17:48Z;true;1828;Rabbit
+Kloburg;Black-footed ferret;Maine Coon;2021-04-22T08:16:00Z;false;440;Rabbit
+Miautex;Caracara, yellow-headed;Bengal;2021-06-04T04:55:58Z;true;1191;Squirrel
+Holoubek Corp;Hoary marmot;Scottish Fold;2020-06-08T14:54:16Z;true;382;Ball
+Holoubek Corp;Gelada baboon;Persian;2023-02-06T21:52:07Z;false;1936;String
+Kumciaczkos;Duiker, gray;Maine Coon;2023-05-13T10:38:13Z;true;1415;Yarn
+Holoubek Corp;Magpie, australian;Persian;2022-09-13T10:36:46Z;true;1522;Bell
+Kloburg;Agile wallaby;Ragdoll;2022-04-14T00:27:36Z;true;1888;Bell
+Kumciaczkos;Colobus, black and white;Maine Coon;2021-09-02T23:06:22Z;true;1776;Ball
+Sznippers;Bushpig;Maine Coon;2022-01-12T10:40:39Z;false;340;Yarn
+Holoubek Corp;Kinkajou;Scottish Fold;2022-11-01T21:30:51Z;false;1734;Fish
+Holoubek Corp;Common nighthawk;Scottish Fold;2020-12-05T22:01:47Z;true;500;Mouse
+Xen;Hornbill, yellow-billed;Sphynx;2020-08-21T22:40:48Z;false;1116;Fish
+Kloburg;Bald eagle;Ragdoll;2023-03-22T23:30:34Z;false;393;Fish
+Holoubek Corp;Common zorro;Siamese;2023-05-01T09:46:12Z;true;1893;Rabbit
+Holoubek Corp;Bird (unidentified);Bengal;2021-11-25T02:56:38Z;true;983;Bell
+Sznippers;Squirrel, red;Scottish Fold;2021-04-22T19:13:45Z;false;1576;Squirrel
+Sznippers;Green heron;American Shorthair;2020-05-06T20:41:38Z;false;1725;Fish
+Holoubek Corp;Wambenger, red-tailed;Maine Coon;2022-01-17T18:54:30Z;false;1817;Mouse
+Sznippers;Gila monster;American Shorthair;2020-12-26T12:52:31Z;true;185;Butterfly
+Kloburg;Magellanic penguin;American Shorthair;2023-01-03T20:35:50Z;true;1527;Yarn
+Kloburg;Butterfly, canadian tiger swallowtail;Sphynx;2021-10-01T11:00:14Z;true;521;Feather
+Kumciaczkos;Little blue penguin;American Shorthair;2021-08-06T20:36:29Z;true;736;Fish
+Xen;Swan, trumpeter;American Shorthair;2021-12-10T01:41:56Z;false;151;Mouse
+Miautex;Brazilian tapir;Bengal;2021-08-07T13:01:36Z;false;1457;Butterfly
+Xen;Squirrel, malabar;American Shorthair;2021-04-28T15:15:45Z;false;1978;String
+Holoubek Corp;Woodrat (unidentified);Siamese;2021-10-28T10:07:49Z;true;120;Fish
+Witold's and Jerzy's;Cobra, cape;Bengal;2022-04-02T07:58:11Z;true;1080;Bell
+Kumciaczkos;Vulture, turkey;British Shorthair;2022-07-12T16:04:52Z;true;611;Rabbit
+Kumciaczkos;Sidewinder;Sphynx;2022-09-21T14:17:37Z;false;1888;Fish
+Miautex;Flamingo, lesser;Maine Coon;2022-03-22T06:04:52Z;false;1720;String
+Xen;White-throated kingfisher;Persian;2022-05-25T19:06:34Z;false;409;Squirrel
+Miautex;Bleu, blue-breasted cordon;Siamese;2020-12-09T19:37:33Z;true;1002;String
+Witold's and Jerzy's;Bulbul, black-fronted;American Shorthair;2022-12-10T15:18:37Z;false;1094;String
+Sznippers;Asian openbill;Scottish Fold;2023-03-30T17:13:29Z;false;1647;Rabbit
+Miautex;Hawk, red-tailed;Ragdoll;2022-05-07T19:30:36Z;true;1546;Rabbit
+Kloburg;Bat, asian false vampire;Bengal;2020-06-20T23:07:20Z;true;1105;Rabbit
+Witold's and Jerzy's;Scarlet macaw;Bengal;2021-04-29T21:54:26Z;true;347;Butterfly
+Kumciaczkos;Squirrel, indian giant;Russian Blue;2020-09-11T14:11:49Z;false;1500;Bell
+Miautex;Insect, stick;Ragdoll;2022-05-03T22:55:46Z;true;1966;Bell
+Witold's and Jerzy's;Kookaburra, laughing;Bengal;2023-03-14T18:36:38Z;true;1028;String
+Miautex;Brindled gnu;Siamese;2020-07-29T18:50:15Z;true;1202;Mouse
+Holoubek Corp;Red-billed tropic bird;American Shorthair;2022-06-22T17:22:49Z;false;1656;Bell
+Miautex;Giraffe;Scottish Fold;2022-01-09T14:58:24Z;true;1248;Mouse
+Kloburg;European shelduck;Bengal;2021-02-15T17:57:46Z;false;1930;String
+Kumciaczkos;Aardwolf;Siamese;2022-03-05T21:43:46Z;true;1891;Ball
+Kumciaczkos;Hawk, ferruginous;British Shorthair;2023-04-28T09:03:02Z;false;550;String
+Witold's and Jerzy's;Badger, honey;Ragdoll;2020-05-10T12:31:22Z;false;1720;Fish
+Holoubek Corp;Gonolek, burchell's;British Shorthair;2021-06-24T20:04:58Z;false;1662;Squirrel
+Holoubek Corp;Bustard, denham's;Scottish Fold;2022-06-09T11:48:33Z;true;1096;Yarn
+Miautex;Crab, sally lightfoot;British Shorthair;2022-07-04T08:15:41Z;false;947;Bell
+Holoubek Corp;Red phalarope;Russian Blue;2023-02-02T09:10:02Z;false;1295;Fish
+Kloburg;Ferret, black-footed;British Shorthair;2023-02-10T11:55:30Z;false;667;Bell
+Sznippers;American woodcock;Bengal;2022-01-01T12:32:48Z;true;1614;Butterfly
+Holoubek Corp;House crow;British Shorthair;2021-10-18T01:57:55Z;true;1187;String
+Witold's and Jerzy's;Laughing kookaburra;Maine Coon;2020-11-20T15:17:28Z;false;1631;String
+Witold's and Jerzy's;Kangaroo, red;American Shorthair;2022-05-04T16:09:59Z;false;1150;Fish
+Miautex;Frilled lizard;Ragdoll;2023-03-07T06:47:35Z;false;644;Mouse
+Holoubek Corp;Cat, toddy;Sphynx;2023-04-09T11:08:41Z;true;1398;Butterfly
+Sznippers;Wallaby, euro;American Shorthair;2022-10-17T22:33:22Z;true;1394;Yarn
+Miautex;Pelican, eastern white;Scottish Fold;2020-08-24T13:56:20Z;false;1772;Squirrel
+Xen;Stork, black-necked;American Shorthair;2023-05-13T17:42:24Z;true;487;Ball
+Xen;Salmon, sockeye;Siamese;2022-12-08T14:23:11Z;false;1568;Ball
+Holoubek Corp;Small-toothed palm civet;British Shorthair;2023-02-26T06:07:25Z;false;565;String
+Witold's and Jerzy's;Greater roadrunner;Bengal;2020-11-12T04:59:41Z;true;1790;Mouse
+Xen;Rhea, greater;Scottish Fold;2022-09-28T23:24:42Z;true;458;Mouse
+Sznippers;American Virginia opossum;Russian Blue;2022-03-05T17:38:02Z;true;1055;Squirrel
+Kumciaczkos;Mocking cliffchat;British Shorthair;2023-05-05T23:44:07Z;false;220;String
+Kumciaczkos;Lion, african;Russian Blue;2023-03-18T02:48:45Z;true;1673;Bell
+Holoubek Corp;Bushpig;Sphynx;2022-02-01T17:16:51Z;false;1631;String
+Kumciaczkos;Spoonbill, european;Maine Coon;2022-08-22T04:28:12Z;true;218;String
+Sznippers;Jacana, african;Maine Coon;2023-04-25T07:18:14Z;true;291;Feather
+Witold's and Jerzy's;Shrike, crimson-breasted;Scottish Fold;2022-05-30T13:43:13Z;true;1957;Fish
+Xen;Pallas's fish eagle;Scottish Fold;2021-04-11T16:14:29Z;true;594;Rabbit
+Witold's and Jerzy's;Badger, european;British Shorthair;2020-11-27T20:32:10Z;true;731;Yarn
+Sznippers;Brown lemur;Russian Blue;2021-03-25T05:14:13Z;true;484;Mouse
+Xen;Crown of thorns starfish;British Shorthair;2023-01-06T00:39:28Z;true;1981;Fish
+Miautex;Eastern quoll;Ragdoll;2021-03-02T22:57:31Z;true;1039;Fish
+Sznippers;Lizard, frilled;Russian Blue;2021-01-11T16:10:09Z;true;385;Butterfly
+Kumciaczkos;Wildebeest, blue;Scottish Fold;2020-05-30T23:23:55Z;true;1974;Yarn
+Kloburg;White-winged dove;Persian;2021-09-07T08:49:42Z;true;244;Yarn
+Witold's and Jerzy's;Hartebeest, coke's;British Shorthair;2021-01-19T08:43:59Z;false;570;Mouse
+Xen;Blue and yellow macaw;Ragdoll;2021-05-09T04:06:25Z;false;1929;Bell
+Sznippers;Eagle, bateleur;Russian Blue;2023-04-05T15:07:11Z;true;321;Rabbit
+Kumciaczkos;African pied wagtail;American Shorthair;2020-08-24T02:07:45Z;false;1766;Mouse
+Kloburg;Sandpiper, spotted wood;Sphynx;2021-12-12T13:53:08Z;false;895;Bell
+Holoubek Corp;Red meerkat;American Shorthair;2020-04-11T20:50:06Z;false;790;Fish
+Witold's and Jerzy's;Praying mantis (unidentified);Russian Blue;2021-03-27T23:30:34Z;false;1649;Yarn
+Sznippers;Cliffchat, mocking;British Shorthair;2020-04-21T07:56:49Z;false;972;Squirrel
+Miautex;Vulture, lappet-faced;Maine Coon;2022-02-11T23:06:23Z;true;741;Bell
+Kumciaczkos;Cattle egret;Maine Coon;2023-02-17T10:30:47Z;true;917;Rabbit
+Holoubek Corp;American bighorn sheep;Ragdoll;2022-03-13T13:39:23Z;false;1528;Butterfly
+Witold's and Jerzy's;Sloth, pale-throated three-toed;Persian;2021-05-05T01:31:23Z;true;524;Ball
+Holoubek Corp;Tammar wallaby;Russian Blue;2020-11-30T08:30:07Z;true;278;Mouse
+Kloburg;Desert kangaroo rat;Persian;2023-04-01T11:49:46Z;false;1139;Fish
+Miautex;Turtle, long-necked;Sphynx;2022-11-02T07:43:18Z;true;1762;Yarn
+Witold's and Jerzy's;Rhesus macaque;Russian Blue;2022-05-26T06:09:49Z;false;844;Rabbit
+Miautex;Giraffe;Bengal;2022-03-06T05:48:06Z;true;1717;Bell
+Miautex;Coyote;British Shorthair;2022-03-04T01:06:22Z;false;1770;Bell
+Sznippers;Wolf, common;Ragdoll;2022-12-24T13:12:51Z;true;377;Butterfly
+Kumciaczkos;Red-tailed hawk;American Shorthair;2020-06-19T07:31:31Z;false;1041;String
+Kumciaczkos;Snake-necked turtle;Siamese;2021-04-23T02:31:37Z;false;1751;Mouse
+Witold's and Jerzy's;Squirrel, african bush;American Shorthair;2020-12-26T16:43:40Z;false;897;Yarn
+Sznippers;Phalarope, red;Bengal;2020-09-08T02:55:47Z;false;925;Feather
+Holoubek Corp;Horned lark;British Shorthair;2022-01-08T23:23:49Z;true;1145;Rabbit
+Kloburg;Herring gull;Scottish Fold;2020-09-18T19:46:28Z;false;409;Squirrel
+Witold's and Jerzy's;Harbor seal;Russian Blue;2022-12-06T06:14:23Z;false;841;Feather
+Sznippers;Swan, trumpeter;Scottish Fold;2021-06-02T20:15:30Z;false;735;Fish
+Witold's and Jerzy's;Macaw, blue and gold;British Shorthair;2023-04-01T15:39:10Z;true;410;Butterfly
+Sznippers;Toddy cat;Siamese;2021-02-10T08:48:08Z;true;226;Butterfly
+Sznippers;Pheasant, common;Bengal;2021-10-20T08:55:33Z;false;263;String
+Miautex;Cottonmouth;Bengal;2021-09-03T20:25:12Z;false;341;Feather
+Kloburg;Hare, arctic;American Shorthair;
+Kumciaczkos;Butterfly (unidentified);Russian Blue;2023-05-10T03:46:17Z;false;1585;Bell
+Witold's and Jerzy's;Long-tailed skua;British Shorthair;2022-04-11T09:55:55Z;false;639;Yarn
+Sznippers;Pied crow;Persian;2023-01-03T22:59:25Z;true;288;Mouse
+Xen;Civet cat;Maine Coon;2023-05-02T01:52:58Z;true;1232;Butterfly
+Miautex;Coatimundi, white-nosed;Siamese;2020-12-19T23:34:33Z;false;799;Fish
+Kumciaczkos;Bustard, stanley;Maine Coon;2022-04-12T02:19:12Z;true;216;Squirrel
+Witold's and Jerzy's;Lion, steller sea;Russian Blue;2023-01-02T09:48:24Z;false;1027;Mouse
+Kumciaczkos;Common palm civet;Russian Blue;2023-04-12T19:28:04Z;true;1877;String
+Miautex;Yellow-headed caracara;Ragdoll;2022-09-18T04:58:53Z;false;191;Bell
+Xen;Galah;Scottish Fold;2020-06-24T10:07:28Z;false;1014;Mouse
+Miautex;Ostrich;Bengal;2021-11-27T21:34:38Z;true;678;Squirrel
+Miautex;Black-necked stork;Bengal;2022-11-05T18:37:06Z;true;580;Feather
+Holoubek Corp;Worm snake (unidentified);Persian;2022-08-05T11:44:12Z;false;291;Feather
+Sznippers;Snowy sheathbill;Ragdoll;2023-04-25T22:01:40Z;true;896;Feather
+Kloburg;Gerenuk;Ragdoll;2022-09-21T15:29:02Z;false;1973;Bell
+Miautex;Bennett's wallaby;American Shorthair;2022-08-09T03:03:36Z;true;957;Feather
+Sznippers;Pelican, great white;Sphynx;2022-10-06T08:44:29Z;true;968;Fish
+Kloburg;Rattlesnake, eastern diamondback;Siamese;2022-01-20T17:32:04Z;false;456;Bell
+Kumciaczkos;Kalahari scrub robin;Persian;2023-01-21T20:09:55Z;true;575;Mouse
+Kloburg;Raven, cape;Ragdoll;2021-09-26T00:23:00Z;false;1882;Bell
+Xen;Heron, goliath;Russian Blue;2020-09-19T12:14:49Z;false;1242;Ball
+Xen;Red brocket;American Shorthair;2021-10-05T06:38:40Z;false;108;Butterfly
+Witold's and Jerzy's;Roadrunner, greater;Russian Blue;2023-03-08T16:05:17Z;false;625;Fish
+Kumciaczkos;Turtle (unidentified);Russian Blue;2021-06-15T04:31:57Z;false;579;Fish
+Miautex;Harbor seal;Maine Coon;2023-03-31T22:27:15Z;false;1257;Rabbit
+Miautex;Asian elephant;Scottish Fold;2022-11-20T11:28:14Z;true;1377;Butterfly
+Holoubek Corp;Crab-eating fox;American Shorthair;2022-07-13T11:03:52Z;true;1334;Fish
+Xen;Dog, raccoon;Sphynx;2022-01-11T20:10:23Z;false;1381;Fish
+Holoubek Corp;Bulbul, african red-eyed;Siamese;2022-05-20T09:12:10Z;true;306;Ball
+Kloburg;Vervet monkey;Persian;2020-10-27T18:59:25Z;false;1757;Mouse
+Miautex;Creeper, black-tailed tree;Sphynx;2021-08-24T13:04:55Z;true;1399;Fish
+Kumciaczkos;Goat, mountain;Sphynx;2023-04-16T11:40:11Z;true;1070;Rabbit
+Holoubek Corp;Sunbird, lesser double-collared;Bengal;2021-06-13T16:43:20Z;true;559;Yarn
+Kumciaczkos;Legaan, Monitor (unidentified);Sphynx;2022-01-11T10:31:58Z;true;847;Ball
+Kumciaczkos;Kudu, greater;Persian;2022-11-02T21:57:46Z;true;712;Feather
+Miautex;Flycatcher, tyrant;Maine Coon;2022-07-01T06:50:45Z;false;1082;Fish
+Kumciaczkos;Eastern indigo snake;Scottish Fold;2023-04-14T17:39:03Z;true;851;Ball
+Miautex;Agama lizard (unidentified);Bengal;2021-03-08T22:15:56Z;false;537;Fish
+Sznippers;Antelope, four-horned;Scottish Fold;2020-04-11T02:29:31Z;true;1623;Fish
+Witold's and Jerzy's;Elephant, asian;Sphynx;2021-08-08T00:08:32Z;true;1536;String
+Holoubek Corp;Phalarope, grey;Siamese;2023-05-02T22:55:49Z;false;1924;Yarn
+Miautex;Raccoon dog;American Shorthair;2023-01-18T20:33:05Z;true;1812;String
+Holoubek Corp;Corella, long-billed;Scottish Fold;2020-10-31T06:52:18Z;true;1003;Rabbit
+Holoubek Corp;Lemur, brown;Persian;2021-12-19T04:07:25Z;true;793;Bell
+Kumciaczkos;Fox, north american red;American Shorthair;2021-04-12T05:26:53Z;true;329;Butterfly
+Miautex;Cape fox;Persian;2021-07-24T00:46:13Z;true;803;String
+Witold's and Jerzy's;Coke's hartebeest;Persian;2022-01-29T06:51:02Z;false;1363;Rabbit
+Xen;Legaan, water;Maine Coon;2021-01-31T05:08:26Z;false;1895;Fish
+Witold's and Jerzy's;Common langur;Scottish Fold;2022-03-07T15:29:50Z;true;1254;Bell
+Kloburg;Robin, kalahari scrub;American Shorthair;2020-08-09T22:49:40Z;true;717;Bell
+Xen;Cormorant, flightless;Sphynx;2021-08-23T00:52:11Z;true;964;Butterfly
+Witold's and Jerzy's;Raccoon, common;British Shorthair;2023-04-03T09:40:12Z;true;352;Rabbit
+Miautex;Burchell's gonolek;Maine Coon;2022-01-24T14:31:55Z;true;1420;Butterfly
+Kloburg;Crow, pied;Russian Blue;2022-05-29T04:38:54Z;false;1795;Rabbit
+Kloburg;Collared peccary;Ragdoll;2020-11-29T02:56:53Z;true;1405;Feather
+Kumciaczkos;Komodo dragon;Siamese;2023-03-09T04:30:25Z;false;1754;Yarn
+Kumciaczkos;Red-headed woodpecker;Maine Coon;2021-07-08T03:03:51Z;false;588;String
+Witold's and Jerzy's;Aardwolf;British Shorthair;2022-03-03T02:34:01Z;true;664;Rabbit
+Xen;Tayra;Russian Blue;2022-08-15T04:30:17Z;false;678;String
+Holoubek Corp;Greater rhea;Sphynx;2020-08-31T11:44:11Z;false;956;Butterfly
+Kloburg;Zorro, common;Maine Coon;2022-07-28T21:50:45Z;true;736;Squirrel
+Kumciaczkos;Collared lizard;Maine Coon;2023-05-17T15:19:13Z;false;1399;Mouse
+Holoubek Corp;Caiman, spectacled;Maine Coon;2020-04-29T07:50:47Z;true;1784;Bell
+Kumciaczkos;Grey mouse lemur;Scottish Fold;2022-07-15T05:28:07Z;true;145;Ball
+Witold's and Jerzy's;White-eye, pale;British Shorthair;2022-08-16T15:10:11Z;false;664;Yarn
+Kumciaczkos;Comb duck;Bengal;2021-12-15T16:17:09Z;false;1016;Fish
+Miautex;Northern phalarope;Persian;2021-10-09T22:20:30Z;false;1515;Yarn
+Miautex;Corella, long-billed;Persian;2023-03-09T05:58:03Z;true;685;Ball
+Holoubek Corp;Serval;Persian;2020-04-28T11:59:04Z;true;421;Yarn
+Witold's and Jerzy's;Weaver, chestnut;Bengal;2021-12-07T15:46:11Z;true;906;Butterfly
+Xen;Cattle egret;Persian;2022-04-14T14:44:51Z;true;1503;Bell
+Sznippers;Swallow-tail gull;British Shorthair;2022-06-22T21:10:40Z;false;1962;Yarn
+Witold's and Jerzy's;Indian giant squirrel;Bengal;2022-06-13T04:25:55Z;true;1607;Rabbit
+Xen;Raccoon, common;Maine Coon;2022-02-24T16:59:16Z;true;1897;Butterfly
+Kumciaczkos;Egret, snowy;Ragdoll;2021-05-24T18:20:42Z;false;1681;Butterfly
+Kloburg;Crested barbet;Sphynx;2020-05-16T20:55:03Z;true;480;Fish
+Xen;Cat, tiger;Siamese;2023-03-20T17:53:07Z;false;1451;Rabbit
+Xen;Black rhinoceros;Maine Coon;2020-05-05T06:49:48Z;true;1286;Yarn
+Sznippers;Neotropic cormorant;Siamese;2023-04-13T21:58:46Z;true;1804;Butterfly
+Kumciaczkos;Little brown dove;Persian;2021-08-19T12:06:59Z;false;1168;Bell
+Holoubek Corp;Marabou stork;Russian Blue;2022-03-23T15:56:29Z;false;1041;Ball
+Witold's and Jerzy's;Beaver, eurasian;Bengal;2021-07-24T07:58:46Z;false;1091;Bell
+Witold's and Jerzy's;Otter, small-clawed;Persian;2022-01-17T05:11:44Z;false;1809;Mouse
+Miautex;Red hartebeest;Persian;2020-10-04T17:07:34Z;false;1970;Ball
+Sznippers;Albatross, waved;Siamese;2022-10-27T01:04:59Z;false;1779;Rabbit
+Witold's and Jerzy's;Monkey, rhesus;Persian;2021-07-08T09:16:41Z;false;775;Feather
+Xen;Marten, american;Scottish Fold;2022-09-08T22:59:46Z;false;1980;Mouse
+Kumciaczkos;Black spider monkey;Bengal;2022-08-18T15:42:16Z;false;1583;Butterfly
+Holoubek Corp;African fish eagle;Siamese;2021-06-23T10:53:00Z;false;920;Mouse
+Sznippers;Gulls (unidentified);Scottish Fold;2022-01-12T12:56:13Z;false;1067;Yarn
+Kloburg;Brocket, brown;British Shorthair;2021-12-31T19:32:31Z;false;563;Fish
+Holoubek Corp;Pocket gopher (unidentified);Persian;2022-05-16T04:09:52Z;false;1630;Squirrel
+Kumciaczkos;Gemsbok;Bengal;2020-09-19T16:41:04Z;true;1991;Fish
+Kumciaczkos;Lizard, mexican beaded;Siamese;2022-07-15T09:08:50Z;false;511;Mouse
+Miautex;Fox, cape;Maine Coon;2020-06-25T16:01:39Z;true;694;Feather
+Kloburg;Common eland;Persian;2021-08-25T21:15:49Z;false;1155;Mouse
+Kloburg;Australian magpie;Sphynx;2022-03-02T16:38:07Z;false;1729;Yarn
+Holoubek Corp;Pied butcher bird;Persian;2022-06-15T23:24:45Z;true;321;Feather
+Xen;King vulture;British Shorthair;2020-10-20T14:32:25Z;true;1298;Bell
+Sznippers;Fringe-eared oryx;Bengal;2022-05-17T22:36:33Z;false;569;Bell
+Kloburg;Black-tailed prairie dog;Russian Blue;2021-12-26T19:34:55Z;false;1146;String
+Witold's and Jerzy's;Lava gull;Persian;2021-09-21T18:13:37Z;false;1307;Butterfly
+Sznippers;Western spotted skunk;British Shorthair;2022-03-14T05:10:52Z;true;1372;Mouse
+Sznippers;Goose, cape barren;Scottish Fold;2023-05-19T17:03:02Z;false;836;Ball
+Holoubek Corp;Masked booby;Ragdoll;2021-07-24T07:41:24Z;false;1451;String
+Witold's and Jerzy's;Brocket, red;Russian Blue;2022-11-06T07:51:29Z;true;267;Feather
+Holoubek Corp;Peregrine falcon;Ragdoll;2022-02-17T05:24:39Z;true;1344;Feather
+Miautex;Sloth, hoffman's;Bengal;2021-03-04T10:36:58Z;true;1721;String
+Xen;Sunbird, lesser double-collared;Maine Coon;2022-10-17T07:33:13Z;true;547;Feather
+Witold's and Jerzy's;Eagle, bald;Persian;2020-05-06T16:06:28Z;true;1299;Squirrel
+Witold's and Jerzy's;Crested bunting;Ragdoll;2021-11-22T18:58:16Z;true;897;Yarn
+Kumciaczkos;Duck, blue;Maine Coon;2022-05-30T17:59:52Z;false;708;Ball
+Kumciaczkos;Grey fox;Siamese;2020-09-20T13:18:25Z;true;1172;Bell
+Sznippers;Bengal vulture;Bengal;2023-03-08T00:29:41Z;false;1133;Bell
+Xen;Sloth, two-toed;Persian;2020-05-04T10:23:19Z;true;928;Mouse
+Kloburg;Red kangaroo;Scottish Fold;2020-08-14T14:26:23Z;false;1772;Bell
+Kloburg;Flying fox (unidentified);Persian;2021-07-29T04:16:00Z;false;1193;Butterfly
+Kloburg;Flicker, campo;American Shorthair;2021-11-10T19:17:45Z;true;1548;Mouse
+Kumciaczkos;Red kangaroo;Ragdoll;2020-04-17T04:56:24Z;false;495;String
+Holoubek Corp;Fairy penguin;American Shorthair;2023-05-25T19:05:58Z;false;1671;String
+Sznippers;Dark-winged trumpeter;Ragdoll;2022-08-13T13:20:18Z;false;1514;Butterfly
+Xen;Great egret;Scottish Fold;2021-04-04T18:25:41Z;false;1173;String
+Witold's and Jerzy's;Stanley crane;British Shorthair;2021-04-01T13:33:01Z;true;747;Mouse
+Sznippers;Camel, dromedary;British Shorthair;2021-09-07T08:34:20Z;true;478;Rabbit
+Kumciaczkos;Bontebok;Scottish Fold;2021-10-25T11:30:23Z;true;318;Ball
+Xen;Meerkat, red;British Shorthair;2022-08-08T15:18:15Z;true;1881;Yarn
+Miautex;Gerenuk;Scottish Fold;2021-12-03T10:27:55Z;true;1463;Ball
+Witold's and Jerzy's;Arctic fox;Ragdoll;2020-09-27T14:22:11Z;false;429;Feather
+Sznippers;Eastern cottontail rabbit;Scottish Fold;2022-03-29T06:41:26Z;true;382;Butterfly
+Miautex;Coot, red-knobbed;British Shorthair;2022-06-08T17:15:30Z;true;702;Squirrel
+Kloburg;Gray duiker;Scottish Fold;2022-12-20T02:52:12Z;true;581;Fish
+Holoubek Corp;Trumpeter swan;American Shorthair;2021-11-27T01:04:49Z;true;955;Butterfly
+Kumciaczkos;American alligator;Russian Blue;2022-08-04T02:45:27Z;true;1303;Fish
+Holoubek Corp;Bird (unidentified);Maine Coon;2022-07-16T06:02:28Z;false;1281;String
+Kumciaczkos;Toucan, white-throated;British Shorthair;2022-09-29T20:38:59Z;true;1700;Ball
+Miautex;Duck, white-faced whistling;Sphynx;2020-04-26T14:22:55Z;false;1337;Butterfly
+Sznippers;Savannah deer (unidentified);Scottish Fold;2022-03-21T14:59:01Z;true;471;Feather
+Sznippers;Squirrel, nelson ground;Siamese;2020-05-29T02:56:20Z;false;632;Feather
+Witold's and Jerzy's;African jacana;American Shorthair;2021-02-13T16:23:15Z;true;1496;Fish
+Kloburg;Southern sea lion;Ragdoll;2021-09-19T06:30:49Z;false;1995;Feather
+Xen;Cormorant, little;American Shorthair;2021-07-05T14:39:44Z;true;680;Yarn
+Holoubek Corp;Bandicoot, short-nosed;Ragdoll;2023-01-13T01:16:10Z;true;1067;Bell
+Kloburg;Cattle egret;Scottish Fold;2020-09-14T07:03:18Z;true;1441;Rabbit
+Kloburg;Amazon parrot (unidentified);Maine Coon;2022-08-17T01:14:39Z;false;1728;Butterfly
+Kloburg;Hudsonian godwit;Ragdoll;2020-05-17T20:11:09Z;false;1302;Squirrel
+Witold's and Jerzy's;Eastern box turtle;Maine Coon;2021-03-22T14:23:56Z;true;562;Bell
+Sznippers;Hornbill, yellow-billed;Siamese;2020-07-12T22:27:09Z;false;1893;String
+Witold's and Jerzy's;Scaly-breasted lorikeet;Russian Blue;2020-05-14T19:31:57Z;false;1175;Bell
+Xen;Raven, white-necked;Sphynx;2022-06-06T08:48:07Z;false;487;Feather
+Miautex;Gambel's quail;American Shorthair;2023-01-07T05:18:10Z;false;1833;Bell
+Xen;Flycatcher, tyrant;Ragdoll;2023-05-22T10:10:53Z;true;796;String
+Kloburg;Shrike, common boubou;Siamese;2020-06-24T16:12:20Z;true;949;Feather
+Holoubek Corp;Pygmy possum;Scottish Fold;2021-04-28T13:09:00Z;false;172;Mouse
+Miautex;Asiatic jackal;Siamese;2022-05-29T10:55:40Z;false;1336;Squirrel
+Xen;Creeper, black-tailed tree;American Shorthair;2022-10-19T03:10:52Z;true;465;Butterfly
+Miautex;Sandgrouse, yellow-throated;Ragdoll;2021-12-05T21:02:59Z;false;1775;Rabbit
+Kumciaczkos;Kangaroo, eastern grey;Persian;2020-11-03T16:20:23Z;false;500;Squirrel
+Miautex;African lion;Maine Coon;2020-05-23T18:19:01Z;true;1228;Rabbit
+Xen;Lory, rainbow;British Shorthair;2021-10-29T10:47:34Z;true;730;Yarn
+Sznippers;Southern ground hornbill;Siamese;2020-05-09T21:12:31Z;false;1655;Fish
+Kumciaczkos;Lion, south american sea;Russian Blue;2022-08-14T20:09:43Z;true;1606;Rabbit
+Xen;Deer, barasingha;American Shorthair;2022-04-08T06:53:41Z;true;1906;Yarn
+Xen;African polecat;Russian Blue;2023-03-14T22:46:57Z;true;1414;Mouse
+Witold's and Jerzy's;Heron, gray;Russian Blue;2021-12-01T08:33:56Z;false;299;String
+Holoubek Corp;Southern white-crowned shrike;British Shorthair;2022-10-26T10:32:47Z;true;1532;Butterfly
+Kloburg;Little brown bat;Sphynx;2023-05-16T23:03:43Z;false;1121;Yarn
+Kumciaczkos;Baleen whale;Sphynx;2021-04-23T10:37:18Z;true;1109;String
+Sznippers;American beaver;Russian Blue;2022-03-08T16:32:50Z;false;722;Squirrel
+Xen;Mississippi alligator;Siamese;2021-03-22T06:48:57Z;false;496;Fish
+Holoubek Corp;Pacific gull;American Shorthair;2022-01-05T11:53:33Z;false;1338;Bell
+Kloburg;Black-crowned night heron;Sphynx;2022-07-31T11:03:00Z;true;1433;Rabbit
+Witold's and Jerzy's;Phascogale, brush-tailed;British Shorthair;2023-05-04T08:21:25Z;true;1205;Ball
+Kumciaczkos;Grouse, sage;British Shorthair;2022-05-08T16:42:37Z;false;707;Rabbit
+Kloburg;Goose, canada;Siamese;2023-01-18T02:25:10Z;true;1596;Bell
+Miautex;Marine iguana;Russian Blue;2021-03-16T13:52:42Z;true;1291;Butterfly
+Xen;Bonnet macaque;Siamese;2022-08-18T18:00:19Z;true;217;Ball
+Sznippers;Pelican, great white;American Shorthair;2022-11-28T00:14:04Z;true;1614;Bell
+Kumciaczkos;Tropical buckeye butterfly;Siamese;2022-06-05T22:09:34Z;false;718;Squirrel
+Kumciaczkos;Marshbird, brown and yellow;Ragdoll;2022-04-04T16:22:14Z;false;258;Fish
+Miautex;Heron, little;Scottish Fold;2021-04-01T14:12:47Z;false;811;Butterfly
+Miautex;Gull, kelp;Siamese;2023-02-18T17:26:16Z;false;1190;Ball
+Kumciaczkos;Jackal, golden;Scottish Fold;2021-09-29T00:16:34Z;false;422;Yarn
+Kumciaczkos;Green-winged macaw;Russian Blue;2022-09-04T09:22:07Z;false;1473;Fish
+Kumciaczkos;Lory, rainbow;Russian Blue;2022-05-13T01:41:22Z;true;1407;Bell
+Kumciaczkos;White stork;Persian;2020-07-19T19:36:16Z;false;1490;Mouse
+Kloburg;Red-necked wallaby;Ragdoll;2021-03-31T11:08:27Z;true;1083;Bell
+Witold's and Jerzy's;American beaver;Sphynx;2021-09-08T05:43:39Z;true;1040;String
+Kumciaczkos;Pheasant, ring-necked;Bengal;2022-05-03T11:53:17Z;true;1480;Butterfly
+Kumciaczkos;Grey mouse lemur;Sphynx;2021-08-01T05:18:11Z;true;1610;Feather
+Holoubek Corp;Pademelon, red-legged;Siamese;2022-05-22T20:53:52Z;false;1934;Feather
+Xen;Boa, mexican;Maine Coon;2022-01-13T07:26:20Z;false;573;Squirrel
+Sznippers;Small-clawed otter;Ragdoll;2021-11-23T17:39:02Z;false;1952;Ball
+Kloburg;Lappet-faced vulture;Sphynx;2023-04-02T16:16:48Z;false;376;Feather
+Kloburg;Brown capuchin;Maine Coon;2020-12-25T02:11:41Z;false;1726;Yarn
+Witold's and Jerzy's;Gecko, tokay;Siamese;2020-06-26T04:00:22Z;true;769;Rabbit
+Sznippers;Blue catfish;Sphynx;2022-06-06T18:13:40Z;true;1338;Fish
+Witold's and Jerzy's;Canada goose;British Shorthair;2023-04-28T04:11:48Z;true;432;Feather
+Xen;Agouti;Sphynx;2021-04-28T12:05:18Z;true;983;Squirrel
+Xen;Fox, silver-backed;Maine Coon;2021-04-14T01:47:46Z;false;625;Squirrel
+Sznippers;Thomson's gazelle;British Shorthair;2021-01-31T03:46:30Z;true;1983;Mouse
+Kumciaczkos;Elegant crested tinamou;Persian;2021-09-25T06:52:17Z;false;326;Bell
+Miautex;Puma, south american;Maine Coon;2023-03-29T03:40:43Z;true;665;Bell
+Xen;Bunting, crested;British Shorthair;2020-11-10T07:43:14Z;true;475;Ball
+Kumciaczkos;Dusky rattlesnake;Russian Blue;2021-03-13T02:19:14Z;false;480;Ball
+Holoubek Corp;American Virginia opossum;American Shorthair;2021-09-22T14:08:20Z;false;1811;Mouse
+Sznippers;Gulls (unidentified);American Shorthair;2020-08-16T16:40:53Z;false;448;Feather
+Xen;Wallaby, red-necked;Bengal;2021-07-09T08:39:09Z;false;743;Yarn
+Sznippers;Miner's cat;British Shorthair;2022-09-09T00:08:06Z;false;593;Feather
+Sznippers;Tortoise, galapagos;Scottish Fold;2022-09-27T12:55:01Z;true;1762;Feather
+Holoubek Corp;Emu;British Shorthair;2023-03-31T19:01:50Z;true;491;Feather
+Witold's and Jerzy's;Langur, hanuman;Sphynx;2021-07-18T03:23:25Z;false;1624;Squirrel
+Miautex;Small-toothed palm civet;Scottish Fold;2021-12-29T12:53:10Z;true;915;Yarn
+Holoubek Corp;Pacific gull;Siamese;2020-10-25T20:07:25Z;false;815;Ball
+Kumciaczkos;Langur, gray;Persian;2023-05-12T20:51:04Z;true;760;Mouse
+Kloburg;Cape starling;Scottish Fold;2021-06-30T14:00:33Z;false;1597;String
+Kumciaczkos;Boa, malagasy ground;Persian;2022-01-12T05:16:51Z;true;884;Mouse
+Witold's and Jerzy's;Pied butcher 
+Witold's and Jerzy's;Thirteen-line
+Kumciaczkos;Lizard (unidentified);
+Holoubek Corp;Puma, south american
+Xen;Heron, grey;Sphynx;2020-09-20T
+Kumciaczkos;Whale, long-finned pil
+Sznippers;Mynah, common;American S
+Xen;Finch, common melba;Maine Coon
+Miautex;Penguin, fairy;Ragdoll;202
+Kumciaczkos;Hyena, brown;Siamese;2
+Kumciaczkos;Roan antelope;Russian 
+Xen;Sarus crane;Maine Coon;2022-02
+Sznippers;River wallaby;British Sh
+Witold's and Jerzy's;Dromedary cam
+Holoubek Corp;Yellow-bellied marmo
+Sznippers;Long-tailed jaeger;Ragdo
+Kloburg;Oryx, fringe-eared;Siamese
+Sznippers;Dusky rattlesnake;Bengal
+Xen;Bleu, blue-breasted cordon;Per
+Sznippers;Crown of thorns starfish
+Kloburg;Southern ground hornbill;R
+Miautex;Monkey, bleeding heart;Per
+Holoubek Corp;Southern hairy-nosed
+Xen;Deer, red;Persian;2021-07-31T1
+Kloburg;Trumpeter, green-winged;Sp
+Witold's and Jerzy's;Crown of thor
+Kloburg;Moorhen, purple;Scottish F
+Kloburg;Eastern white pelican;Siam
+Witold's and Jerzy's;Red-billed to
+Witold's and Jerzy's;Currasow (uni
+Kumciaczkos;Blue-faced booby;Siame
+Witold's and Jerzy's;Magnificent f
+Sznippers;Crowned eagle;Scottish F
+Xen;Magpie, australian;Ragdoll;202
+Holoubek Corp;Tawny eagle;Russian 
+Kumciaczkos;Lory, rainbow;Persian;
+Kloburg;Wambenger, red-tailed;Main
+Kumciaczkos;Jaguarundi;Ragdoll;202
+Witold's and Jerzy's;Lapwing, sout
+Sznippers;Bustard, kori;Bengal;202
+Holoubek Corp;Eagle, golden;Ragdol
+Holoubek Corp;South African hedgeh
+Sznippers;Racer, american;Maine Co
+Holoubek Corp;Chickadee, black-cap
+Witold's and Jerzy's;Peccary, coll
+Miautex;Bush dog;Sphynx;2022-12-17
+Sznippers;Emu;Siamese;2021-02-24T1
+Miautex;Antelope ground squirrel;P
+Miautex;Weaver, white-browed sparr
+Sznippers;Southern boubou;Ragdoll;
+Kumciaczkos;Heron, goliath;British
+Sznippers;Squirrel, eastern fox;Ru
+Xen;Sidewinder;Persian;2021-03-18T
+Miautex;Caracara, yellow-headed;Si
+Holoubek Corp;Suricate;American Sh
+Miautex;Baboon, savanna;Persian;20
+Miautex;Brown and yellow marshbird
+Miautex;Bahama pintail;Bengal;2021
+Witold's and Jerzy's;Ibis, sacred;
+Miautex;Pademelon, red-legged;Sphy
+Xen;Great cormorant;Siamese;2020-0
+Kumciaczkos;Australian pelican;Sco
+Kloburg;American beaver;Sphynx;202
+Kloburg;Deer, roe;British Shorthai
+Xen;Bustard, stanley;Maine Coon;20
+Miautex;Ferruginous hawk;Ragdoll;2
+Miautex;Bare-faced go away bird;Sp
+Kumciaczkos;African polecat;Britis
+Sznippers;Starling, greater blue-e
+Miautex;Loris, slender;Persian;202
+Miautex;Asiatic jackal;Persian;202
+Xen;Red-winged blackbird;Ragdoll;2
+Kumciaczkos;Greater flamingo;Ragdo
+Holoubek Corp;Small-clawed otter;M
+Kloburg;Pine squirrel;Persian;2020
+Miautex;Peregrine falcon;Maine Coo
+Sznippers;Kiskadee, great;Maine Co
+Miautex;Heron, striated;American S
+Sznippers;Eastern box turtle;Persi
+Witold's and Jerzy's;American crow
+Xen;Turkey, wild;Siamese;2022-04-1
+Holoubek Corp;Blue-footed booby;Ra
+Xen;Smith's bush squirrel;Russian 
+Miautex;Mountain goat;Scottish Fol
+Witold's and Jerzy's;African groun
+Witold's and Jerzy's;Barbet, black
+Kloburg;Mexican boa;British Shorth
+Kumciaczkos;Vulture, white-rumped;
+Kloburg;Magellanic penguin;Russian
+Witold's and Jerzy's;Devil, tasman
+Holoubek Corp;Shark, blue;Russian 
+Miautex;Trumpeter swan;American Sh
+Witold's and Jerzy's;Bleu, blue-br
+Miautex;Goliath heron;Maine Coon;2
+Kumciaczkos;Openbill, asian;Maine 
+Kumciaczkos;Red howler monkey;Scot
+Kumciaczkos;House crow;Persian;202
+Kloburg;Mudskipper (unidentified);
+Sznippers;Wildebeest, blue;Russian
+Kumciaczkos;Fox, north american re
+Holoubek Corp;Badger, american;Bri
+Holoubek Corp;Francolin, coqui;Rus
+Holoubek Corp;Vulture, oriental wh
+Witold's and Jerzy's;Owl, great ho
+Miautex;American marten;British Sh
+Holoubek Corp;Common langur;Russia
+Sznippers;Pine siskin;Scottish Fol
+Holoubek Corp;Snake, racer;Siamese
+Holoubek Corp;Dusky rattlesnake;Am
+Kloburg;African wild cat;Ragdoll;2
+Holoubek Corp;Red-knobbed coot;Ben
+Witold's and Jerzy's;Australian br
+Witold's and Jerzy's;African groun
+Witold's and Jerzy's;Southern grou
+Holoubek Corp;African pied wagtail
+Witold's and Jerzy's;Kite, black;P
+Sznippers;Pale white-eye;Sphynx;20
+Kloburg;Malay squirrel (unidentifi
+Kloburg;Gonolek, burchell's;Russia
+Holoubek Corp;Crimson-breasted shr
+Sznippers;Colobus, black and white
+Kloburg;Otter, canadian river;Beng
+Holoubek Corp;Lion, african;Maine 
+Kumciaczkos;Bear, black;Sphynx;202
+Witold's and Jerzy's;Flamingo, gre
+Miautex;Andean goose;Bengal;2022-1
+Miautex;Yellow-billed hornbill;Per
+Witold's and Jerzy's;Cuis;Persian;
+Sznippers;Rhinoceros, black;Scotti
+Holoubek Corp;Rhea, gray;British S
+Holoubek Corp;North American beave
+Xen;Bahama pintail;Ragdoll;2021-07
+Miautex;Eastern fox squirrel;Scott
+Miautex;Porcupine, prehensile-tail
+Holoubek Corp;Stork, white-necked;
+Kumciaczkos;Dove, white-winged;Ben
+Kumciaczkos;Langur, hanuman;Bengal
+Holoubek Corp;Eagle, golden;Russia
+Miautex;Tiger snake;British Shorth
+Holoubek Corp;Wild water buffalo;M
+Holoubek Corp;Australian magpie;Am
+Xen;Shrew, mandras tree;Scottish F
+Kloburg;Goose, snow;Siamese;2021-1
+Holoubek Corp;Rainbow lory;Scottis
+Miautex;Malabar squirrel;Persian;2
+Xen;Macaque, pig-tailed;Ragdoll;20
+Miautex;Common shelduck;Persian;20
+Kumciaczkos;Wild boar;Maine Coon;2
+Xen;Langur, common;American Shorth
+Xen;Hyrax;Russian Blue;2022-09-16T
+Kumciaczkos;Marine iguana;Ragdoll;
+Miautex;Lemming, collared;Ragdoll;
+Witold's and Jerzy's;Common boubou
+Witold's and Jerzy's;Fowl, helmete
+Sznippers;Lion, galapagos sea;Main
+Sznippers;Cow, scottish highland;P
+Xen;Jaguar;American Shorthair;2021
+Holoubek Corp;Paddy heron (unident
+Kloburg;Brush-tailed rat kangaroo;
+Sznippers;Pelican, australian;Pers
+Xen;Golden brush-tailed possum;Bri
+Witold's and Jerzy's;Lesser flamin
+Kloburg;Marten, american;Persian;2
+Holoubek Corp;Jungle kangaroo;Brit
+Holoubek Corp;Eagle, long-crested 
+Sznippers;Weaver, sociable;Persian
+Kumciaczkos;Weaver, lesser masked;
+Kumciaczkos;Egyptian cobra;Scottis
+Kumciaczkos;European spoonbill;Mai
+Kumciaczkos;Drongo, fork-tailed;Ma
+Kloburg;Gull, kelp;American Shorth
+Kumciaczkos;African wild dog;Russi
+Kloburg;Alpaca;Sphynx;2022-09-06T1
+Witold's and Jerzy's;Turtle, snake
+Witold's and Jerzy's;Red kangaroo;
+Kumciaczkos;Emerald-spotted wood d
+Xen;Siskin, pine;Scottish Fold;202
+Holoubek Corp;Ocelot;Scottish Fold
+Kloburg;Starling, cape;American Sh
+Witold's and Jerzy's;Raven, cape;S
+Miautex;White-eye, cape;Ragdoll;20
+Xen;Gerenuk;Persian;2021-12-02T10:
+Xen;Blackbird, red-winged;Maine Co
+Witold's and Jerzy's;Seal, norther
+Kumciaczkos;Snowy egret;Bengal;202
+Holoubek Corp;Brown capuchin;Briti
+Kloburg;Seal, southern elephant;Pe
+Kloburg;Puna ibis;Siamese;2022-08-
+Kloburg;Dolphin, bottle-nose;Briti
+Holoubek Corp;Common goldeneye;Bri
+Kumciaczkos;Goat, mountain;Persian
+Miautex;Lion, steller's sea;Russia
+Kloburg;Eland, common;Russian Blue
+Sznippers;Western lowland gorilla;
+Witold's and Jerzy's;Jaguar;Ragdol
+Kumciaczkos;Red-necked phalarope;A
+Sznippers;Phascogale, red-tailed;R
+Kloburg;Jackal, silver-backed;Pers
+Kloburg;Reedbuck, bohor;Persian;20
+Holoubek Corp;Lemur, sportive;Sphy
+Kumciaczkos;Glossy starling (unide
+Kumciaczkos;Lesser masked weaver;S
+Sznippers;Common langur;Bengal;202
+Sznippers;Gulls (unidentified);Rag
+Kumciaczkos;Sungazer, yellow-brown
+Sznippers;Roller, lilac-breasted;M
+Kumciaczkos;Fox, grey;Bengal;2021-
+Kloburg;Scottish highland cow;Scot
+Miautex;Boa, cook's tree;Maine Coo
+Witold's and Jerzy's;Asiatic jacka
+Kumciaczkos;Admiral, indian red;Sp
+Xen;Common wolf;Bengal;2020-11-21T
+Kloburg;Red-legged pademelon;Ragdo
+Miautex;White-eye, cape;American S
+Kloburg;Glider, squirrel;British S
+Sznippers;Cormorant (unidentified)
+Kloburg;Macaw, blue and gold;Ameri
+Kloburg;Giant anteater;Bengal;2022
+Xen;Bear, sloth;Ragdoll;2020-07-29
+Miautex;Dragon, ornate rock;Russia
+Kumciaczkos;Seal, northern fur;Sph
+Witold's and Jerzy's;Indian red ad
+Kumciaczkos;Egret, great;American 
+Miautex;Llama;Persian;2020-12-13T2
+Xen;Common langur;Siamese;2021-12-
+Witold's and Jerzy's;Egret, cattle
+Kloburg;Cheetah;Scottish Fold;2020
+Kumciaczkos;Lizard, blue-tongued;R
+Kumciaczkos;Barking gecko;American
+Sznippers;Genet, common;Sphynx;202
+Holoubek Corp;Genet, small-spotted
+Xen;Jabiru stork;Sphynx;2020-08-12
+Kloburg;Timber wolf;Sphynx;2023-03
+Holoubek Corp;Lemur, lesser mouse;
+Holoubek Corp;Giraffe;Sphynx;2023-
+Witold's and Jerzy's;Crimson-breas
+Holoubek Corp;Galapagos dove;Siame
+Witold's and Jerzy's;Bear, grizzly
+Holoubek Corp;Cat, civet;Bengal;20
+Sznippers;South American puma;Russ
+Witold's and Jerzy's;Sea birds (un
+Miautex;Parrot, hawk-headed;Persia
+Kumciaczkos;Vicuna;Bengal;2022-07-
+Witold's and Jerzy's;Common ringta
+Holoubek Corp;Common seal;Ragdoll;
+Holoubek Corp;Snake-necked turtle;
+Sznippers;Monitor, water;Siamese;2
+Miautex;European wild cat;Siamese;
+Kumciaczkos;Cormorant, great;Siame
+Sznippers;Cat, kaffir;Russian Blue
+Sznippers;Black-crowned crane;Pers
+Miautex;Black-throated cardinal;Sp
+Miautex;Sportive lemur;Russian Blu
+Holoubek Corp;South American puma;
+Xen;Vulture, black;Ragdoll;2020-12
+Miautex;Moccasin, water;Bengal;202
+Witold's and Jerzy's;Kangaroo, wes
+Sznippers;Flamingo, chilean;Scotti
+Witold's and Jerzy's;Turtle, long-
+Miautex;Elegant crested tinamou;Sp
+Holoubek Corp;Jackrabbit, white-ta
+Witold's and Jerzy's;American buff
+Kumciaczkos;Prairie falcon;Russian
+Kumciaczkos;Godwit, hudsonian;Amer
+Sznippers;Brown capuchin;Ragdoll;2
+Xen;South American sea lion;Scotti
+Kumciaczkos;Northern fur seal;Beng
+Holoubek Corp;Capuchin, brown;Amer
+Holoubek Corp;Jackrabbit, white-ta
+Holoubek Corp;Penguin, little blue
+Kumciaczkos;Bat-eared fox;Sphynx;2
+Holoubek Corp;Collared peccary;Mai
+Witold's and Jerzy's;Eurasian hoop
+Witold's and Jerzy's;Slender-bille
+Sznippers;Eastern boa constrictor;
+Xen;Deer, savannah;Bengal;2021-07-
+Kumciaczkos;Brush-tailed phascogal
+Holoubek Corp;Hartebeest, red;Siam
+Witold's and Jerzy's;Capuchin, whi
+Miautex;Great white pelican;Ragdol
+Miautex;Toddy cat;Bengal;2020-07-1
+Kumciaczkos;Campo flicker;Persian;
+Xen;African black crake;Ragdoll;20
+Witold's and Jerzy's;Long-finned p
+Kumciaczkos;Mississippi alligator;
+Holoubek Corp;Polar bear;Sphynx;20
+Holoubek Corp;Arctic hare;Ragdoll;
+Kloburg;Macaque, japanese;Scottish
+Kumciaczkos;Macaque, japanese;Brit
+Miautex;Land iguana;Bengal;2022-03
+Miautex;Great horned owl;Sphynx;20
+Miautex;Crested screamer;Russian B
+Kloburg;Lava gull;American Shortha
+Miautex;Langur, gray;Siamese;2022-
+Kloburg;Langur, gray;American Shor
+Xen;Ringtail;Persian;2022-01-18T03
+Miautex;Spotted deer;Bengal;2021-0
+Miautex;Timber wolf;Russian Blue;2
+Kloburg;Bear, polar;Bengal;2021-02
+Witold's and Jerzy's;Lion, steller
+Witold's and Jerzy's;European beav
+Kloburg;Rufous-collared sparrow;Si
+Holoubek Corp;Rhea, gray;Russian B
+Kloburg;Cormorant, pied;British Sh
+Witold's and Jerzy's;Baboon, yello
+Sznippers;Dassie;Persian;2020-06-1
+Holoubek Corp;Baboon, savanna;Siam
+Sznippers;Wallaby, red-necked;Ragd
+Miautex;Elephant, asian;Maine Coon
+Sznippers;River wallaby;Sphynx;202
+Xen;Steller's sea lion;Scottish Fo
+Sznippers;Snake, western patch-nos
+Kumciaczkos;Antelope, sable;Bengal
+Kloburg;Western patch-nosed snake;
+Kloburg;Yellow-crowned night heron
+Sznippers;Elegant crested tinamou;
+Kumciaczkos;Long-billed corella;Am
+Miautex;Starling, greater blue-ear
+Holoubek Corp;Red phalarope;Persia
+Kloburg;Puma;Maine Coon;2023-04-04
+Miautex;Uinta ground squirrel;Brit
+Sznippers;Roseat flamingo;Sphynx;2
+Xen;Iguana, marine;Maine Coon;2020
+Kumciaczkos;Giant girdled lizard;R
+Sznippers;Rat, desert kangaroo;Sia
+Kloburg;Gray duiker;Ragdoll;2021-0
+Sznippers;Raven, white-necked;Ragd
+Kumciaczkos;Savanna baboon;Bengal;
+Holoubek Corp;Brazilian otter;Ragd
+Kloburg;Wallaby, bennett's;Persian
+Kumciaczkos;Egret, cattle;Sphynx;2
+Kloburg;Puku;Bengal;2021-07-18T20:
+Kumciaczkos;Tenrec, tailless;Scott
+Miautex;Otter, cape clawless;Ameri
+Holoubek Corp;Monitor, water;Ameri
+Kumciaczkos;Southern brown bandico
+Kumciaczkos;Ground legaan;Ragdoll;
+Sznippers;Sifaka, verreaux's;Sphyn
+Kloburg;Anaconda (unidentified);Am
+Holoubek Corp;Devil, tasmanian;Rus
+Kumciaczkos;Osprey;American Shorth
+Kloburg;Francolin, swainson's;Ragd
+Kloburg;Pied kingfisher;Siamese;20
+Witold's and Jerzy's;Dove, laughin
+Sznippers;Blue crane;American Shor
+Holoubek Corp;Trumpeter swan;Benga
+Kumciaczkos;Kookaburra, laughing;S
+Miautex;Goose, snow;Bengal;2020-12
+Holoubek Corp;Four-striped grass m
+Holoubek Corp;Frilled lizard;Scott
+Witold's and Jerzy's;Eagle, golden
+Witold's and Jerzy's;Green-backed 
+Miautex;Iguana, land;Persian;2022-
+Holoubek Corp;Gerenuk;British Shor
+Witold's and Jerzy's;Red-winged bl
+Sznippers;Lizard, collared;Persian
+Xen;Paca;Bengal;2022-09-22T16:42:0
+Kloburg;Scottish highland cow;Ragd
+Witold's and Jerzy's;Argalis;Maine
+Miautex;Arboral spiny rat;Sphynx;2
+Sznippers;Baboon, olive;Ragdoll;20
+Witold's and Jerzy's;Capuchin, wee
+Xen;Lizard, mexican beaded;Ragdoll
+Sznippers;Macaw, blue and gold;Sco
+Sznippers;Pine siskin;Bengal;2022-
+Kumciaczkos;Goose, canada;Persian;
+Kumciaczkos;Ovenbird;Ragdoll;2023-
+Sznippers;Pale white-eye;American 
+Sznippers;Parakeet, rose-ringed;Si
+Kumciaczkos;Beaver, european;Russi
+Holoubek Corp;Snake, western patch
+Sznippers;Palm squirrel;Russian Bl
+Xen;Fox, bat-eared;Scottish Fold;2
+Kumciaczkos;Southern black-backed 
+Holoubek Corp;Osprey;British Short
+Kumciaczkos;American marten;Persia
+Kumciaczkos;Columbian rainbow boa;
+Kumciaczkos;King vulture;Maine Coo
+Witold's and Jerzy's;Little cormor
+Holoubek Corp;Blue and gold macaw;
+Xen;Andean goose;American Shorthai
+Holoubek Corp;Giant armadillo;Pers
+Xen;Snake, tiger;American Shorthai
+Xen;White rhinoceros;Maine Coon;20
+Xen;Egret, cattle;Maine Coon;2023-
+Witold's and Jerzy's;Skink, africa
+Miautex;Falcon, prairie;Persian;20
+Holoubek Corp;Fox, grey;Maine Coon
+Kumciaczkos;Godwit, hudsonian;Brit
+Kumciaczkos;Kalahari scrub robin;S
+Sznippers;Roan antelope;Bengal;202
+Holoubek Corp;Small Indian mongoos
+Kumciaczkos;Sportive lemur;America
+Witold's and Jerzy's;White-bellied
+Kumciaczkos;Field flicker;British 
+Kloburg;Shrike, southern white-cro
+Miautex;Kelp gull;Ragdoll;2020-09-
+Witold's and Jerzy's;Cockatoo, red
+Xen;Coqui partridge;Siamese;2020-0
+Kloburg;Kingfisher, pied;Maine Coo
+Kumciaczkos;Moose;Scottish Fold;20
+Xen;Red squirrel;Siamese;2022-04-3
+Holoubek Corp;Hanuman langur;Ragdo
+Holoubek Corp;Sunbird, lesser doub
+Sznippers;Swallow-tail gull;Sphynx
+Miautex;Badger, european;Ragdoll;2
+Miautex;Egyptian goose;Scottish Fo
+Miautex;Legaan, Monitor (unidentif
+Holoubek Corp;Chilean flamingo;Ame
+Kumciaczkos;Red-billed hornbill;Am
+Sznippers;Eagle, golden;Persian;20
+Witold's and Jerzy's;Australian ma
+Xen;Pied cormorant;Bengal;2022-10-
+Sznippers;Cat, kaffir;Siamese;2022
+Xen;Cat, kaffir;American Shorthair
+Kumciaczkos;Arctic hare;Sphynx;202
+Xen;Water legaan;Persian;2023-01-2
+Holoubek Corp;Crane, black-crowned
+Miautex;Indian peacock;American Sh
+Miautex;Ant (unidentified);America
+Miautex;Fox, crab-eating;Russian B
+Miautex;Crimson-breasted shrike;Be
+Kumciaczkos;Cape wild cat;Siamese;
+Xen;African fish eagle;Persian;202
+Witold's and Jerzy's;Pale white-ey
+Xen;Verreaux's sifaka;British Shor
+Kumciaczkos;Dragon, western bearde
+Kloburg;Turtle, long-necked;Maine 
+Xen;Rat, desert kangaroo;British S
+Holoubek Corp;Baleen whale;Bengal;
+Kloburg;Eastern fox squirrel;Ameri
+Witold's and Jerzy's;Tokay gecko;M
+Kloburg;Iguana, land;Sphynx;2022-1
+Holoubek Corp;Kelp gull;Scottish F
+Witold's and Jerzy's;Blue catfish;
+Witold's and Jerzy's;Malachite kin
+Kloburg;Lesser double-collared sun
+Kumciaczkos;Marmot, hoary;Maine Co
+Xen;Boa, cook's tree;Ragdoll;2022-
+Kumciaczkos;Gecko, tokay;Bengal;20
+Kloburg;Weaver, chestnut;Persian;2
+Kloburg;Snowy owl;British Shorthai
+Xen;Chameleon (unidentified);Benga
+Kloburg;Sunbird, lesser double-col
+Xen;Skunk, striped;Scottish Fold;2
+Holoubek Corp;Meerkat, red;America
+Kloburg;Burmese brown mountain tor
+Kumciaczkos;Paca;Persian;2023-02-1
+Sznippers;Tawny frogmouth;Siamese;
+Kumciaczkos;Impala;Sphynx;2023-05-
+Miautex;Arctic lemming;Scottish Fo
+Sznippers;Snake, carpet;Persian;20
+Holoubek Corp;Stork, white;Bengal;
+Witold's and Jerzy's;Parakeet, ros
+Witold's and Jerzy's;Burrowing owl
+Xen;Andean goose;Persian;2021-07-1
+Kloburg;Blue racer;Maine Coon;2021
+Miautex;Langur, common;Russian Blu
+Kloburg;Currasow (unidentified);Ra
+Witold's and Jerzy's;Rattlesnake, 
+Xen;Fox, cape;Maine Coon;2020-09-1
+Witold's and Jerzy's;Tawny frogmou
+Holoubek Corp;Aardwolf;Russian Blu
+Holoubek Corp;Crow, house;Siamese;
+Holoubek Corp;Common green iguana;
+Xen;American black bear;Russian Bl
+Witold's and Jerzy's;Fox, bat-eare
+Xen;Rat, arboral spiny;American Sh
+Witold's and Jerzy's;Goose, greyla
+Kloburg;Saddle-billed stork;Persia
+Sznippers;Masked booby;Russian Blu
+Kloburg;Godwit, hudsonian;Maine Co
+Miautex;Magpie, black-backed;Ragdoll;2020-08-30T17:32:06Z;true;1011;Bell
+Holoubek Corp;California sea lion;Bengal;2022-11-10T12:04:31Z;false;1892;Rabbit
+Holoubek Corp;Griffon vulture;Russian Blue;2022-08-16T22:33:06Z;true;488;Bell
+Kumciaczkos;White-faced whistling duck;Scottish Fold;2022-10-02T03:23:37Z;true;1472;Fish
+Kloburg;Glossy ibis;Russian Blue;2020-05-20T21:01:54Z;false;384;Mouse
+Holoubek Corp;Pallas's fish eagle;Sphynx;2020-06-26T03:28:04Z;true;398;Ball
+Holoubek Corp;Pie, rufous tree;British Shorthair;2021-07-15T04:14:38Z;true;1342;Bell
+Holoubek Corp;Seal, harbor;American Shorthair;2022-01-12T04:50:39Z;true;912;Squirrel
+Kloburg;Kirk's dik dik;Maine Coon;2020-12-17T22:17:56Z;false;1498;Bell
+Witold's and Jerzy's;Australian sea lion;Russian Blue;2023-03-20T15:25:00Z;false;1960;Ball
+Xen;Magpie, black-backed;Maine Coon;2022-02-07T15:42:09Z;false;605;Yarn
+Kumciaczkos;Parakeet, rose-ringed;Maine Coon;2022-09-15T05:20:53Z;true;857;Rabbit
+Kloburg;Tortoise, burmese black mountain;Maine Coon;2020-11-03T20:47:10Z;true;1597;Fish
+Kumciaczkos;Golden brush-tailed possum;Maine Coon;2023-04-11T12:18:49Z;true;1764;Yarn
+Kloburg;Coyote;Persian;2022-12-26T03:06:36Z;true;1191;Fish
+Kumciaczkos;Heron, green;British Shorthair;2023-01-06T22:03:04Z;true;1500;Ball
+Sznippers;Agama lizard (unidentified);Ragdoll;2023-01-01T21:34:47Z;false;810;String
+Sznippers;Penguin, magellanic;Scottish Fold;2022-12-04T07:31:36Z;false;1502;Mouse
+Miautex;Southern boubou;Bengal;2021-08-28T17:24:02Z;false;1055;String
+Miautex;Ovenbird;Sphynx;2020-04-27T02:49:34Z;false;474;Feather
+Kloburg;Viper, egyptian;Sphynx;2021-07-14T16:49:10Z;true;902;String
+Xen;Goldeneye, common;American Shorthair;2021-01-20T04:43:58Z;true;1004;Feather
+Witold's and Jerzy's;Gnu, brindled;Siamese;2020-05-14T00:58:21Z;false;1123;Squirrel
+Xen;Macaw, scarlet;Ragdoll;2020-10-07T17:09:55Z;true;1782;String
+Miautex;Four-spotted skimmer;American Shorthair;2021-01-20T20:46:51Z;false;1185;Yarn
+Sznippers;Four-spotted skimmer;Scottish Fold;2022-07-04T19:51:56Z;true;961;Rabbit
+Witold's and Jerzy's;Long-tailed skua;Sphynx;2020-09-09T19:13:49Z;false;1577;Bell
+Miautex;Great egret;American Shorthair;2022-04-20T02:40:07Z;false;1613;Ball
+Sznippers;Pallas's fish eagle;Russian Blue;2020-07-10T03:44:07Z;false;416;Squirrel
+Kloburg;Bat-eared fox;Siamese;2020-11-20T20:12:05Z;true;843;Mouse
+Witold's and Jerzy's;Collared lizard;Siamese;2022-12-23T15:54:03Z;true;382;Squirrel
+Witold's and Jerzy's;Quail, gambel's;British Shorthair;2022-02-04T17:56:50Z;true;885;String
+Holoubek Corp;African buffalo;Bengal;2020-06-21T05:16:57Z;true;1895;Mouse
+Miautex;Blue-tongued lizard;Sphynx;2020-05-26T10:57:08Z;true;1560;Fish
+Kloburg;Crow, pied;Persian;2023-02-01T02:17:19Z;false;461;String
+Xen;Robin, kalahari scrub;British Shorthair;2022-09-01T22:49:44Z;false;1040;Bell
+Witold's and Jerzy's;Goanna lizard;Siamese;2022-05-26T01:41:14Z;false;945;Yarn
+Holoubek Corp;Wild boar;Maine Coon;2023-01-21T23:36:09Z;true;278;Butterfly
+Sznippers;Eagle, tawny;Bengal;2022-06-16T18:36:11Z;true;863;Yarn
+Sznippers;Asiatic jackal;Maine Coon;2022-05-13T01:56:10Z;true;1759;Squirrel
+Miautex;Black curlew;Scottish Fold;2022-08-29T11:36:48Z;false;1756;Bell
+Kumciaczkos;Red-tailed cockatoo;Sphynx;2020-09-03T10:31:49Z;true;1586;Butterfly
+Sznippers;Common seal;Maine Coon;2023-05-15T06:49:07Z;true;1862;Butterfly
+Miautex;Otter, oriental short-clawed;Bengal;2023-04-10T14:12:56Z;false;1728;Feather
+Sznippers;Turaco, violet-crested;Bengal;2022-05-25T03:02:01Z;true;1844;Rabbit
+Xen;Trumpeter, dark-winged;Bengal;2021-12-10T22:49:27Z;true;1216;Feather
+Sznippers;European shelduck;Siamese;2021-01-25T21:02:38Z;true;608;Ball
+Miautex;Cuis;Ragdoll;2022-01-05T08:40:58Z;true;408;Yarn
+Witold's and Jerzy's;Lechwe, kafue flats;Bengal;2023-04-03T12:19:10Z;false;624;Butterfly
+Witold's and Jerzy's;Dusky rattlesnake;American Shorthair;2022-04-30T20:57:20Z;false;601;Fish
+Witold's and Jerzy's;Hen, sage;American Shorthair;2021-08-28T09:45:27Z;false;959;Yarn
+Witold's and Jerzy's;Eagle, white-bellied sea;Ragdoll;2022-11-30T22:18:53Z;false;565;Feather
+Holoubek Corp;Red-shouldered glossy starling;Persian;2023-04-28T15:30:40Z;false;1309;Fish
+Holoubek Corp;Indian red admiral;Siamese;2022-01-14T11:49:37Z;true;152;Yarn
+Miautex;Tern, white-winged;British Shorthair;2022-04-25T23:14:41Z;false;212;Fish
+Miautex;Buffalo, african;British Shorthair;2020-04-22T15:08:55Z;false;670;Feather
+Miautex;Green-backed heron;Siamese;2022-06-30T03:58:31Z;true;307;String
+Holoubek Corp;Defassa waterbuck;Maine Coon;2020-07-31T04:56:17Z;false;1851;Feather
+Kloburg;Ostrich;Sphynx;2021-11-19T15:07:13Z;false;1391;Rabbit
+Xen;North American porcupine;British Shorthair;2022-01-16T05:49:33Z;false;1788;Yarn
+Witold's and Jerzy's;White-eye, cape;American Shorthair;2021-09-30T00:25:11Z;false;183;Rabbit
+Witold's and Jerzy's;Brown capuchin;Russian Blue;2022-03-05T22:43:46Z;false;1257;Mouse
+Sznippers;Waxbill, blue;British Shorthair;2020-09-29T18:57:18Z;true;988;Yarn
+Miautex;Deer, barasingha;Siamese;2022-12-25T19:34:42Z;false;1030;Yarn
+Witold's and Jerzy's;Bandicoot, southern brown;Siamese;2023-04-21T18:23:26Z;false;1486;Yarn
+Witold's and Jerzy's;Lory, rainbow;Sphynx;2020-09-14T03:27:36Z;true;170;Rabbit
+Kumciaczkos;Ground monitor (unidentified);Russian Blue;2021-07-23T22:57:49Z;false;1829;Fish
+Kumciaczkos;Tortoise, asian foreset;British Shorthair;2022-11-06T09:22:25Z;true;1694;Yarn
+Holoubek Corp;White-fronted capuchin;Sphynx;2023-03-24T01:56:25Z;false;1124;Mouse
+Holoubek Corp;African bush squirrel;Sphynx;2022-04-01T11:48:02Z;false;653;Ball
+Holoubek Corp;Common goldeneye;Persian;2022-08-11T13:35:29Z;false;1495;String
+Witold's and Jerzy's;Cat, european wild;Persian;2021-09-07T01:28:20Z;true;455;Rabbit
+Sznippers;Indian star tortoise;Russian Blue;2022-03-16T22:41:23Z;true;1117;Bell
+Holoubek Corp;Canada goose;Maine Coon;2022-10-08T09:07:00Z;false;857;String
+Sznippers;Cormorant, little;American Shorthair;2022-07-04T14:56:04Z;false;1487;Bell
+Holoubek Corp;Chital;Maine Coon;2021-04-26T15:34:21Z;false;448;String
+Holoubek Corp;Monitor, two-banded;Sphynx;2022-12-26T14:07:36Z;true;827;Rabbit
+Sznippers;Hornbill, leadbeateri's ground;British Shorthair;2021-07-06T15:31:19Z;false;1165;Mouse
+Witold's and Jerzy's;Heron, yellow-crowned night;Ragdoll;2021-09-09T03:12:25Z;false;249;Ball
+Witold's and Jerzy's;Colobus, magistrate black;American Shorthair;2020-07-03T21:27:00Z;true;1045;Squirrel
+Holoubek Corp;Cape wild cat;Russian Blue;2021-07-12T04:22:31Z;true;931;Squirrel
+Holoubek Corp;Tiger cat;Maine Coon;2023-05-12T19:38:42Z;true;1716;Butterfly
+Kumciaczkos;Dragon, frilled;Ragdoll;2023-05-19T14:36:15Z;false;1632;Bell
+Kloburg;Scottish highland cow;Russian Blue;2022-04-07T14:53:44Z;true;1796;Rabbit
+Sznippers;Springbuck;Siamese;2021-03-15T17:29:07Z;true;1231;Ball
+Witold's and Jerzy's;Penguin, fairy;Siamese;2020-05-03T09:02:23Z;true;186;Fish
+Witold's and Jerzy's;Macaque, japanese;Maine Coon;2020-10-30T10:12:33Z;true;139;Feather
+Miautex;Cockatoo, red-tailed;American Shorthair;2020-09-06T19:04:10Z;true;1738;Fish
+Sznippers;Vicuna;Persian;2020-10-13T23:44:22Z;false;788;Bell
+Kloburg;Sandpiper, spotted wood;Ragdoll;2023-03-02T12:32:53Z;true;963;Squirrel
+Miautex;Jaguar;Russian Blue;2023-02-15T10:56:49Z;false;635;Squirrel
+Kumciaczkos;Bottle-nose dolphin;Persian;2023-03-18T00:49:28Z;false;310;Fish
+Kumciaczkos;Waved albatross;British Shorthair;2023-03-04T07:58:00Z;true;415;Squirrel
+Sznippers;Goose, cereopsis;British Shorthair;2021-10-08T07:44:38Z;true;1865;Fish
+Xen;Eurasian badger;American Shorthair;2021-08-23T02:35:03Z;true;1288;Squirrel
+Xen;Southern boubou;Siamese;2020-05-28T18:59:23Z;false;1581;Fish
+Kumciaczkos;Magnificent frigate bird;Bengal;2022-08-31T12:10:54Z;false;1195;Butterfly
+Xen;Spider, wolf;Sphynx;2020-08-06T11:15:53Z;false;899;Rabbit
+Miautex;Eleven-banded armadillo (unidentified);Ragdoll;2023-01-12T06:48:22Z;true;1617;Feather
+Kumciaczkos;Savanna fox;British Shorthair;2020-11-17T20:18:26Z;false;542;Bell
+Sznippers;Phalarope, northern;Sphynx;2021-09-29T18:01:08Z;false;137;Bell
+Miautex;Toucan, white-throated;Ragdoll;2020-05-28T01:11:46Z;true;1212;Fish
+Xen;Lemming, arctic;American Shorthair;2021-07-24T04:42:27Z;false;1929;Bell
+Kloburg;Red kangaroo;Ragdoll;2022-05-25T00:19:45Z;true;912;Squirrel
+Witold's and Jerzy's;Nelson ground squirrel;American Shorthair;2020-04-09T22:44:11Z;false;525;Mouse
+Holoubek Corp;Black-backed jackal;Persian;2023-05-24T12:07:19Z;true;1318;Butterfly
+Miautex;Mongoose, javan gold-spotted;Bengal;2020-10-26T13:19:51Z;false;567;Butterfly
+Sznippers;Butterfly (unidentified);Persian;2023-01-03T18:56:12Z;false;1740;Rabbit
+Xen;White-browed owl;Russian Blue;2021-03-17T04:10:35Z;true;617;Butterfly
+Holoubek Corp;Bee-eater, carmine;Maine Coon;2020-05-21T16:42:04Z;true;686;Rabbit
+Miautex;Sheep, stone;Sphynx;2020-11-15T06:37:23Z;false;150;Rabbit
+Sznippers;Oriental white-backed vulture;Siamese;2021-05-27T02:03:40Z;false;1336;Mouse
+Sznippers;Booby, blue-faced;Sphynx;2020-07-13T00:01:20Z;true;1137;Yarn
+Miautex;Mexican wolf;Sphynx;2020-12-21T06:54:07Z;true;1946;Squirrel
+Miautex;Monkey, vervet;Maine Coon;2020-09-02T06:39:13Z;true;761;Ball
+Holoubek Corp;Shrew, mandras tree;Siamese;2021-12-12T09:35:51Z;false;1579;Squirrel
+Holoubek Corp;Cat, miner's;Maine Coon;2023-05-07T19:19:24Z;true;469;Ball
+Miautex;Siskin, pine;Persian;2020-07-06T17:45:42Z;false;390;Feather
+Kumciaczkos;White-tailed jackrabbit;Persian;2022-11-05T08:06:10Z;true;389;Fish
+Kumciaczkos;Goose, snow;British Shorthair;2021-05-09T03:33:44Z;true;115;Mouse
+Kloburg;Red-tailed hawk;British Shorthair;2020-07-19T21:37:51Z;false;922;Butterfly
+Sznippers;Flamingo, greater;Bengal;2020-04-24T19:37:18Z;true;1846;Feather
+Kloburg;Four-horned antelope;Maine Coon;2021-10-13T19:47:44Z;true;1394;Fish
+Xen;Parakeet, rose-ringed;Siamese;2022-10-09T13:58:32Z;false;667;Rabbit
+Holoubek Corp;Raccoon, common;British Shorthair;2021-03-21T11:04:16Z;true;309;Butterfly
+Holoubek Corp;Rabbit, eastern cottontail;Siamese;2021-11-13T13:21:25Z;true;589;String
+Kumciaczkos;Bee-eater, nubian;Bengal;2022-01-01T20:15:57Z;false;1959;Rabbit
+Miautex;Griffon vulture;Bengal;2023-01-27T13:37:00Z;false;1919;Ball
+Witold's and Jerzy's;American Virginia opossum;Scottish Fold;2021-04-08T02:57:42Z;false;1642;Squirrel
+Xen;Coqui francolin;Sphynx;2021-08-11T18:25:52Z;false;1413;Butterfly
+Holoubek Corp;White-tailed jackrabbit;Siamese;2020-06-21T16:42:35Z;false;877;Squirrel
+Holoubek Corp;Lion, asian;British Shorthair;2020-06-19T06:01:08Z;false;235;Yarn
+Holoubek Corp;Chipmunk, least;Scottish Fold;2022-01-19T21:40:31Z;true;798;Squirrel
+Sznippers;Turaco, violet-crested;Bengal;2022-04-01T15:43:34Z;false;1580;Feather
+Witold's and Jerzy's;Bushbaby, large-eared;American Shorthair;2022-09-09T16:11:42Z;false;1075;Squirrel
+Holoubek Corp;Brown brocket;Maine Coon;2021-11-12T01:22:53Z;false;526;String
+Witold's and Jerzy's;Red-winged blackbird;Sphynx;2021-11-02T16:06:57Z;false;1434;Feather
+Miautex;Nutcracker, clark's;Siamese;2021-02-11T13:03:55Z;false;1968;Fish
+Miautex;Goliath heron;Bengal;2020-10-25T13:00:42Z;false;1427;Fish
+Miautex;Weaver, sociable;Scottish Fold;2023-01-31T05:24:00Z;false;1585;Bell
+Witold's and Jerzy's;Chital;Ragdoll;2021-04-06T07:15:30Z;false;1415;Feather
+Kloburg;Australian masked owl;Persian;2023-04-15T11:11:45Z;true;1760;Butterfly
+Holoubek Corp;Goose, egyptian;Maine Coon;2021-02-05T12:33:40Z;false;1817;String
+Holoubek Corp;Striped skunk;Siamese;2022-10-29T06:31:30Z;false;1209;Squirrel
+Sznippers;Constrictor, eastern boa;Siamese;2021-05-30T04:40:24Z;true;123;Yarn
+Holoubek Corp;Tokay gecko;Bengal;2021-06-16T15:48:24Z;true;1068;Mouse
+Sznippers;Dove, mourning collared;British Shorthair;2021-04-16T08:20:37Z;true;798;Yarn
+Witold's and Jerzy's;Red-billed hornbill;Russian Blue;2022-07-09T01:26:17Z;true;715;Butterfly
+Kumciaczkos;Sungazer, yellow-brown;Russian Blue;2021-04-16T22:15:23Z;false;1638;Mouse
+Kloburg;Gull, silver;Scottish Fold;2022-07-18T20:54:27Z;false;737;Feather
+Sznippers;Eagle, tawny;Siamese;2021-10-13T18:41:29Z;false;1854;String
+Holoubek Corp;Prehensile-tailed porcupine;British Shorthair;2020-05-30T21:24:15Z;false;1226;Butterfly
